@@ -20,6 +20,8 @@ Wirtschaftlich attraktive Kunden, die sich ein gewisses Mindestmaß an Qualität w
 
 Einseitige Projekte sind mir noch keine untergekommen (je nach Sichtweise
 
+Ich hoffe dass die Abwechslung sich nicht auf die Mitarbeiter-Fluktuation bezieht (oder daraus folgt).
+
 > Verstärken Sie unser Team als  
 Junior / Senior Softwareentwickler (m/w/d)  
 Graz, Wien
@@ -31,23 +33,29 @@ habe ich beschlossen, mich für die obige Position zu bewerben.
 
 Hierbei möchte ich von Anfang an meine Genauigkeit sowie die Teamfähigkeit gleich hier unter Beweis stellen, um Sie von der.
 
+#### Aufgaben
+
 > Als Junior / Senior Softwareentwickler (m/w/d) sind Sie für das Design und die Entwicklung von Softwareapplikationen verantwortlich
 
 Mir ist vollkommen klar, dass ein Softwareentwickler für die Entwicklung von Software zuständig ist, so wie ein Maurer für die Erstellung von Mauerwerk. 
 
-> Sie entwickeln neue und warten bestehenden Softwareanwendungen
+> Sie entwickeln neue und warten bestehende~~n~~ Softwareanwendungen
 
 Nachdem die Wartung bestehender Lösungen recht abwechslungsarm ausfallen könnte, hoffe ich, dass die Entwicklung neuer Anwendungen überwiegt.
 
-> Dabei erarbeiten Sie innovativer Konzepte und Lösungen
+> Dabei erarbeiten Sie innovative~~r~~ Konzepte und Lösungen
 
 Ich fange mal mit einer innovativen Bewerbung an,
 
 > Zudem definieren Sie Anforderungsspezifikationen, führen Softwaretests durch und übernehmen die technische Dokumentation
 
-indem ich die Anforderungsspezifikation der ausgeschriebenen Stelle hinterfrage, dies schriftlich festhalte und als einen Test betrachte, dessen Ausgang Ihre Rückmeldung bestimmen wird. 
+indem ich die Anforderungsspezifikation der ausgeschriebenen Stelle analysiere, dies schriftlich festhalte und als einen Test betrachte, dessen Ausgang Ihre Rückmeldung bestimmen wird. 
 
-Technisch betrachtet werde ich in einer Markup-Sprache (namens `Markdown`) schreiben, das Geschriebene mit Hilfe von Git versionieren sowie auf GitHub online zur Verfügung stellen.
+Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`) schreiben, versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub]() online zur Verfügung.
+
+> Auch die Fehleranalyse und –behebung zählt zu Ihren Aufgaben
+
+Des Weiteren korrigiere ich ein paar Tippfehler und stufe diese als marginal ein.
 
 > Sie agieren als Schnittstelle zwischen internen und externen Partnern
 
@@ -56,6 +64,8 @@ Anders formuliert: ein Ansprechpartner für alle (interne und externe) Partner.
 > Schließlich zählt auch fallweise die Installation, Konfiguration und Wartung von IT-Umgebungen sowie Netzwerklösungen zu Ihren Aufgaben
 
 Meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration sowie das Interesse für Hardware / IT-Support sind begrenzt (sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnden Software betrifft).
+
+#### Profil
 
 > Sie verfügen über eine abgeschlossene technische Ausbildung (HTL, FH, TU) in Softwareentwicklung, Informatik, Telematik o.Ä.
 
@@ -98,7 +108,7 @@ Gleichzeitig würde ich mir von dem Team, das Sie vertreten, einen konstruktiven 
 
 > Ihre guten Englisch-Kenntnisse runden Ihr Profil ab
 
-Von meinen (technischen) Englisch-Kenntnissen könnten Sie sich unter https://github.com/235u/proposals überzeugen lassen.
+Einsicht in meine (technischen) Englisch-Kenntnisse könnten meine https://github.com/235u/proposals gewähren.
 
 > Gehaltsspanne: € 2.300 brutto pro Monat auf Basis 38,5 h/ Woche je nach Qualifikation und Erfahrung
 
