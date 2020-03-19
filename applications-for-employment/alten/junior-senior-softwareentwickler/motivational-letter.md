@@ -1,35 +1,36 @@
-# Junior / Senior Softwareentwickler (m/w/d), Graz, Wien
+# Junior / Senior Softwareentwickler
 
-Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5662416) (Stelleninserat vom 11.03.2020, s. [Druckversion](media/karriere.at.pdf)) sowie auf [alten.at](https://www.alten.at/karriere/jobs/2051-junior-senior-software-entwicklung-ker/) (s. [Druckversion](media/alten.at.pdf)).
+Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5662416) (Stelleninserat vom 11.03.2020, s. [Druckversion](media/karriere.at.pdf)) sowie auf [alten.at](https://www.alten.at/karriere/jobs/2051-junior-senior-software-entwicklung-ker/) (s. [Druckversion](media/alten.at.pdf)) für Graz, Wien.
 
 ## Anschreiben
 
+Sehr geehrte Frau Roth,
+
 ### Kurzfassung
+
+hiermit möchte ich ein innovatives Konzept und, bei Interesse, auch die fertige Lösung als Bewerbung für die obige Position vorstellen.
+
+Das Konzept ist denkbar einfach: Ich versuche alle relevanten Infos für Sie an einem Ort zusammenzufassen sowie die üblichen Floskeln sein zu lassen. So werden Sie z. B. kein Foto (Lebenslauf / Zeugnisse) vorfinden, dafür  , die gleichzeitig die Beweisführung sein sollte
+
+, sofern Sie erlauben,
+
+Einer Art "Schriftprobe", als Beweisführung, statt üblic
 
 ### Langfassung
 
-Sehr geehrte Frau Roth,
+hiermit möchte ich die fertige Lösung (mehr einen Prototyp) vorstellen, um meine Denk- / Sicht- / Vorgangsweisen "live" anhand vorliegender Stellenbeschreibung zu demonstrieren.
 
 > Machen Sie sich auf den Weg zu ALTEN Austria. Bei uns, einem der europaweit führenden Entwicklungsdienstleister, erleben Sie in wenigen Jahren so viel wie andere ihr Leben lang nicht. 
 
-sehr gern würde ich mich zu den europaweit Führenden mitzählen lassen, um in wenigen Jahren so viel Positives, oder zumindest Lehrreiches, wie andere ihr Leben lang nicht, zu erleben.
+Sehr gern würde ich mich zu den europaweit Führenden mitzählen lassen, um in wenigen Jahren so viel Positives, hoffe ich, oder zumindest Lehrreiches, wie andere ihr Leben lang nicht, zu erleben.
 
 > Attraktive Kunden und vielseitige Projekte rund um Entwicklung und Beratung sorgen für Abwechslung pur.
 
 Wirtschaftlich attraktive Kunden, die sich ein gewisses Mindestmaß an Qualität wertschätzend leisten können, sind mir Gold wert.
 
-Einseitige Projekte sind mir noch keine untergekommen (je nach Sichtweise
+Einseitige Projekte sind mir beruflich noch keine untergekommen (je nach Sichtweise könnte man Projekte, die "für die Schublade" geschrieben werden, als solche bezeichnen).
 
 Ich hoffe dass die Abwechslung sich nicht auf die Mitarbeiter-Fluktuation bezieht (oder daraus folgt).
-
-> Verstärken Sie unser Team als  
-Junior / Senior Softwareentwickler (m/w/d)  
-Graz, Wien
-
-Bewerbe ich mich
-für den Grazer, wobei für mich auch Wien in Zukunft denkbar wäre.
-
-habe ich beschlossen, mich für die obige Position zu bewerben. 
 
 Hierbei möchte ich von Anfang an meine Genauigkeit sowie die Teamfähigkeit gleich hier unter Beweis stellen, um Sie von der.
 
@@ -49,7 +50,7 @@ Ich fange mal mit einer innovativen Bewerbung an,
 
 > Zudem definieren Sie Anforderungsspezifikationen, führen Softwaretests durch und übernehmen die technische Dokumentation
 
-indem ich die Anforderungsspezifikation der ausgeschriebenen Stelle analysiere, dies schriftlich festhalte und als einen Test betrachte, dessen Ausgang Ihre Rückmeldung bestimmen wird. 
+indem ich die Anforderungsspezifikation der ausgeschriebenen Stelle hinterfrage, dies schriftlich festhalte und als einen Test betrachte, dessen Ausgang Ihre Rückmeldung bestimmen wird. 
 
 Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`) schreiben, versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub]() online zur Verfügung.
 
@@ -63,7 +64,7 @@ Anders formuliert: ein Ansprechpartner für alle (interne und externe) Partner.
 
 > Schließlich zählt auch fallweise die Installation, Konfiguration und Wartung von IT-Umgebungen sowie Netzwerklösungen zu Ihren Aufgaben
 
-Meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration sowie das Interesse für Hardware / IT-Support sind begrenzt (sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnden Software betrifft).
+Meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration sind begrenzt, gleichwie das Interesse für Hardware / IT-Support im Allgemeinen, sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnde Software betrifft.
 
 #### Profil
 
@@ -94,7 +95,7 @@ Bitte beachten Sie, dass
 
 - `SQL` (Structured Query Language) und `.NET` (Plattform / Sammelbegriff für mehrere Technologien von Microsoft) keine Datenbanksysteme sind.
 
-Berufliche Erfahrung hätte ich mit (nach Umfang und Alter: `MSSQL`, `SQLite`, `Oracle` und `MySQL`.
+Berufliche Erfahrung hätte ich mit: `Microsoft SQL Server`, `SQLite`, `Oracle` und `MySQL`.
 
 > Kenntnisse in SCADA Systemen (WinCC /ZENON / InTouch) in Verbindung mit speicherprogrammierbaren Steuerungen (SPS) sind von Vorteil
 
