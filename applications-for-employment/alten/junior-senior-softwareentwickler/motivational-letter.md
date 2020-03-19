@@ -52,7 +52,7 @@ Ich fange mal mit einer innovativen Bewerbung an,
 
 indem ich die Anforderungsspezifikation der ausgeschriebenen Stelle hinterfrage, dies schriftlich festhalte und als einen Test betrachte, dessen Ausgang Ihre Rückmeldung bestimmen wird. 
 
-Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`) schreiben, versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub]() online zur Verfügung.
+Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`) schreiben, versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung.
 
 > Auch die Fehleranalyse und –behebung zählt zu Ihren Aufgaben
 
@@ -109,7 +109,7 @@ Gleichzeitig würde ich mir von dem Team, das Sie vertreten, einen konstruktiven 
 
 > Ihre guten Englisch-Kenntnisse runden Ihr Profil ab
 
-Einsicht in meine (technischen) Englisch-Kenntnisse könnten meine https://github.com/235u/proposals gewähren.
+Für meine (technischen) Englisch-Kenntnisse s. meine https://github.com/235u/proposals gewähren (sowie https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md für weitere Infos zu meinem Profil).
 
 > Gehaltsspanne: € 2.300 brutto pro Monat auf Basis 38,5 h/ Woche je nach Qualifikation und Erfahrung
 
