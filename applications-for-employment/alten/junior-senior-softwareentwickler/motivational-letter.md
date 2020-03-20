@@ -37,11 +37,11 @@ Wirtschaftlich attraktive Kunden, die sich ein gewisses Mindestmaß an Qualität
 
 > Als Junior / Senior Softwareentwickler (m/w/d) sind Sie für das Design und die Entwicklung von Softwareapplikationen verantwortlich
 
-Es wäre naheliegend, dass ein Softwareentwickler für die Entwicklung von Software zuständig sei, wie ein Maurer für die Erstellung von Mauerwerk. Und sollte Software-Design einen Teilbereich der Software-Entwicklung darstellen, so wäre der Für-das-Ganze-Verantwortliche auch für dessen Teilbereiche verantwortlich.
+Es wäre naheliegend anzunehmen, dass ein Softwareentwickler für die Entwicklung von Software zuständig wäre, wie ein Maurer für die Erstellung von Mauerwerk. Und sollte Software-Design einen Teilbereich der Software-Entwicklung darstellen, so wäre der Für-das-Ganze-Verantwortliche auch für dessen Teilbereiche verantwortlich.
 
 > Sie entwickeln neue und warten bestehende~~n~~ Softwareanwendungen
 
-Nachdem die Wartung bestehender Lösungen recht abwechslungsarm ausfallen könnte, hoffe ich, dass die Entwicklung neuer Anwendungen überwiegt. Außerdem würde ich es begrüßen, wenn diejenigen, die neue Anwendungen entwickeln, diese auch warten, um dies während der Neu-Entwicklung zu berücksichtigen (und ggf. den Umgang mit der Mitarbeiter-Fluktuation zu überdenken).
+Nachdem die Wartung bestehender Lösungen recht abwechslungsarm ausfallen könnte, hoffe ich, dass die Entwicklung neuer Anwendungen überwiegt. Außerdem würde ich es begrüßen, wenn diejenigen, die die neuen Anwendungen entwickeln, diese auch warten, um dies während der Neu-Entwicklung zu berücksichtigen (und ggf. den Umgang mit der Mitarbeiter-Fluktuation zu überdenken).
 
 > Dabei erarbeiten Sie innovative~~r~~ Konzepte und Lösungen
 
@@ -53,7 +53,7 @@ Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Mark
 
 > Auch die Fehleranalyse und -behebung zählt zu Ihren Aufgaben
 
-Im Prozess stoße ich auf Tippfehler, die ich korrigiere und als marginal einstufe.
+Im Prozess stoße ich auf wenige Tippfehler, die ich korrigiere und als marginal einstufe.
 
 > Sie agieren als Schnittstelle zwischen internen und externen Partnern
 
