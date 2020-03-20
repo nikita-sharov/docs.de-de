@@ -101,7 +101,7 @@ Ich habe oberflächliche Vorstellungen von SCADA-Systemen, wobei ich als Softwar
 
 In einem inhomogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten, um Unter- bzw. Überforderung zu meiden, dem schonenden und effektiven Umgang mit den menschlichen Ressourcen zu Liebe.
 
-Zu guter Letzt wird der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigem Raum, wie ein Bindestrich auch, mit einen Viertelgeviertstrich (auch Kurzstrich) dargestellt.
+Und nebenbei bemerkt, wird der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigem Raum, wie ein Bindestrich auch, mit einen Viertelgeviertstrich (auch Kurzstrich) dargestellt.
 
 _Fehleranalyse und -behebung_  
 _Fehleranalyse und –behebung_
