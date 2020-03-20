@@ -4,11 +4,11 @@ Dieses und jenes
 
 ## Bewerbungen
 
-Bla
+Aktuelle Bewerbungen
 
-|Unternehmen|Position|Ausgeschrieben am|Beworben am|Rückmeldung erhalten|
-|:----------|:-------|:---------------:|:---------:|:------------------:|
-|[ALTEN Austria Süd GmbH](https://www.alten.at)|[Senior Softwareentwickler](applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md)|11.03.2020|19.03.2020|:x:|
+|Unternehmen|Position|Ausgeschrieben am|
+|:----------|:-------|:---------------:|
+|[ALTEN Austria SÃ¼d GmbH](https://www.alten.at)|[Junior / Senior Softwareentwickler](applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md)|11.03.2020|
 
 
 
