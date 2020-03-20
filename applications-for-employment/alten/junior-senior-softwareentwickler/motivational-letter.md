@@ -41,7 +41,7 @@ Hierbei möchte ich von Anfang an meine Genauigkeit sowie die Teamfähigkeit gle
 
 > Als Junior / Senior Softwareentwickler (m/w/d) sind Sie für das Design und die Entwicklung von Softwareapplikationen verantwortlich
 
-Mir ist vollkommen klar, dass ein Softwareentwickler für die Entwicklung von Software zuständig ist, so wie ein Maurer für die Erstellung von Mauerwerk. 
+Man könnte meinen, dass ein Softwareentwickler genauso für die Entwicklung von Software zuständig wäre, wie ein Maurer für die Erstellung von Mauerwerk. Sollte Software-Design einen Teilbereich der Software-Entwicklung darstellen, wäre derjenige, der für das Ganze verantwortlich ist, auch für dessen Teilbereiche verantwortlich sein.
 
 > Sie entwickeln neue und warten bestehende~~n~~ Softwareanwendungen
 
