@@ -117,5 +117,5 @@ S. englische Version des Anschreibens.
 Fehlt hier nicht der obere Bereich der Spanne?
 
 Mit noch mehr freundlichen Grüßen,  
-nachdem Sie wohl das Ganze gelesen haben,  
+nachdem Sie das Ganze gelesen haben,  
 Nikita Sharov
