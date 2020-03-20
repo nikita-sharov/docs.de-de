@@ -8,9 +8,7 @@ Sehr geehrte Frau Roth,
 
 ### Kurzfassung
 
-hiermit möchte ich ein innovatives Konzept und, bei Interesse, auch die fertige Lösung als Bewerbung für die obige Position vorstellen.
-
-Das Konzept ist denkbar einfach: Ich versuche alle relevanten Infos für Sie an einem Ort zusammenzufassen sowie die üblichen Floskeln sein zu lassen. So werden Sie z. B. kein Foto (Lebenslauf / Zeugnisse) vorfinden, dafür  , die gleichzeitig die Beweisführung sein sollte
+hiermit möchte ich ein innovatives Konzept (und bei Interesse auch die fertige Lösung) als Bewerbung für die obige Position vorstellen. Das Konzept ist denkbar einfach: Ich versuche alle relevanten Infos für Sie an einem Ort zusammenzufassen sowie die üblichen Floskeln sein zu lassen. So werden Sie z. B. kein Foto (Lebenslauf / Zeugnisse) vorfinden, dafür  , die gleichzeitig die Beweisführung sein sollte
 
 , sofern Sie erlauben,
 
@@ -52,7 +50,7 @@ Ich fange mal mit einer innovativen Bewerbung an,
 
 indem ich die Anforderungsspezifikation der ausgeschriebenen Stelle hinterfrage, dies schriftlich festhalte und als einen Test betrachte, dessen Ausgang Ihre Rückmeldung bestimmen wird. 
 
-Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`) schreiben, versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung.
+Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`) schreiben, versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (für die aktuellste Version, inkl. Versionsgeschichte).
 
 > Auch die Fehleranalyse und –behebung zählt zu Ihren Aufgaben
 
@@ -95,11 +93,11 @@ Bitte beachten Sie, dass
 
 - `SQL` (Structured Query Language) und `.NET` (Plattform / Sammelbegriff für mehrere Technologien von Microsoft) keine Datenbanksysteme sind.
 
-Berufliche Erfahrung hätte ich mit: `Microsoft SQL Server`, `SQLite`, `Oracle` und `MySQL`.
+Berufliche Erfahrung hätte ich mit: `MSSQL`, `SQLite`, `Oracle` und `MySQL`.
 
 > Kenntnisse in SCADA Systemen (WinCC /ZENON / InTouch) in Verbindung mit speicherprogrammierbaren Steuerungen (SPS) sind von Vorteil
 
-Ich habe nur oberflächliche Vorstellungen von `SCADA`-Systemen, wobei ich als Softwareentwickler in der Industrie- und Gebäude-Automatisierung angefangen habe (2005), jedoch auf einer "tieferen", je nach Betrachtungsweise, Ebene (Embedded Systems / Firmware verbauter Steuerungen / Entwicklung in `C`, `C++`, `C#`).
+Ich habe nur oberflächliche Vorstellungen von `SCADA`-Systemen, wobei ich als Softwareentwickler in der Industrie- und Gebäude-Automatisierung angefangen habe, jedoch auf einer "tieferen", je nach Betrachtungsweise, Ebene (Embedded Systems / Firmware verbauter Steuerungen / Entwicklung in `C`, `C++`, `C#`).
 
 > Teamfähigkeit und Genauigkeit zeichnen Sie aus
 
@@ -109,7 +107,7 @@ Gleichzeitig würde ich mir von dem Team, das Sie vertreten, einen konstruktiven 
 
 > Ihre guten Englisch-Kenntnisse runden Ihr Profil ab
 
-Für meine (technischen) Englisch-Kenntnisse s. meine https://github.com/235u/proposals gewähren (sowie https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md für weitere Infos zu meinem Profil).
+Für meine (technischen) Englisch-Kenntnisse s. meine https://github.com/235u/proposals gewähren (sowie für [weitere Infos](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md) zu meinem Profil).
 
 > Gehaltsspanne: € 2.300 brutto pro Monat auf Basis 38,5 h/ Woche je nach Qualifikation und Erfahrung
 
