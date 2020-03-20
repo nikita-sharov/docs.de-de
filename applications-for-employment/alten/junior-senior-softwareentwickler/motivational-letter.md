@@ -95,7 +95,7 @@ Berufliche Erfahrung hätte ich mit: `MSSQL`, `SQLite`, `Oracle` und `MySQL`.
 
 > Kenntnisse in SCADA Systemen (WinCC / ZENON / InTouch) in Verbindung mit speicherprogrammierbaren Steuerungen (SPS) sind von Vorteil
 
-Ich verfüge über oberflächliche Vorstellungen von `SCADA`-Systemen, wobei ich als Softwareentwickler in der Industrie- und Gebäude-Automatisierung anfing (Embedded Systems / Firmware verbauter Steuerungen / Entwicklung in `C`, `C++`, `C#`).
+Ich habe oberflächliche Vorstellungen von SCADA-Systemen, wobei ich als Softwareentwickler in der Industrie- und Gebäude-Automatisierung anfing (Embedded Systems / Firmware verbauter Steuerungen / Entwicklung in `C`, `C++`, `C#`).
 
 > Teamfähigkeit und Genauigkeit zeichnen Sie aus
 
@@ -116,6 +116,6 @@ S. englische Version des Anschreibens.
 
 Fehlt hier nicht der obere Bereich der Spanne?
 
-Mit noch mehr freundlichen Grüßen,
-nachdem Sie wohl das Ganze gelesen haben,
+Mit noch mehr freundlichen Grüßen,  
+nachdem Sie wohl das Ganze gelesen haben,  
 Nikita Sharov
