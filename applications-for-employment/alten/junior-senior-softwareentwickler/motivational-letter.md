@@ -1,6 +1,6 @@
 # Junior / Senior Softwareentwickler
 
-Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5662416) (Stelleninserat vom 11.03.2020, s. [Druckversion](media/karriere.at.pdf)) sowie auf [alten.at](https://www.alten.at/karriere/jobs/2051-junior-senior-software-entwicklung-ker/) (s. [Druckversion](media/alten.at.pdf)) für Graz, Wien, eventuell in Überschneidung mit 
+Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5326814) (Stelleninserat vom 11.03.2020, s. [Druckversion](media/karriere.at.pdf)) sowie auf [alten.at](https://www.alten.at/karriere/jobs/2051-junior-senior-software-entwicklung-ker/) (s. [Druckversion](media/alten.at.pdf)) für Graz, Wien; eventuell in Überschneidung mit [Software Developer C#](https://github.com/nikita-sharov/docs/blob/master/applications-for-employment/alten/software-developer-csharp/motivational-letter.md) (Standort: Graz, Referenznummer: 3461, Ansprechpartner: [Barbara Stankovic](mailto:career@de.alten.com)).
 
 ## Anschreiben
 
@@ -8,20 +8,20 @@ Sehr geehrte Frau Roth,
 
 ### Kurzfassung
 
-hiermit möchte ich ein innovatives Konzept (und bei Interesse auch die fertige Lösung) als Bewerbung für die obige Position vorstellen. Das Konzept ist denkbar einfach: Ich versuche alle relevanten Infos für Sie an einem Ort zusammenzufassen sowie die üblichen Floskeln sein zu lassen. So werden Sie z. B. kein Foto (Lebenslauf / Zeugnisse) vorfinden, dafür  , die gleichzeitig die Beweisführung sein sollte
+hiermit möchte ich ein innovatives Konzept als Bewerbung für die obige Position vorstellen, und, bei Interesse, auch die fertige Lösung. Das Konzept ist denkbar einfach: Ich versuche alle relevanten Infos für Sie an einem Ort zusammenzufassen sowie die üblichen Floskeln sein zu lassen. So werden Sie z. B. kein Foto (Lebenslauf / Zeugnisse) vorfinden, dafür  , die gleichzeitig die Beweisführung sein sollte
 
 , sofern Sie erlauben,
 
 Einer Art "Schriftprobe", als Beweisführung, statt üblic
 
-Die wichtigsten Kontaktdaten werden Sie dem Online-Formular entnehmen können.
+Meine Kontaktdaten werden Sie dem (von mir ausgefüllten) [Online-Formular](https://www.alten.at/karriere/bewerbung/2051/ALT/KAT) entnehmen können.
 
-Mit freundlichen Grüßen,
+Mit freundlichen Grüßen,  
 Nikita Sharov
 
 ### Langfassung
 
-hiermit möchte ich die fertige Lösung (mehr einen Prototyp) vorstellen, um meine Denk- / Sicht- / Vorgangsweisen "live" anhand vorliegender Stellenbeschreibung zu demonstrieren und die gesuchten Qualitäten womöglich unter Beweis zu stellen.
+hiermit möchte ich einer Art "Schriftprobe" vorstellen, um meine Denk- / Sicht- / Vorgangsweisen anhand vorliegender Stellenbeschreibung zu demonstrieren und die gesuchten Qualitäten womöglich unter Beweis zu stellen.
 
 > Machen Sie sich auf den Weg zu ALTEN Austria. Bei uns, einem der europaweit führenden Entwicklungsdienstleister, erleben Sie in wenigen Jahren so viel wie andere ihr Leben lang nicht. 
 
@@ -31,7 +31,7 @@ Sehr gern würde ich mich zu den europaweit Führenden mitzählen lassen, um in 
 
 Wirtschaftlich attraktive Kunden, die sich ein gewisses Mindestmaß an Qualität wertschätzend leisten können, sind mir Gold wert.
 
-Einseitige Projekte sind mir beruflich noch keine untergekommen (je nach Sichtweise könnte man Projekte, die "für die Schublade" geschrieben werden, als solche bezeichnen).
+Einseitige Projekte sind mir beruflich noch keine untergekommen (je nach Sichtweise könnte man "Forschungsprojekte", die "für die Schublade" geschrieben werden, als solche bezeichnen).
 
 Ich hoffe, dass die Abwechslung sich nicht auf die Mitarbeiter-Fluktuation bezieht (oder daraus folgt).
 
@@ -41,7 +41,7 @@ Hierbei möchte ich von Anfang an meine Genauigkeit sowie die Teamfähigkeit gle
 
 > Als Junior / Senior Softwareentwickler (m/w/d) sind Sie für das Design und die Entwicklung von Softwareapplikationen verantwortlich
 
-Man könnte meinen, dass ein Softwareentwickler genauso für die Entwicklung von Software zuständig wäre, wie ein Maurer für die Erstellung von Mauerwerk. Sollte Software-Design einen Teilbereich der Software-Entwicklung darstellen, wäre derjenige, der für das Ganze verantwortlich ist, auch für dessen Teilbereiche verantwortlich sein.
+Man könnte meinen, dass ein Softwareentwickler genauso für die Entwicklung von Software zuständig wäre, wie ein Maurer für die Erstellung von Mauerwerk. Sollte Software-Design einen Teilbereich der Software-Entwicklung darstellen, wäre derjenige, der für das Ganze verantwortlich ist, auch für dessen Teilbereiche verantwortlich.
 
 > Sie entwickeln neue und warten bestehende~~n~~ Softwareanwendungen
 
@@ -83,17 +83,15 @@ sowie (zum Teil auch aufgrund von) 15 Jahre(n) beruflicher Erfahrung.
 
 Nachdem ich gewisse Kenntnisse in allen aufgelisteten Programmiersprachen mitbringe, versuche ich diese zu kategorisieren:
 
-- nach persönlichem Interesse (absteigend sortiert): `C#` / `JavaScript` / `HTML`, `Python`, `Assembler`;
+- nach persönlichem Interesse: `C#` / `JavaScript` / `HTML`, `Python`, `Assembler`;
 - nach Umfeld: berufliche Erfahrung mit `C`, `C++`, `C#`, `JavaScript`, `HTML`, und rein akademische (beinahe irrelevante, jedoch für den Erwerb neuer / Vertiefung bestehender Kenntnisse förderliche) Erfahrung mit `Java`, `Python`, `Assembler` (die im Folgenden von mir nicht mehr aufgelistet werden);
 - nach Umfang (grob absteigend sortiert, nach Anzahl geschriebener Zeilen in dieser Sprache): `C#`, `C` / `C++`, `HTML` / `JavaScript`;
 - nach Alter (der Zeit, in der ich in dieser Sprache geschrieben habe, chronologisch absteigend sortiert): `C#` / `HTML` / `JavaScript`, `C` / `C++`.
 
-
-
 Bitte beachten Sie, dass
 
 - `HTML` (Hypertext Markup Language), strenggenommen, keine Programmiersprache ist;
-- alle (auch in weiterer Folge) aufgelisteten Sprachen / Produkte / Technologien / Systeme, bildhaft gesprochen, ein Gebiet von der Kernphysik aus bis zur Astrophysik hin abdecken würden;
+- alle (auch in weiterer Folge) aufgelisteten Sprachen / Produkte / Technologien / Systeme, bildhaft gesprochen, ein Gebiet von der Kernphysik aus bis zur Astrophysik hin abdecken könnten;
 
 > Im Umgang mit Datenbanksystemen z.B. SQL, MySQL, .NET, Oracle oder PostgreSQL sind Sie versiert
 
@@ -113,7 +111,7 @@ Gleichzeitig würde ich mir von dem Team, das Sie vertreten, einen konstruktiven
 
 > Ihre guten Englisch-Kenntnisse runden Ihr Profil ab
 
-Für meine (technischen) Englisch-Kenntnisse s. meine https://github.com/235u/proposals gewähren (sowie für [weitere Infos](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md) zu meinem Profil).
+S. englische Version des Ganzen.
 
 > Gehaltsspanne: € 2.300 brutto pro Monat auf Basis 38,5 h/ Woche je nach Qualifikation und Erfahrung
 
