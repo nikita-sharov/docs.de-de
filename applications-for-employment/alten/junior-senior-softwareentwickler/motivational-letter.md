@@ -49,7 +49,7 @@ Mit aller Konsequenz (Gewalt funktioniert hier nicht), zwecks Nachhaltigkeit.
 
 > Zudem definieren Sie Anforderungsspezifikationen, führen Softwaretests durch und übernehmen die technische Dokumentation
 
-Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`) schreiben, versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (für die aktuellste Version, inkl. Versionsgeschichte, und evtl. ein besseres Leseerlebnis auf dem Bildschirm).
+Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`), versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (für die aktuellste Version, inkl. Versionsgeschichte, und evtl. ein besseres Leseerlebnis auf dem Bildschirm).
 
 > Auch die Fehleranalyse und -behebung zählt zu Ihren Aufgaben
 
