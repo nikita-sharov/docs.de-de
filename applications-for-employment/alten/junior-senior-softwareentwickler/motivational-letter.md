@@ -41,19 +41,19 @@ Es wäre naheliegend anzunehmen, dass ein Softwareentwickler für die Entwicklun
 
 > Sie entwickeln neue und warten bestehende~~n~~ Softwareanwendungen
 
-Nachdem die Wartung bestehender Lösungen recht abwechslungsarm ausfallen könnte, hoffe ich, dass die Entwicklung neuer Anwendungen überwiegt. Außerdem würde ich es begrüßen, wenn diejenigen, die die neuen Anwendungen entwickeln, diese auch warten, um dies während der Neu-Entwicklung zu berücksichtigen (und ggf. den Umgang mit der Mitarbeiter-Fluktuation zu überdenken).
+Nachdem die Wartung bestehender Lösungen recht abwechslungsarm ausfallen könnte, hoffe ich, dass die Entwicklung neuer Anwendungen überwiegt. Außerdem würde ich es begrüßen, wenn diejenigen, die die neuen Anwendungen entwickeln, diese auch warten, um dies während der Neu-Entwicklung zu berücksichtigen ~~(und ggf. den Umgang mit der Mitarbeiter-Fluktuation zu überdenken)~~.
 
 > Dabei erarbeiten Sie innovative~~r~~ Konzepte und Lösungen
 
-Mit aller Konsequenz (Gewalt funktioniert hier nicht), zwecks Nachhaltigkeit.
+Mit aller Konsequenz ~~(Gewalt funktioniert hier nicht)~~, zwecks Nachhaltigkeit.
 
 > Zudem definieren Sie Anforderungsspezifikationen, führen Softwaretests durch und übernehmen die technische Dokumentation
 
-Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`), versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (für die aktuellste Version, inkl. Versionsgeschichte, und evtl. ein besseres Leseerlebnis auf dem Bildschirm).
+Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`), versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (die aktuellste Version, inkl. Versionsgeschichte; evtl. ein besseres Leseerlebnis auf dem Bildschirm).
 
 > Auch die Fehleranalyse und -behebung zählt zu Ihren Aufgaben
 
-Im Prozess stoße ich auf wenige Tippfehler, die ich korrigiere und als marginal einstufe.
+Im Prozess stoße ich auf wenige Tippfehler, die ich behebe und als marginal einstufe.
 
 > Sie agieren als Schnittstelle zwischen internen und externen Partnern
 
@@ -85,7 +85,7 @@ Nachdem ich gewisse Kenntnisse in allen aufgelisteten Programmiersprachen mitbri
 Bitte beachten Sie, dass
 
 - `HTML` (Hypertext Markup Language), strenggenommen, keine Programmiersprache ist;
-- alle (auch in weiterer Folge) aufgelisteten Sprachen / Produkte / Technologien / Systeme, bildhaft gesprochen, ein Gebiet von der Kernphysik aus bis zur Astrophysik hin abdecken könnten;
+- alle (auch in weiterer Folge) aufgelisteten Sprachen / Produkte / Technologien / Systeme, bildhaft gesprochen, ein Gebiet von der Kernphysik aus bis zur Astrophysik hin abdecken würden;
 
 > Im Umgang mit Datenbanksystemen z.B. SQL, MySQL, .NET, Oracle oder PostgreSQL sind Sie versiert
 
@@ -95,7 +95,7 @@ Berufliche Erfahrung hätte ich mit: `MSSQL`, `SQLite`, `Oracle` und `MySQL`.
 
 > Kenntnisse in SCADA Systemen (WinCC / ZENON / InTouch) in Verbindung mit speicherprogrammierbaren Steuerungen (SPS) sind von Vorteil
 
-Ich habe oberflächliche Vorstellungen von SCADA-Systemen, wobei ich als Softwareentwickler in der Industrie- und Gebäude-Automatisierung anfing (Embedded Systems / Firmware verbauter Steuerungen / Entwicklung in `C`, `C++`, `C#`).
+Von SCADA-Systemen hätte ich nur eine oberflächliche Vorstellung, wobei ich als Softwareentwickler in der Industrie- und Gebäude-Automatisierung anfing (Embedded Systems / Firmware verbauter Steuerungen / Entwicklung in `C`, `C++`, `C#`).
 
 > Teamfähigkeit und Genauigkeit zeichnen Sie aus
 
@@ -117,5 +117,5 @@ S. englische Version des Anschreibens.
 Fehlt hier nicht der obere Bereich der Spanne?
 
 Mit noch mehr freundlichen Grüßen,  
-nachdem Sie das Ganze gelesen haben,  
+~~nachdem Sie das Ganze gelesen haben,~~  
 Nikita Sharov
