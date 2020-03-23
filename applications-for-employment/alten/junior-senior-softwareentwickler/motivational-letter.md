@@ -49,7 +49,7 @@ Mit aller Konsequenz ~~(Gewalt funktioniert hier nicht)~~, zwecks Nachhaltigkeit
 
 > Zudem definieren Sie Anforderungsspezifikationen, führen Softwaretests durch und übernehmen die technische Dokumentation
 
-Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`), versioniere das Geschriebene mit Hilfe von `Git`  und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (die aktuellste Version, inkl. Versionsgeschichte; evtl. ein besseres Leseerlebnis auf dem Bildschirm).
+Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`), versioniere das Geschriebene mit ~~Hilfe von~~ `Git` und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (die aktuellste Version, inkl. Versionsgeschichte; evtl. ein besseres Leseerlebnis auf dem Bildschirm).
 
 > Auch die Fehleranalyse und -behebung zählt zu Ihren Aufgaben
 
@@ -101,7 +101,7 @@ Von SCADA-Systemen hätte ich nur eine oberflächliche Vorstellung, wobei ich al
 
 In einem inhomogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten, um Unter- bzw. Überforderung zu meiden, dem schonenden und effektiven Umgang mit den menschlichen Ressourcen zu Liebe.
 
-Und nebenbei bemerkt, wird der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigem Raum, wie ein Bindestrich auch, mit einen Viertelgeviertstrich (auch Kurzstrich) dargestellt.
+Und nebenbei bemerkt, wird der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigem Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt.
 
 _Fehleranalyse und -behebung_  
 _Fehleranalyse und –behebung_
