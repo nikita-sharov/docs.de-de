@@ -1,10 +1,11 @@
 # Junior / Senior Softwareentwickler
 
-Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5326814) (Stelleninserat vom 11.03.2020, s. [Druckversion](media/karriere.at.pdf)) sowie auf [alten.at](https://www.alten.at/karriere/jobs/2051-junior-senior-software-entwicklung-ker/) (s. [Druckversion](media/alten.at.pdf)) für Graz, Wien; eventuell in Überschneidung mit der Stelle des [Software Developer C#](https://github.com/nikita-sharov/docs/blob/master/applications-for-employment/alten/software-developer-csharp/motivational-letter.md) (Standort: Graz, Referenznummer: 3461, Ansprechpartner: [Barbara Stankovic](mailto:career@de.alten.com)).
+Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5326814) (Stelleninserat vom / aktualisiert am 15.05.2020, s. [Druckversion](media/karriere.at.pdf)) sowie auf [alten.at](https://www.alten.at/karriere/jobs/2051-junior-senior-software-entwicklung-ker/) (Referenznummer: 2051, s. [Druckversion](media/alten.at.pdf)) für Graz, Wien; eventuell in Überschneidung mit der Stelle des [Software Developer C#](https://github.com/nikita-sharov/docs/blob/master/applications-for-employment/alten/software-developer-csharp/motivational-letter.md) (Standort: Graz, Referenznummer: 3461, Ansprechpartner: [Barbara Stankovic](mailto:career@de.alten.com)).
 
 ## Anschreiben
 
-Sehr geehrte Frau Roth,
+Sehr geehrte Frau Roth,  
+werte Kollegen,
 
 ### Kurzfassung
 
@@ -14,16 +15,16 @@ Das Konzept ist denkbar einfach:
 
 1. Ich hinterfrage die Anforderungsspezifikation der ausgeschriebenen Stelle (Anforderungsanalyse), 
 2. halte es schriftlich fest (Dokumentation), 
-3. und betrachte als einen Test, dessen Ausgang Ihre Rückmeldung bestimmen wird (Qualitätssicherung).
+3. und betrachte als einen Test, dessen Ausgang die Rückmeldung, oder auch ein Time-out bestimmen wird (Qualitätssicherung).
 
-Meine Kontaktdaten werden Sie dem (von mir ausgefüllten) [Online-Formular](https://www.alten.at/karriere/bewerbung/2051/ALT/KAT) entnehmen können.
+Meine Kontaktdaten wären dem ausgefüllten [Online-Bewerbungsformular](https://www.alten.at/karriere/bewerbung/2051/ALT/KAT) zu entnehmen.
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
 
 ### Langfassung
 
-hiermit versuche ich meine Denk- / Sicht- / Vorgangsweisen anhand vorliegender Stellenbeschreibung zu demonstrieren, um die gesuchten Qualitäten womöglich unter Beweis zu stellen.
+hiermit versuche ich meine Denk- / Sicht- / Vorgangsweisen anhand vorliegender Stellenbeschreibung zu demonstrieren, um die gesuchten Qualitäten gleich unter Beweis zu stellen, sofern möglich.
 
 > Machen Sie sich auf den Weg zu ALTEN Austria. Bei uns, einem der europaweit führenden Entwicklungsdienstleister, erleben Sie in wenigen Jahren so viel wie andere ihr Leben lang nicht. 
 
@@ -41,15 +42,15 @@ Es wäre naheliegend anzunehmen, dass ein Softwareentwickler für die Entwicklun
 
 > Sie entwickeln neue und warten bestehende~~n~~ Softwareanwendungen
 
-Nachdem die Wartung bestehender Lösungen recht abwechslungsarm ausfallen könnte, hoffe ich, dass die Entwicklung neuer Anwendungen überwiegt. Außerdem würde ich es begrüßen, wenn diejenigen, die die neuen Anwendungen entwickeln, diese auch warten, um dies während der Neu-Entwicklung zu berücksichtigen ~~(und ggf. den Umgang mit der Mitarbeiter-Fluktuation zu überdenken)~~.
+Ich hoffe, dass die Entwicklung neuer Anwendungen überwiegt. Dabei würde ich es begrüßen, wenn diejenigen, die die neuen Anwendungen entwickeln, diese auch warten, um dies während der Neu-Entwicklung zu berücksichtigen.
 
 > Dabei erarbeiten Sie innovative~~r~~ Konzepte und Lösungen
 
-Mit aller Konsequenz ~~(Gewalt funktioniert hier nicht)~~, zwecks Nachhaltigkeit.
+Mit aller Konsequenz, zwecks Nachhaltigkeit.
 
 > Zudem definieren Sie Anforderungsspezifikationen, führen Softwaretests durch und übernehmen die technische Dokumentation
 
-Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`), versioniere das Geschriebene mit ~~Hilfe von~~ `Git` und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (die aktuellste Version, inkl. Versionsgeschichte; evtl. ein besseres Leseerlebnis auf dem Bildschirm).
+Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`), versioniere das Geschriebene mit `Git` und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (die aktuellste Version, inkl. Versionsgeschichte; evtl. ein besseres Leseerlebnis auf dem Bildschirm).
 
 > Auch die Fehleranalyse und -behebung zählt zu Ihren Aufgaben
 
@@ -78,14 +79,13 @@ sowie (zum Teil auch aufgrund von) 15 Jahre(n) beruflicher Erfahrung.
 Nachdem ich gewisse Kenntnisse in allen aufgelisteten Programmiersprachen mitbringe, versuche ich zu differenzieren:
 
 - nach persönlichem Interesse: `C#` / `JavaScript` / `HTML`, `Python`, `Assembler`;
-- nach Umfeld: berufliche Erfahrung mit `C`, `C++`, `C#`, `JavaScript`, `HTML`, und rein akademische (beinahe irrelevante, jedoch für den Erwerb neuer / Vertiefung bestehender Kenntnisse förderliche) Erfahrung mit `Java`, `Python`, `Assembler` (die im Folgenden von mir nicht mehr aufgelistet werden);
+- nach Umfeld: berufliche Erfahrung mit `C`, `C++`, `C#`, `JavaScript`, `HTML`, und rein akademische (beinahe irrelevante, jedoch für den Erwerb neuer / Vertiefung bestehender Kenntnisse förderliche) Erfahrung mit `Java`, `Python`, `Assembler` (die im Folgenden nicht mehr aufgelistet werden);
 - nach Umfang (absteigend sortiert, nach Größenordnung geschriebener Zeilen in dieser Sprache): `C#`, `C` / `C++`, `HTML` / `JavaScript`;
-- nach Alter (der Zeit, in der ich in dieser Sprache schrieb, chronologisch absteigend sortiert): `C#` / `HTML` / `JavaScript`, `C` / `C++`.
+- nach Alter (der Zeit, in der ich zuletzt in dieser Sprache schrieb, chronologisch absteigend sortiert): `C#` / `HTML` / `JavaScript`, `C` / `C++`.
 
 Bitte beachten Sie, dass
 
 - `HTML` (Hypertext Markup Language), strenggenommen, keine Programmiersprache ist;
-- alle (auch in weiterer Folge) aufgelisteten Sprachen / Produkte / Technologien / Systeme, bildhaft gesprochen, ein Gebiet von der Kernphysik aus bis zur Astrophysik hin abdecken würden;
 
 > Im Umgang mit Datenbanksystemen z.B. SQL, MySQL, .NET, Oracle oder PostgreSQL sind Sie versiert
 
@@ -101,21 +101,20 @@ Von SCADA-Systemen hätte ich nur eine oberflächliche Vorstellung, wobei ich al
 
 In einem inhomogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten, um Unter- bzw. Überforderung zu meiden, dem schonenden und effektiven Umgang mit den menschlichen Ressourcen zu Liebe.
 
-Und nebenbei bemerkt, wird der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigem Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt.
+Und nebenbei bemerkt, wird der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigen Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt.
 
 _Fehleranalyse und -behebung_  
 _Fehleranalyse und –behebung_
 
-Der Halbgeviertstrich (auch Langstrich) wird als Gedankenstrich, Bis- und Gegen-Strich, Streckenstrich sowie bei glatten Währungsbeträgen verwendet.
+Der Halbgeviertstrich (auch Langstrich) wird dagegen als Gedankenstrich, Bis- und Gegen-Strich, Streckenstrich sowie bei glatten Währungsbeträgen verwendet.
 
 > Ihre guten Englisch-Kenntnisse runden Ihr Profil ab
 
-S. englische Version des Anschreibens.
+S. meine [englischsprachige Bewerbung](https://github.com/nikita-sharov/docs/blob/master/applications-for-employment/alten/software-developer-csharp/motivational-letter.md) für die Stelle des [Software Developer C#](https://www.alten.at/en/career/jobs/3461-software-developer-c--.net-oracle-semiconductor-bst).
 
 > Gehaltsspanne: € 2.300 brutto pro Monat auf Basis 38,5 h/ Woche je nach Qualifikation und Erfahrung
 
 Fehlt hier nicht der obere Bereich der Spanne?
 
 Mit noch mehr freundlichen Grüßen,  
-~~nachdem Sie das Ganze gelesen haben,~~  
 Nikita Sharov
