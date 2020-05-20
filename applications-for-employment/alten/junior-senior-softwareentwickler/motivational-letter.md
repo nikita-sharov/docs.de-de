@@ -26,27 +26,19 @@ Nikita Sharov
 
 hiermit versuche ich meine Denk- / Sicht- / Vorgangsweisen anhand vorliegender Stellenbeschreibung zu demonstrieren, um die gesuchten Qualitäten gleich unter Beweis zu stellen, sofern möglich.
 
-> Machen Sie sich auf den Weg zu ALTEN Austria. Bei uns, einem der europaweit führenden Entwicklungsdienstleister, erleben Sie in wenigen Jahren so viel wie andere ihr Leben lang nicht. 
-
-Sehr gern würde ich mich zu den europaweit Führenden mitzählen lassen, um in wenigen Jahren so viel Positives, hoffe ich, oder zumindest Lehrreiches, wie andere ihr Leben lang nicht, zu erleben.
-
-> Attraktive Kunden und vielseitige Projekte rund um Entwicklung und Beratung sorgen für Abwechslung pur.
-
-Wirtschaftlich attraktive Kunden, die sich ein gewisses Mindestmaß an Qualität wertschätzend leisten können, sind mir Gold wert. Des Weiteren hoffe ich, dass die Projekte sich nicht allzu sehr überschneiden (und dadurch für Abwechslung sorgen, mit dem entsprechenden Kontextwechsel-Overhead).
-
 #### Aufgaben
 
 > Als Junior / Senior Softwareentwickler (m/w/d) sind Sie für das Design und die Entwicklung von Softwareapplikationen verantwortlich
 
-Es wäre naheliegend anzunehmen, dass ein Softwareentwickler für die Entwicklung von Software zuständig wäre, wie ein Maurer für die Erstellung von Mauerwerk. Und sollte Software-Design einen Teilbereich der Software-Entwicklung darstellen, so wäre der Für-das-Ganze-Verantwortliche auch für dessen Teilbereiche verantwortlich.
+Formallogisch betrachtet wäre es naheliegend anzunehmen, dass ein Softwareentwickler für die Entwicklung von Software zuständig wäre, wie ein Maurer für die Erstellung von Mauerwerk. Sollte Software-Design einen Teilbereich der Software-Entwicklung darstellen, so wäre der Für-das-Ganze-Verantwortliche auch für dessen Teilbereiche verantwortlich.
 
 > Sie entwickeln neue und warten bestehende~~n~~ Softwareanwendungen
 
-Ich hoffe, dass die Entwicklung neuer Anwendungen überwiegt. Dabei würde ich es begrüßen, wenn diejenigen, die die neuen Anwendungen entwickeln, diese auch warten, um dies während der Neu-Entwicklung zu berücksichtigen.
+Ich würde mir wünschen, dass die Entwicklung neuer Anwendungen überwiegt. Dabei würde ich es begrüßen, wenn diejenigen, die die neuen Anwendungen entwickeln, diese auch warten, um dies während der Neu-Entwicklung zu berücksichtigen.
 
 > Dabei erarbeiten Sie innovative~~r~~ Konzepte und Lösungen
 
-Mit aller Konsequenz, zwecks Nachhaltigkeit.
+Sehr gern; mit aller Konsequenz, zwecks Nachhaltigkeit.
 
 > Zudem definieren Sie Anforderungsspezifikationen, führen Softwaretests durch und übernehmen die technische Dokumentation
 
@@ -58,11 +50,11 @@ Im Prozess stoße ich auf wenige Tippfehler, die ich behebe und als marginal ein
 
 > Sie agieren als Schnittstelle zwischen internen und externen Partnern
 
-Anders formuliert: ein Ansprechpartner für alle (interne und externe) Partner. Sind mit internen Partnern andere Abteilungen / Filialen / Töchterunternehmen der ALTEN Gruppe gemeint?
+Schmunzelnd formuliere ich anders: ein Ansprechpartner für alle (interne und externe) Partner. Bei internen Partnern denke ich an andere Abteilungen / Filialen / Töchterunternehmen der ALTEN Gruppe.
 
 > Schließlich zählt auch fallweise die Installation, Konfiguration und Wartung von IT-Umgebungen sowie Netzwerklösungen zu Ihren Aufgaben
 
-Meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration sind begrenzt, gleichwie das Interesse für Hardware und IT-Support im Allgemeinen, sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnde Software betrifft. Das Gleiche gilt für die Hardware, auf der entwickelt wird, und Software, in der entwickelt wird.
+Schließlich weise ich darauf hin, dass meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration begrenzt sind. Gleichwie das Interesse für Hardware und IT-Support im Allgemeinen, sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnde Software betrifft. Mein Interesse gilt auch der Hardware, auf der entwickelt wird, und Software, in der entwickelt wird.
 
 #### Profil
 
@@ -91,17 +83,17 @@ Bitte beachten Sie, dass
 
 - `SQL` (Structured Query Language) und `.NET` (Plattform / Sammelbegriff für mehrere Technologien von Microsoft) keine Datenbanksysteme sind.
 
-Berufliche Erfahrung hätte ich mit: `MSSQL`, `SQLite`, `Oracle` und `MySQL`.
+Berufliche Erfahrung habe ich mit (in absteigender Reihenfolge): `MSSQL`, `SQLite`, `Oracle` und `MySQL`.
 
 > Kenntnisse in SCADA Systemen (WinCC / ZENON / InTouch) in Verbindung mit speicherprogrammierbaren Steuerungen (SPS) sind von Vorteil
 
-Von SCADA-Systemen hätte ich nur eine oberflächliche Vorstellung, wobei ich als Softwareentwickler in der Industrie- und Gebäude-Automatisierung anfing (Embedded Systems / Firmware verbauter Steuerungen / Entwicklung in `C`, `C++`, `C#`).
+Von SCADA-Systemen habe ich nur eine oberflächliche Vorstellung, wobei ich als Softwareentwickler in der Industrie- und Gebäude-Automatisierung anfing (Embedded Systems / Firmware verbauter Steuerungen; Entwicklung in `C`, `C++`, `C#`).
 
 > Teamfähigkeit und Genauigkeit zeichnen Sie aus
 
-In einem inhomogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten, um Unter- bzw. Überforderung zu meiden, dem schonenden und effektiven Umgang mit den menschlichen Ressourcen zu Liebe.
+In einem inhomogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten.
 
-Und nebenbei bemerkt, wird der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigen Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt.
+Ich bin gerne korrekt sowie genau: So könnte man anmerken, dass der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigen Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt wird.
 
 _Fehleranalyse und -behebung_  
 _Fehleranalyse und –behebung_
@@ -112,9 +104,11 @@ Der Halbgeviertstrich (auch Langstrich) wird dagegen als Gedankenstrich, Bis- un
 
 S. meine [englischsprachige Bewerbung](https://github.com/nikita-sharov/docs/blob/master/applications-for-employment/alten/software-developer-csharp/motivational-letter.md) für die Stelle des [Software Developer C#](https://www.alten.at/en/career/jobs/3461-software-developer-c--.net-oracle-semiconductor-bst).
 
-> Gehaltsspanne: € 2.300 brutto pro Monat auf Basis 38,5 h/ Woche je nach Qualifikation und Erfahrung
+> Gehaltsspanne: € 2.300 brutto pro Monat auf Basis 38,5 h/Woche je nach Qualifikation und Erfahrung
 
-Fehlt hier nicht der obere Bereich der Spanne?
+Fehlt hier nicht der obere Bereich der ~~(Von-bis-)~~ Spanne?
+
+Sollten von meiner Seite konventionell übliche Unterlagen fehlen ...
 
 Mit noch mehr freundlichen Grüßen,  
 Nikita Sharov
