@@ -54,7 +54,7 @@ Schmunzelnd formuliere ich anders: ein Ansprechpartner für alle (interne und ex
 
 > Schließlich zählt auch fallweise die Installation, Konfiguration und Wartung von IT-Umgebungen sowie Netzwerklösungen zu Ihren Aufgaben
 
-Schließlich weise ich darauf hin, dass meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration begrenzt sind. Gleichwie das Interesse für Hardware und IT-Support im Allgemeinen, sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnde Software betrifft. Mein Interesse gilt auch der Hardware, auf der entwickelt wird, und Software, in der entwickelt wird.
+Hier weise ich darauf hin, dass meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration begrenzt sind. Gleichwie das Interesse für Hardware und IT-Support im Allgemeinen, sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnde Software betrifft. Mein Interesse gilt auch der Hardware, auf der entwickelt wird, und Software, in der entwickelt wird.
 
 #### Profil
 
@@ -75,7 +75,7 @@ Nachdem ich gewisse Kenntnisse in allen aufgelisteten Programmiersprachen mitbri
 - nach Umfang (absteigend sortiert, nach Größenordnung geschriebener Zeilen in dieser Sprache): `C#`, `C` / `C++`, `HTML` / `JavaScript`;
 - nach Alter (der Zeit, in der ich zuletzt in dieser Sprache schrieb, chronologisch absteigend sortiert): `C#` / `HTML` / `JavaScript`, `C` / `C++`.
 
-Bitte beachten Sie, dass
+Zu beachten wäre, dass
 
 - `HTML` (Hypertext Markup Language), strenggenommen, keine Programmiersprache ist;
 
@@ -91,7 +91,7 @@ Von SCADA-Systemen habe ich nur eine oberflächliche Vorstellung, wobei ich als 
 
 > Teamfähigkeit und Genauigkeit zeichnen Sie aus
 
-In einem inhomogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten.
+In einem inhomogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten. Hierbei versuche ich diesen [Code of Conduct](https://github.com/nikita-sharov/docs/blob/master/code-of-conduct.md) (in meiner zwecks Hervorhebung gekürzten Fassung) zu befolgen.
 
 Ich bin gerne korrekt sowie genau: So könnte man anmerken, dass der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigen Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt wird.
 
@@ -99,6 +99,8 @@ _Fehleranalyse und -behebung_
 _Fehleranalyse und –behebung_
 
 Der Halbgeviertstrich (auch Langstrich) wird dagegen als Gedankenstrich, Bis- und Gegen-Strich, Streckenstrich sowie bei glatten Währungsbeträgen verwendet.
+
+Weiterhin / Im Allgemeinen versuche ich diesem (recht umfangreichen) [Code of Ethics](https://www.acm.org/code-of-ethics) zu folgen.
 
 > Ihre guten Englisch-Kenntnisse runden Ihr Profil ab
 
