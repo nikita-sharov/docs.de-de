@@ -108,7 +108,7 @@ S. meine [englischsprachige Bewerbung](https://github.com/nikita-sharov/docs/blo
 
 Fehlt hier nicht der obere Bereich der ~~(Von-bis-)~~ Spanne?
 
-Sollten von meiner Seite konventionell übliche Unterlagen fehlen ...
+Sollten von meiner Seite konventionell übliche Unterlagen fehlen: https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md
 
 Mit noch mehr freundlichen Grüßen,  
 Nikita Sharov
