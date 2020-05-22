@@ -17,7 +17,7 @@ Das Konzept ist denkbar einfach:
 2. halte es schriftlich fest (Dokumentation), 
 3. und betrachte als einen Test, dessen Ausgang die Rückmeldung, oder auch ein Time-out bestimmen wird (Qualitätssicherung).
 
-Meine Kontaktdaten wären dem ausgefüllten [Online-Bewerbungsformular](https://www.alten.at/karriere/bewerbung/2051/ALT/KAT) zu entnehmen.
+Meine Kontaktdaten wären dem ausgefüllten [Bewerbungsformular](https://www.alten.at/karriere/bewerbung/2051/ALT/KAT) zu entnehmen.
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
@@ -91,7 +91,7 @@ Von SCADA-Systemen habe ich nur eine oberflächliche Vorstellung, wobei ich als 
 
 > Teamfähigkeit und Genauigkeit zeichnen Sie aus
 
-In einem [inhomogenen Team](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md), rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten.
+In einem heterogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, [erwarten](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md).
 
 Ich bin gerne [korrekt](https://www.acm.org/code-of-ethics) sowie genau: So könnte man anmerken, dass der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigen Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt wird.
 
@@ -106,7 +106,7 @@ S. meine [englischsprachige Bewerbung](https://github.com/nikita-sharov/docs/blo
 
 > Gehaltsspanne: € 2.300 brutto pro Monat auf Basis 38,5 h/Woche je nach Qualifikation und Erfahrung
 
-Fehlt hier nicht der obere Bereich der ~~(Von-bis-)~~ Spanne?
+Fehlt hier nicht der obere Bereich der Spanne?
 
 ~~Sollten von meiner Seite konventionell übliche Unterlagen fehlen: https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md~~
 
