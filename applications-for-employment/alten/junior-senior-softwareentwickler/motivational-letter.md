@@ -54,13 +54,13 @@ Schmunzelnd formuliere ich anders: ein Ansprechpartner für alle (interne und ex
 
 > Schließlich zählt auch fallweise die Installation, Konfiguration und Wartung von IT-Umgebungen sowie Netzwerklösungen zu Ihren Aufgaben
 
-Hier weise ich darauf hin, dass meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration begrenzt sind. Gleichwie das Interesse für Hardware und IT-Support im Allgemeinen, sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnde Software betrifft. Mein Interesse gilt auch der Hardware, auf der entwickelt wird, und Software, in der entwickelt wird.
+Hier weise ich darauf hin, dass meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration begrenzt sind. Gleichwie das Interesse für Hardware und IT-Support im Allgemeinen, sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnde Software betrifft. Das Gleiche gilt für die Hardware, auf der entwickelt wird, und Software, in der entwickelt wird.
 
 #### Profil
 
-> Sie verfügen über eine abgeschlossene technische Ausbildung (HTL, FH, TU) in Softwareentwicklung, Informatik, Telematik o.Ä.
+> Sie verfügen über eine abgeschlossene technische Ausbildung (HTL, FH, TU) in Softwareentwicklung, Informatik, Telematik o.&nbsp;Ä.
 
-Ich verfüge über eine nicht abgeschlossene technische Ausbildung in *Softwareentwicklung und Wirtschaft* (TU Graz),
+Ich verfüge über eine nicht abgeschlossene technische Ausbildung in *Softwareentwicklung und Wirtschaft* (TU Graz)
 
 > Idealerweise können Sie Erfahrung in einer vergleichbaren Position vorweisen
 
@@ -91,7 +91,7 @@ Von SCADA-Systemen habe ich nur eine oberflächliche Vorstellung, wobei ich als 
 
 > Teamfähigkeit und Genauigkeit zeichnen Sie aus
 
-In einem inhomogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten. Hierbei versuche ich diesen [Code of Conduct](https://github.com/nikita-sharov/docs/blob/master/code-of-conduct.md) (in meiner zwecks Hervorhebung gekürzten Fassung) zu befolgen.
+In einem inhomogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten. Hierbei versuche ich diesen [Code of Conduct](https://github.com/nikita-sharov/docs/blob/master/code-of-conduct.md) (in meiner ~~zwecks Hervorhebung~~ gekürzten Fassung) zu befolgen.
 
 Ich bin gerne korrekt sowie genau: So könnte man anmerken, dass der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigen Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt wird.
 
