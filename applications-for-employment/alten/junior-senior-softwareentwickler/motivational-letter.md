@@ -91,16 +91,14 @@ Von SCADA-Systemen habe ich nur eine oberflächliche Vorstellung, wobei ich als 
 
 > Teamfähigkeit und Genauigkeit zeichnen Sie aus
 
-In einem inhomogenen Team, rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten. Hierbei versuche ich diesen [Code of Conduct](https://github.com/nikita-sharov/docs/blob/master/code-of-conduct.md) (in meiner ~~zwecks Hervorhebung~~ gekürzten Fassung) zu befolgen.
+In einem [inhomogenen Team](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md), rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten.
 
-Ich bin gerne korrekt sowie genau: So könnte man anmerken, dass der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigen Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt wird.
+Ich bin gerne [korrekt](https://www.acm.org/code-of-ethics) sowie genau: So könnte man anmerken, dass der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigen Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt wird.
 
 _Fehleranalyse und -behebung_  
 _Fehleranalyse und –behebung_
 
 Der Halbgeviertstrich (auch Langstrich) wird dagegen als Gedankenstrich, Bis- und Gegen-Strich, Streckenstrich sowie bei glatten Währungsbeträgen verwendet.
-
-Weiterhin / Im Allgemeinen versuche ich diesem (recht umfangreichen) [Code of Ethics](https://www.acm.org/code-of-ethics) zu folgen.
 
 > Ihre guten Englisch-Kenntnisse runden Ihr Profil ab
 
@@ -110,7 +108,7 @@ S. meine [englischsprachige Bewerbung](https://github.com/nikita-sharov/docs/blo
 
 Fehlt hier nicht der obere Bereich der ~~(Von-bis-)~~ Spanne?
 
-Sollten von meiner Seite konventionell übliche Unterlagen fehlen: https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md
+~~Sollten von meiner Seite konventionell übliche Unterlagen fehlen: https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md~~
 
 Mit noch mehr freundlichen Grüßen,  
 Nikita Sharov
