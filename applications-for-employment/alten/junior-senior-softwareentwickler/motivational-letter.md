@@ -38,11 +38,13 @@ Ich würde mir wünschen, dass die Entwicklung neuer Anwendungen überwiegt. Dab
 
 > Dabei erarbeiten Sie innovative~~r~~ Konzepte und Lösungen
 
-Sehr gern; mit aller Konsequenz, zwecks Nachhaltigkeit.
+Sehr gern; mit aller Konsequenz, zwecks Nachhaltigkeit, verzichte ich auf konservative, ~~anachronistische~~ konventionell übliche ~~Werbesprüche~~ Bewerbungsunterlagen.
+
+~~Serienproduktion vs. maßgeschneiderte Einzelanfertigung?~~
 
 > Zudem definieren Sie Anforderungsspezifikationen, führen Softwaretests durch und übernehmen die technische Dokumentation
 
-Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`), versioniere das Geschriebene mit `Git` und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (die aktuellste Version, inkl. Versionsgeschichte; evtl. ein besseres Leseerlebnis auf dem Bildschirm).
+Von der technischen Seite aus schreibe ich in einer Markup-Sprache (namens `Markdown`), versioniere das Geschriebene mit `Git` und stelle es auf [GitHub](https://github.com/nikita-sharov/docs.de-de/blob/master/applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md) online zur Verfügung (für ein besseres Leseerlebnis auf dem Bildschirm, unter anderem).
 
 > Auch die Fehleranalyse und -behebung zählt zu Ihren Aufgaben
 
@@ -50,11 +52,11 @@ Im Prozess stoße ich auf wenige Tippfehler, die ich behebe und als marginal ein
 
 > Sie agieren als Schnittstelle zwischen internen und externen Partnern
 
-Schmunzelnd formuliere ich anders: ein Ansprechpartner für alle (interne und externe) Partner. Bei internen Partnern denke ich an andere Abteilungen / Filialen / Töchterunternehmen der ALTEN Gruppe.
+Schmunzelnd formuliere ich anders: als Ansprechpartner für alle (interne und externe) Partner. Bei internen Partnern denke ich an andere Abteilungen / Filialen / Töchterunternehmen der ALTEN Gruppe.
 
 > Schließlich zählt auch fallweise die Installation, Konfiguration und Wartung von IT-Umgebungen sowie Netzwerklösungen zu Ihren Aufgaben
 
-Hier weise ich darauf hin, dass meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration begrenzt sind. Gleichwie das Interesse für Hardware und IT-Support im Allgemeinen, sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnde Software betrifft. Das Gleiche gilt für die Hardware, auf der entwickelt wird, und Software, in der entwickelt wird.
+Hier weise ich darauf hin, dass meine Kenntnisse auf dem Gebiet der System- / Netzwerkadministration begrenzt sind, gleichwie das Interesse für Hardware und IT-Support im Allgemeinen, sofern es nicht die obere Schicht der Infrastruktur für die zu entwickelnde Software betrifft. Das Gleiche gilt für die Hardware, auf der entwickelt wird, und Software, in der entwickelt wird.
 
 #### Profil
 
@@ -75,7 +77,7 @@ Nachdem ich gewisse Kenntnisse in allen aufgelisteten Programmiersprachen mitbri
 - nach Umfang (absteigend sortiert, nach Größenordnung geschriebener Zeilen in dieser Sprache): `C#`, `C` / `C++`, `HTML` / `JavaScript`;
 - nach Alter (der Zeit, in der ich zuletzt in dieser Sprache schrieb, chronologisch absteigend sortiert): `C#` / `HTML` / `JavaScript`, `C` / `C++`.
 
-Zu beachten wäre, dass
+Zu beachten wäre eventuell, dass
 
 - `HTML` (Hypertext Markup Language), strenggenommen, keine Programmiersprache ist;
 
@@ -83,7 +85,7 @@ Zu beachten wäre, dass
 
 - `SQL` (Structured Query Language) und `.NET` (Plattform / Sammelbegriff für mehrere Technologien von Microsoft) keine Datenbanksysteme sind.
 
-Berufliche Erfahrung habe ich mit (in absteigender Reihenfolge): `MSSQL`, `SQLite`, `Oracle` und `MySQL`.
+Berufliche Erfahrung habe ich mit ~~(in absteigender Reihenfolge)~~: `MSSQL`, `SQLite`, `Oracle` und `MySQL`.
 
 > Kenntnisse in SCADA Systemen (WinCC / ZENON / InTouch) in Verbindung mit speicherprogrammierbaren Steuerungen (SPS) sind von Vorteil
 
@@ -91,7 +93,7 @@ Von SCADA-Systemen habe ich nur eine oberflächliche Vorstellung, wobei ich als 
 
 > Teamfähigkeit und Genauigkeit zeichnen Sie aus
 
-In einem [heterogenen Team](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md), rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten.
+In einem [heterogenen Team](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md), rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten ~~verlangen~~.
 
 Ich bin gerne [korrekt](https://www.acm.org/code-of-ethics) sowie genau: So könnte man anmerken, dass der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigen Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt wird.
 
@@ -107,8 +109,6 @@ S. meine [englischsprachige Bewerbung](https://github.com/nikita-sharov/docs/blo
 > Gehaltsspanne: € 2.300 brutto pro Monat auf Basis 38,5 h/Woche je nach Qualifikation und Erfahrung
 
 Fehlt hier nicht der obere Bereich der Spanne?
-
-~~Sollten von meiner Seite konventionell übliche Unterlagen fehlen: https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md~~
 
 Mit noch mehr freundlichen Grüßen,  
 Nikita Sharov
