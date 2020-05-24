@@ -38,9 +38,7 @@ Ich würde mir wünschen, dass die Entwicklung neuer Anwendungen überwiegt. Dab
 
 > Dabei erarbeiten Sie innovative~~r~~ Konzepte und Lösungen
 
-Sehr gern; mit aller Konsequenz, zwecks Nachhaltigkeit, verzichte ich auf konservative, ~~anachronistische~~ konventionell übliche ~~Werbesprüche~~ Bewerbungsunterlagen.
-
-~~Serienproduktion vs. maßgeschneiderte Einzelanfertigung?~~
+Sehr gern; mit aller Konsequenz, zwecks Nachhaltigkeit.
 
 > Zudem definieren Sie Anforderungsspezifikationen, führen Softwaretests durch und übernehmen die technische Dokumentation
 
@@ -73,9 +71,9 @@ sowie (zum Teil auch aufgrund von) 15 Jahre(n) beruflicher Erfahrung.
 Nachdem ich gewisse Kenntnisse in allen aufgelisteten Programmiersprachen mitbringe, versuche ich zu differenzieren:
 
 - nach persönlichem Interesse: `C#` / `JavaScript` / `HTML`, `Python`, `Assembler`;
-- nach Umfeld: berufliche Erfahrung mit `C`, `C++`, `C#`, `JavaScript`, `HTML`, und rein akademische (beinahe irrelevante, jedoch für den Erwerb neuer / Vertiefung bestehender Kenntnisse förderliche) Erfahrung mit `Java`, `Python`, `Assembler` (die im Folgenden nicht mehr aufgelistet werden);
-- nach Umfang (absteigend sortiert, nach Größenordnung geschriebener Zeilen in dieser Sprache): `C#`, `C` / `C++`, `HTML` / `JavaScript`;
-- nach Alter (der Zeit, in der ich zuletzt in dieser Sprache schrieb, chronologisch absteigend sortiert): `C#` / `HTML` / `JavaScript`, `C` / `C++`.
+- nach Umfeld: berufliche Erfahrung mit `C/C++`, `C#`, `JavaScript`, `HTML`, und rein akademische (beinahe irrelevante, jedoch für den Erwerb neuer / Vertiefung bestehender Kenntnisse förderliche) Erfahrung mit `Java`, `Python`, `Assembler` (die im Folgenden nicht mehr aufgelistet werden);
+- nach Umfang (absteigend sortiert, nach Größenordnung geschriebener Zeilen in dieser Sprache): `C#`, `C/C++`, `HTML` / `JavaScript`;
+- nach Alter (der Zeit, in der ich zuletzt in dieser Sprache schrieb, chronologisch absteigend sortiert): `C#` / `HTML` / `JavaScript`, `C/C++`.
 
 Zu beachten wäre eventuell, dass
 
@@ -85,15 +83,15 @@ Zu beachten wäre eventuell, dass
 
 - `SQL` (Structured Query Language) und `.NET` (Plattform / Sammelbegriff für mehrere Technologien von Microsoft) keine Datenbanksysteme sind.
 
-Berufliche Erfahrung habe ich mit ~~(in absteigender Reihenfolge)~~: `MSSQL`, `SQLite`, `Oracle` und `MySQL`.
+Berufliche Erfahrung habe ich mit: `MSSQL`, `SQLite`, `Oracle` und `MySQL`.
 
 > Kenntnisse in SCADA Systemen (WinCC / ZENON / InTouch) in Verbindung mit speicherprogrammierbaren Steuerungen (SPS) sind von Vorteil
 
-Von SCADA-Systemen habe ich nur eine oberflächliche Vorstellung, wobei ich als Softwareentwickler in der Industrie- und Gebäude-Automatisierung anfing (Embedded Systems / Firmware verbauter Steuerungen; Entwicklung in `C`, `C++`, `C#`).
+Von SCADA-Systemen habe ich nur eine oberflächliche Vorstellung, wobei ich mehrere Jahre Berufserfahrung als Softwareentwickler in der Industrie- und Gebäude-Automatisierung mitbringe (Embedded Systems / Firmware verbauter Steuerungen; Produkt- und Projektentwicklung in `C/C++`, `C#`; 2005–2011).
 
 > Teamfähigkeit und Genauigkeit zeichnen Sie aus
 
-In einem [heterogenen Team](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md), rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten ~~verlangen~~.
+In einem [heterogenen Team](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md), rein auf die Erfahrung in der Softwareentwicklung bezogen, würde ich von Junioren / Senioren nicht das Gleiche, auf die vorliegende Aufgabenstellung bezogen, erwarten / verlangen.
 
 Ich bin gerne [korrekt](https://www.acm.org/code-of-ethics) sowie genau: So könnte man anmerken, dass der Ergänzungsstrich in der Typographie, im traditionellen Sinne und deutschsprachigen Raum, wie ein Bindestrich auch, mit einem Viertelgeviertstrich (auch Kurzstrich) dargestellt wird.
 
