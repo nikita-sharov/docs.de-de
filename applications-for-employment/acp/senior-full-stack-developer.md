@@ -36,7 +36,6 @@ Das Komma vor den Auslassungspunkten
 
 sowie das Komma vor dem "und" würde ich auch streichen.
 
-
 ## Analytisches Denkvermögen
 
 > Erfahrung mit SharePoint (~~SP~~ Farm Solutions, SPFx, PnP[,] …) und Azure (Functions, Web Apps, ~~Azure~~DevOps) wäre ein Plus
@@ -62,6 +61,8 @@ Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziert (und 
 "Ihre Verantwortung" unter "Ihre Aufgaben", "Verantwortungsbewusstsein" unter "Ihr Profil", "Aufgabengebiet mit Selbstverantwortung" unter "Unser Angebot", "verantwortungsvolle Tätigkeit" unter "Gehaltsinformation" …
 
 Zukunftsperspektiven sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine Zusatzleistung. Selbstverantwortung, als Verantwortung für das eigene Handeln, darf man spätestens ab der Volljährigkeit grundsätzlich (strafrechtlich zumindest) erwarten.
+
+Hinweis: Als eine weitere Zusatzleistung (aka Benefit) gilt das Mitarbeiterjahresgespräch (s. [acp.at/karriere](https://www.acp.at/karriere)). :man_facepalming:
 
 > Das gebotene monatliche Bruttogehalt liegt bei (mind.) 3.300 - je nach relevanter Arbeitserfahrung und Qualifikation.
 
