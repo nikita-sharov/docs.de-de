@@ -6,7 +6,7 @@ Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5486367) (Stelleni
 
 Sehr geehrte Frau Braun,
 
-hiermit möchte ich mich für die obige Position bewerben. Dabei versuche ich 
+hiermit möchte ich mich für die obige Position (Standort: Graz) bewerben. Dabei versuche ich 
 
 - etwas weiter zu denken;
 - Eigeninitiative zu ergreifen und mich leidenschaftlich zu involvieren;
@@ -18,7 +18,7 @@ hiermit möchte ich mich für die obige Position bewerben. Dabei versuche ich
 Mit freundlichen Grüßen,  
 Nikita Sharov
 
-## Analyse
+## Genauigkeit
 
 > Sie sind als .NET SoftwareentwicklerIn (für Azure und/oder SharePoint) von der Konzeption[,] über die Implementierung[,] bis hin zum Testing[,] und der Auslieferung von Kundenlösungen involviert.
 
@@ -34,17 +34,28 @@ Das Komma vor den Auslassungspunkten
 
 > Sie verfügen über Kenntnisse in C#, HTML5, CSS[,] und JavaScript
 
-sowie das Komma vor dem "und" würde ich streichen.
+sowie das Komma vor dem "und" würde ich auch streichen.
+
+
+## Analytisches Denkvermögen
 
 > Erfahrung mit SharePoint (~~SP~~ Farm Solutions, SPFx, PnP[,] …) und Azure (Functions, Web Apps, ~~Azure~~DevOps) wäre ein Plus
 
-Das erste "SP" würde ich streichen, nachdem es für "SharePoint" steht und eine Wortwiederholung darstellt: *SharePoint (SharePoint Farm Solutions)*. Das Gleiche gilt für "Azure DevOps". 
+Das erste "SP" würde ich streichen, nachdem es für "SharePoint" steht: 
 
-Der Azure-Part ließe sich genauer formulieren: Azure Functions, App- und [DevOps Services]() (die offizielle Bezeichnung; [Web Apps](https://azure.microsoft.com/services/app-service/web) als Einsatzgebiet des [App Service](https://azure.microsoft.com/services/app-service)). Auslassungspunkte wären hier eher angebracht, nachdem es inzwischen mehrere hundert [Azure Services](https://azure.microsoft.com/services) gibt (auf die "native" Services von Microsoft bezogen; neben unzähligen [Angeboten der Drittanbieter](https://azuremarketplace.microsoft.com)).
+*SharePoint (~~SharePoint~~ Farm Solutions)*. 
+
+(SPFx, für SharePoint Framework, ist wiederum ein unglückliches Akronym, nachdem SPF für SharePoint Foundation stand.)
+
+Der aktuellen Terminologie des Herstellers entsprechend ließe sich der Azure-Part wie folgt formulieren ([Web Apps](https://azure.microsoft.com/services/app-service/web) als ein Aufgabengebiet des [App Service](https://azure.microsoft.com/services/app-service)): 
+
+*Azure (Functions, App- und [DevOps Services](https://azure.microsoft.com/services/devops))*. 
+
+Auslassungspunkte wären hier eher angebracht, nachdem es inzwischen mehrere Hundert verschiedene [Azure Services](https://azure.microsoft.com/services) gibt (auf die Services von Microsoft bezogen; neben unzähligen [Angeboten der Drittanbieter](https://azuremarketplace.microsoft.com)).
 
 > Idealerweise besitzen Sie Microsoft Azure, SharePoint oder Office 365 Zertifizierungen
 
-Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziert (und von Laien direkt verbunden) werden, das Ideal darstellen, warum stellt dann unmittelbare Erfahrung mit Microsoft Produkten, Technologien und Dienstleistungen nur ein Plus dar?
+Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziert (und von Laien womöglich direkt verbunden) werden, das Ideal darstellen, warum stellt dann unmittelbare Erfahrung mit Microsoft Produkten, Technologien und Dienstleistungen nur ein Plus dar?
 
 > Es erwartet Sie eine verantwortungsvolle Tätigkeit mit Zukunftsperspektiven.
 
@@ -56,7 +67,7 @@ Zukunftsperspektiven sind keine Gehaltsinformation. Verantwortung stellt eine La
 
 Die vorliegende Formulierung lässt einen Mindestwert (kleinstmöglicher Wert) variabel erscheinen; anders formuliert:
 
-*Je nach relevanter Arbeitserfahrung und Qualifikation liegt das gebotene monatliche Mindestgehalt bei € 3.300,– brutto.**
+*Je nach relevanter Arbeitserfahrung und Qualifikation liegt das gebotene monatliche Mindestgehalt bei € 3.300,– brutto.*
 
 Arbeitsrechtlich ist jenes Entgelt anzugeben, das als Mindestgrundlage für die Arbeitsvertragsverhandlungen dienen soll. Geht man davon aus, bleibt
 
