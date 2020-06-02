@@ -40,13 +40,13 @@ sowie das Komma vor dem "und" würde ich auch streichen.
 
 > Erfahrung mit SharePoint (~~SP~~ Farm Solutions, SPFx, PnP[,] …) und Azure (Functions, Web Apps, ~~Azure~~DevOps) wäre ein Plus
 
-Das erste "SP" würde ich streichen, nachdem es für "SharePoint" steht: 
+Hier würde ich das erste "SP" streichen, nachdem es für "SharePoint" steht: 
 
 *SharePoint (~~SharePoint~~ Farm Solutions)*. 
 
-(SPFx, für SharePoint Framework, ist wiederum ein unglückliches Akronym, nachdem SPF für SharePoint Foundation stand.)
+~~(SPFx, für SharePoint Framework, ist wiederum ein unglückliches Akronym, nachdem SPF für SharePoint Foundation stand.)~~
 
-Der aktuellen Terminologie des Herstellers entsprechend ließe sich der Azure-Part wie folgt formulieren ([Web Apps](https://azure.microsoft.com/services/app-service/web) als ein Aufgabengebiet des [App Service](https://azure.microsoft.com/services/app-service)): 
+Der aktuellen Terminologie des Herstellers entsprechend ließe sich der Azure-Part wie folgt formulieren ([Web Apps](https://azure.microsoft.com/services/app-service/web) als ein Aufgabengebiet des [App Service](https://azure.microsoft.com/services/app-service), zwecks Gleichrangigkeit der Elemente der Aufzählung): 
 
 *Azure (Functions, App- und [DevOps Services](https://azure.microsoft.com/services/devops))*. 
 
@@ -62,7 +62,7 @@ Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziert (und 
 
 Zukunftsperspektiven sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine Zusatzleistung. Selbstverantwortung, als Verantwortung für das eigene Handeln, darf man spätestens ab der Volljährigkeit grundsätzlich (strafrechtlich zumindest) erwarten.
 
-Hinweis: Als eine weitere Zusatzleistung (aka Benefit) gilt das Mitarbeiterjahresgespräch (s. [acp.at/karriere](https://www.acp.at/karriere)). :man_facepalming:
+Hinweis: Als eine weitere Zusatzleistung (aka Benefit) gilt das Mitarbeitergespräch (s. [acp.at/karriere](https://www.acp.at/karriere)).
 
 > Das gebotene monatliche Bruttogehalt liegt bei (mind.) 3.300 - je nach relevanter Arbeitserfahrung und Qualifikation.
 
@@ -76,7 +76,7 @@ Arbeitsrechtlich ist jenes Entgelt anzugeben, das als Mindestgrundlage für die 
 
 als ein eigenartig formulierter Hinweis auf die Bereitschaft zur kollektivvertraglichen Überzahlung (?) allein stehen.
 
-Begeisterung, die  wird man schwer auf dem (Arbeits) Markt anbieten können; . 
+~~Begeisterung, die  wird man schwer auf dem (Arbeits) Markt anbieten können~~
 
 Berufung (laut [Duden](https://www.duden.de/rechtschreibung/Berufung): besondere Befähigung, die jemand als Auftrag in sich fühlt) kann man nicht anbieten.
 
