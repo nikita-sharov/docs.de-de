@@ -1,6 +1,6 @@
 # Senior Full-Stack Developer aus Leidenschaft
 
-Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5486367) (Stelleninserat vom / aktualisiert am 25.05.2020, s. [Druckversion](media/senior-full-stack-developer_karriere.at.pdf)) sowie auf [acp.at](https://jobs.acp.at/Job/7382) (Jobnummer: 7382, s. [Druckversion](media/senior-full-stack-developer_acp.at.pdf)) für Graz, Feldbach.
+Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5486367) (Stelleninserat vom / aktualisiert am 25.05.2020, s. [Druckversion](media/senior-full-stack-developer_karriere.at.pdf)) sowie auf [jobs.acp.at](https://jobs.acp.at/Job/7382) (Jobnummer: 7382, s. [Druckversion](media/senior-full-stack-developer_acp.at.pdf)) für Graz, Feldbach.
 
 ## Anschreiben
 
@@ -54,15 +54,15 @@ Auslassungspunkte wären hier eher angebracht, nachdem es inzwischen mehrere Hun
 
 > Idealerweise besitzen Sie Microsoft Azure, SharePoint oder Office 365 Zertifizierungen
 
-Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziert (und von Laien womöglich direkt verbunden) werden, das Ideal darstellen, warum stellt dann unmittelbare Erfahrung mit Microsoft Produkten, Technologien und Dienstleistungen nur ein Plus dar?
+Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziert ~~(und von Laien womöglich direkt verbunden)~~ werden, das Ideal darstellen, warum stellt dann unmittelbare Erfahrung mit Microsoft Produkten, Technologien und Dienstleistungen nur ein Plus dar?
 
 > Es erwartet Sie eine verantwortungsvolle Tätigkeit mit Zukunftsperspektiven.
 
 "Ihre Verantwortung" unter "Ihre Aufgaben", "Verantwortungsbewusstsein" unter "Ihr Profil", "Aufgabengebiet mit Selbstverantwortung" unter "Unser Angebot", "verantwortungsvolle Tätigkeit" unter "Gehaltsinformation" …
 
-Zukunftsperspektiven sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine Zusatzleistung. Selbstverantwortung, als Verantwortung für das eigene Handeln, darf man spätestens ab der Volljährigkeit grundsätzlich (strafrechtlich zumindest) erwarten.
+"Zukunftsperspektiven" sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine Zusatzleistung. Selbstverantwortung, als Verantwortung für das eigene Handeln, darf man spätestens ab der Volljährigkeit grundsätzlich (strafrechtlich zumindest) erwarten.
 
-Hinweis: Als eine weitere Zusatzleistung (aka Benefit) gilt das Mitarbeitergespräch (s. [acp.at/karriere](https://www.acp.at/karriere)).
+Hinweis: Als eine äußerst fragliche Zusatzleistung (aka Benefit) gilt auch das Mitarbeitergespräch (s. [acp.at/karriere](https://www.acp.at/karriere)).
 
 > Das gebotene monatliche Bruttogehalt liegt bei (mind.) 3.300 - je nach relevanter Arbeitserfahrung und Qualifikation.
 
@@ -74,7 +74,7 @@ Arbeitsrechtlich ist jenes Entgelt anzugeben, das als Mindestgrundlage für die 
 
 > je nach relevanter Arbeitserfahrung und Qualifikation.
 
-als ein eigenartig formulierter Hinweis auf die Bereitschaft zur kollektivvertraglichen Überzahlung (?) allein stehen.
+allein stehen, als ein Hinweis auf die Bereitschaft zur kollektivvertraglichen Überzahlung, vermutlich.
 
 ~~Begeisterung, die  wird man schwer auf dem (Arbeits) Markt anbieten können~~
 
