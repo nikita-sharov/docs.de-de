@@ -18,7 +18,7 @@ hiermit möchte ich mich für die obige Position (Standort: Graz) bewerben. Dabe
 Mit freundlichen Grüßen,  
 Nikita Sharov
 
-## Kundenorientierung
+## Hohe Kundenorientierung
 
 > Als einer der führenden IT Provider bietet Ihnen ACP mehr als nur einfach einen Job:
 
@@ -26,17 +26,17 @@ Hiermit wäre die ACP Gruppe, als Arbeitgeber, der Anbieter, auf dem Arbeitsmark
 
 > Begeisterung statt Dienst nach Vorschrift.
 
-Nun, Begeisterung, die der Kunde nach dem Abschließen des Geschäftes (in Form eines Arbeitsvertrages) empfinden sollte, kann man schwer anbieten. Schließlich ist der Anbieter kein Drogendealer (oder Pharmakonzern): Es werden keine Glückshormone, die Begeisterung hervorrufen könnten, angeboten.
+Nun, Begeisterung, die der Kunde erst in weiterer Folge empfinden sollte, kann man schwer anbieten. Schließlich werden keine Glückshormone, die Begeisterung hervorrufen könnten, angeboten.
 
-Dienst nach Vorschrift ist wiederum ein Verhalten, die ein Arbeitgeber erst in weiterer Folge, im Gegenzug für die gebotenen Arbeitsbedingungen, bekommen könnte. Über Arbeitsbedingungen, die bei allen Beteiligten Begeisterung auslösen, würde ich mich natürlich freuen.
+Dienst nach Vorschrift wäre wiederum ein Verhalten, das ein Arbeitnehmer an den Tag legen könnte, im Gegenzug für die gebotenen Arbeitsbedingungen. Über Umstände, die Begeisterung auslösen, würde ich mich natürlich freuen.
 
 > Ein echtes Team statt einfach nur Kollegen und
 
-Ein weiteres "Merkmal", das sich im Vorfeld, vor dem Geschäftsabschluss, kaum überprüfen lässt.
+Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre
 
 > eine Berufung statt einfach einen Beruf.
 
-Berufung, im Sinne einer besonderen Befähigung, die jemand als Auftrag in sich fühlt, kann man gar nicht anbieten. 
+Berufung, im Sinne einer besonderen Befähigung, die jemand als Auftrag in sich fühlt, kann man gar nicht anbieten. Dabei wäre es für mich ein Traum, zusammen mit Menschen, die einer Berufung hauptberuflich nachkommen, arbeiten zu dürfen.
 
 ## Genauigkeit
 
