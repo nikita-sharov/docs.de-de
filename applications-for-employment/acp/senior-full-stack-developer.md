@@ -18,6 +18,26 @@ hiermit möchte ich mich für die obige Position (Standort: Graz) bewerben. Dabe
 Mit freundlichen Grüßen,  
 Nikita Sharov
 
+## Kundenorientierung
+
+> Als einer der führenden IT Provider bietet Ihnen ACP mehr als nur einfach einen Job:
+
+Hiermit wäre die ACP Gruppe, als Arbeitgeber, der Anbieter, auf dem Arbeitsmarkt, und der  Bewerber, als potentieller Arbeitnehmer, ein Kunde. Weiterhin werden den wesentlichen Merkmale, die das Gebotene ausmachen und von Angeboten anderer Anbieter unterscheiden, aufgelistet:
+
+> Begeisterung statt Dienst nach Vorschrift.
+
+Nun, Begeisterung, die der Kunde nach dem Abschließen des Geschäftes (in Form eines Arbeitsvertrages) empfinden sollte, kann man schwer anbieten. Schließlich ist der Anbieter kein Drogendealer (oder Pharmakonzern): Es werden keine Glückshormone, die Begeisterung hervorrufen könnten, angeboten.
+
+Dienst nach Vorschrift ist wiederum ein Verhalten, die ein Arbeitgeber erst in weiterer Folge, im Gegenzug für die gebotenen Arbeitsbedingungen, bekommen könnte. Über Arbeitsbedingungen, die bei allen Beteiligten Begeisterung auslösen, würde ich mich natürlich freuen.
+
+> Ein echtes Team statt einfach nur Kollegen und
+
+Ein weiteres "Merkmal", das sich im Vorfeld, vor dem Geschäftsabschluss, kaum überprüfen lässt.
+
+> eine Berufung statt einfach einen Beruf.
+
+Berufung, im Sinne einer besonderen Befähigung, die jemand als Auftrag in sich fühlt, kann man gar nicht anbieten. 
+
 ## Genauigkeit
 
 > Sie sind als .NET SoftwareentwicklerIn (für Azure und/oder SharePoint) von der Konzeption[,] über die Implementierung[,] bis hin zum Testing[,] und der Auslieferung von Kundenlösungen involviert.
