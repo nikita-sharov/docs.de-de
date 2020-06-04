@@ -32,7 +32,7 @@ Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form 
 
 > eine Berufung statt einfach einen Beruf.
 
-Berufung, im Sinne der inneren Bestimmung, einer besonderen Befähigung, die jemand als Auftrag in sich fühlt, wird genau wie Begeisterung schwer anzubieten sein. Dabei würde ich mich glücklich schätzen, zusammen mit Menschen, die einer Berufung hauptberuflich nachkommen, arbeiten zu dürfen.
+Berufung, im Sinne der inneren Bestimmung, einer besonderen Befähigung, die jemand als Auftrag in sich fühlt, wird diesem Jemand, genau wie Begeisterung, schwer anzubieten sein. Dabei würde ich mich glücklich schätzen, zusammen mit Menschen, die einer Berufung hauptberuflich nachkommen, arbeiten zu dürfen.
 
 ## Genauigkeit
 
@@ -60,15 +60,15 @@ Hier würde ich das erste "SP" streichen, nachdem es für "SharePoint" steht:
 
 *SharePoint (~~SharePoint~~ Farm Solutions)*. 
 
-Der aktuellen Terminologie des Herstellers entsprechend ließe sich der Azure-Part wie folgt formulieren ([Web Apps](https://azure.microsoft.com/services/app-service/web) als ein Aufgabengebiet des [App Service](https://azure.microsoft.com/services/app-service), zwecks Gleichrangigkeit der Elemente der Aufzählung): 
+Der aktuellen Terminologie des Herstellers entsprechend ließe sich der Azure-Part wie folgt formulieren ([Web Apps](https://azure.microsoft.com/services/app-service/web) als ein Aufgabengebiet des [App Service](https://azure.microsoft.com/services/app-service), zwecks gleichrangiger Elemente in der Aufzählung): 
 
 *Azure (Functions, App- und [DevOps Services](https://azure.microsoft.com/services/devops))*. 
 
-Auslassungspunkte wären hier eher angebracht, nachdem es inzwischen mehrere Hundert verschiedene [Azure Services](https://azure.microsoft.com/services) gibt (auf die Services von Microsoft bezogen; neben unzähligen [Angeboten der Drittanbieter](https://azuremarketplace.microsoft.com)).
+Auslassungspunkte wären hier eher angebracht, nachdem es inzwischen 200+ verschiedene [Azure Services](https://azure.microsoft.com/services) gibt (auf die Services von Microsoft bezogen; neben unzähligen [Angeboten der Drittanbieter](https://azuremarketplace.microsoft.com)).
 
 > Idealerweise besitzen Sie Microsoft Azure, SharePoint oder Office 365 Zertifizierungen
 
-Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziert werden, das Ideal darstellen, warum stellt dann unmittelbare Erfahrung mit Microsoft Produkten, Technologien und Dienstleistungen nur ein Plus dar?
+Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziiert werden, das Ideal darstellen, warum stellt dann unmittelbare Erfahrung mit Microsoft Produkten, Technologien und Dienstleistungen nur ein Plus dar?
 
 > Es erwartet Sie eine verantwortungsvolle Tätigkeit mit Zukunftsperspektiven.
 
