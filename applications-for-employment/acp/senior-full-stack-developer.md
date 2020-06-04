@@ -26,17 +26,17 @@ Hiermit wäre die ACP Gruppe, als Arbeitgeber, der Anbieter, auf dem Arbeitsmark
 
 > Begeisterung statt Dienst nach Vorschrift.
 
-Nun, Begeisterung, die der Kunde erst in weiterer Folge empfinden sollte, kann man schwer anbieten. Schließlich werden keine Glückshormone, die Begeisterung hervorrufen könnten, angeboten.
-
-Dienst nach Vorschrift wäre wiederum ein Verhalten, das ein Arbeitnehmer an den Tag legen könnte, im Gegenzug für die gebotenen Arbeitsbedingungen. Über Umstände, die Begeisterung auslösen, würde ich mich natürlich freuen.
+Nun, Begeisterung, als eine Empfindung, kann man schwer anbieten. Hier werden schließlich keine Glückshormone vermarktet. Dienst nach Vorschrift wäre wiederum ein Verhalten, das ein Arbeitnehmer erst in weiterer Folge an den Tag legen könnte, im Gegenzug für die tatsächlichen Arbeitsbedingungen. Über Umstände, die dauerhaft für Begeisterung sorgen, bei allen Beteiligten (inkl. Kundeskunden), würde ich mich natürlich freuen.
 
 > Ein echtes Team statt einfach nur Kollegen und
 
-Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre
+Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre, um Probleme zu behandeln, die ich allein nie lösen könnte. Die Gesamtleistung eines echtes Teams sollte der Leistung des besten Einzelnen oder der Summe der Einzelleistungen überlegen sein.
+
+~~Hinweis: Die Anzahl der der Umsatz oder die Besitz (s. [acp.at/ueber-uns/das-unternehmen](https://www.acp.at/ueber-uns/das-unternehmen)): bei Facebook (s .~~
 
 > eine Berufung statt einfach einen Beruf.
 
-Berufung, im Sinne einer besonderen Befähigung, die jemand als Auftrag in sich fühlt, kann man gar nicht anbieten. Dabei wäre es für mich ein Traum, zusammen mit Menschen, die einer Berufung hauptberuflich nachkommen, arbeiten zu dürfen.
+Berufung, im Sinne einer besonderen Befähigung, die jemand als Auftrag in sich fühlt, kann man gar nicht anbieten. Dabei wäre es für mich ein Traum, zusammen mit Menschen, die einer Berufung hauptberuflich nachkommen, arbeiten zu dürfen. Potential. Ausschöpfen. Fordern und fördern.
 
 ## Genauigkeit
 
@@ -82,7 +82,7 @@ Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziert ~~(un
 
 "Zukunftsperspektiven" sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine Zusatzleistung. Selbstverantwortung, als Verantwortung für das eigene Handeln, darf man spätestens ab der Volljährigkeit grundsätzlich (strafrechtlich zumindest) erwarten.
 
-Hinweis: Als eine äußerst fragliche Zusatzleistung (aka Benefit) gilt auch das Mitarbeitergespräch (s. [acp.at/karriere](https://www.acp.at/karriere)).
+~~Hinweis: Als eine äußerst fragliche Zusatzleistung (aka Benefit) gilt auch das Mitarbeitergespräch (s. [acp.at/karriere](https://www.acp.at/karriere)).~~
 
 > Das gebotene monatliche Bruttogehalt liegt bei (mind.) 3.300 - je nach relevanter Arbeitserfahrung und Qualifikation.
 
