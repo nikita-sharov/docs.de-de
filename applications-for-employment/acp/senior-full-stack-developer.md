@@ -6,14 +6,12 @@ Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5486367) (Stelleni
 
 Sehr geehrte Frau Braun,
 
-hiermit möchte ich mich für die obige Position (Standort: Graz) bewerben. Dabei versuche ich 
+hiermit möchte ich mich für die obige Position (Standort: Graz) bewerben. Hierbei versuche die gesuchten Qualitäten gleich unter Beweis zu stellen (statt diese als gegeben zu deklarieren), indem ich:
 
-- etwas weiter zu denken;
-- Eigeninitiative zu ergreifen und mich leidenschaftlich zu involvieren;
-- die Qualität der vorliegenden Ausschreibung kundenorientiert zu steigern;
-- dabei Verantwortung zu übernehmen, in der Höhe der Zeit, die ich als Aufwand investiere;
-- damit Motivation zu zeigen und Genauigkeit unter Beweis zu stellen;
-- innovativ zu sein.
+- ein kleines [Demo-Projekt](https://github.com/nikita-sharov/acp) in Eigeninitiative baue;
+- der Maxime "Miteinander weiter denken" im Anhang folge.
+
+Bitte beachten Sie dabei meine Bereitschaft Verantwortung zu übernehmen, in der Höhe der Zeit, die ich als Aufwand investiere.
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
@@ -26,13 +24,11 @@ Hiermit wäre die ACP Gruppe, als Arbeitgeber, der Anbieter (auf dem Arbeitsmark
 
 > Begeisterung statt Dienst nach Vorschrift.
 
-Nun, Begeisterung, als eine Empfindung, kann man schwer anbieten. ~~Hier werden schließlich keine Glückshormone vermarktet.~~ Dienst nach Vorschrift wäre wiederum ein Verhalten, das ein Arbeitnehmer erst in weiterer Folge an den Tag legen könnte, im Gegenzug für die tatsächlichen Arbeitsbedingungen. Über Umstände, die dauerhaft für Begeisterung sorgen, bei allen Beteiligten ~~(inkl. Kundeskunden)~~, würde ich mich natürlich freuen.
+Nun, Begeisterung, als eine Empfindung, kann man schwer anbieten. Dienst nach Vorschrift wäre wiederum ein Verhalten, das ein Arbeitnehmer erst in weiterer Folge an den Tag legen könnte, im Gegenzug für die tatsächlichen Arbeitsbedingungen. Über Umstände, die dauerhaft für Begeisterung sorgen, bei allen Beteiligten, würde ich mich natürlich freuen.
 
 > Ein echtes Team statt einfach nur Kollegen und
 
-Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre, um Probleme zu behandeln, die ich allein nie lösen könnte. Die Gesamtleistung eines echtes Teams sollte der Leistung des besten Einzelnen oder der Summe der Einzelleistungen überlegen sein.
-
-~~Hinweis: Die Anzahl der der Umsatz oder die Besitz (s. [acp.at/ueber-uns/das-unternehmen](https://www.acp.at/ueber-uns/das-unternehmen)): bei Facebook (s .~~
+Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre, um Probleme zu behandeln, die ich allein nie lösen könnte. Von einem echten Team erwarte ich eine Gesamtleistung, die der Leistung des besten Einzelnen oder der Summe der Einzelleistungen überlegen wäre.
 
 > eine Berufung statt einfach einen Beruf.
 
@@ -64,8 +60,6 @@ Hier würde ich das erste "SP" streichen, nachdem es für "SharePoint" steht:
 
 *SharePoint (~~SharePoint~~ Farm Solutions)*. 
 
-~~(SPFx, für SharePoint Framework, ist wiederum ein unglückliches Akronym, nachdem SPF für SharePoint Foundation stand.)~~
-
 Der aktuellen Terminologie des Herstellers entsprechend ließe sich der Azure-Part wie folgt formulieren ([Web Apps](https://azure.microsoft.com/services/app-service/web) als ein Aufgabengebiet des [App Service](https://azure.microsoft.com/services/app-service), zwecks Gleichrangigkeit der Elemente der Aufzählung): 
 
 *Azure (Functions, App- und [DevOps Services](https://azure.microsoft.com/services/devops))*. 
@@ -74,15 +68,13 @@ Auslassungspunkte wären hier eher angebracht, nachdem es inzwischen mehrere Hun
 
 > Idealerweise besitzen Sie Microsoft Azure, SharePoint oder Office 365 Zertifizierungen
 
-Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziert ~~(und von Laien womöglich direkt verbunden)~~ werden, das Ideal darstellen, warum stellt dann unmittelbare Erfahrung mit Microsoft Produkten, Technologien und Dienstleistungen nur ein Plus dar?
+Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziert werden, das Ideal darstellen, warum stellt dann unmittelbare Erfahrung mit Microsoft Produkten, Technologien und Dienstleistungen nur ein Plus dar?
 
 > Es erwartet Sie eine verantwortungsvolle Tätigkeit mit Zukunftsperspektiven.
 
 "Ihre Verantwortung" unter "Ihre Aufgaben", "Verantwortungsbewusstsein" unter "Ihr Profil", "Aufgabengebiet mit Selbstverantwortung" unter "Unser Angebot", "verantwortungsvolle Tätigkeit" unter "Gehaltsinformation" …
 
-"Zukunftsperspektiven" sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine Zusatzleistung. Selbstverantwortung, als Verantwortung für das eigene Handeln, darf man spätestens ab der Volljährigkeit grundsätzlich (strafrechtlich zumindest) erwarten.
-
-~~Hinweis: Als eine äußerst fragliche Zusatzleistung (aka Benefit) gilt auch das Mitarbeitergespräch (s. [acp.at/karriere](https://www.acp.at/karriere)).~~
+"Zukunftsperspektiven" sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine Zusatzleistung. Selbstverantwortung, als Verantwortung für das eigene Handeln, wird ab der Volljährigkeit grundsätzlich erwartet.
 
 > Das gebotene monatliche Bruttogehalt liegt bei (mind.) 3.300 - je nach relevanter Arbeitserfahrung und Qualifikation.
 
@@ -95,9 +87,3 @@ Arbeitsrechtlich ist jenes Entgelt anzugeben, das als Mindestgrundlage für die 
 > je nach relevanter Arbeitserfahrung und Qualifikation.
 
 allein stehen, als ein Hinweis auf die Bereitschaft zur kollektivvertraglichen Überzahlung, vermutlich.
-
-~~Begeisterung, die  wird man schwer auf dem (Arbeits) Markt anbieten können~~
-
-Berufung (laut [Duden](https://www.duden.de/rechtschreibung/Berufung): besondere Befähigung, die jemand als Auftrag in sich fühlt) kann man nicht anbieten.
-
-Hier sind anscheinend die Seiten vertauscht worden:
