@@ -22,11 +22,11 @@ Nikita Sharov
 
 > Als einer der führenden IT Provider bietet Ihnen ACP mehr als nur einfach einen Job:
 
-Hiermit wäre die ACP Gruppe, als Arbeitgeber, der Anbieter, auf dem Arbeitsmarkt, und der  Bewerber, als potentieller Arbeitnehmer, ein Kunde. Weiterhin werden den wesentlichen Merkmale, die das Gebotene ausmachen und von Angeboten anderer Anbieter unterscheiden, aufgelistet:
+Hiermit wäre die ACP Gruppe, als Arbeitgeber, der Anbieter (auf dem Arbeitsmarkt), und der  Bewerber, als potentieller Arbeitnehmer, ein Kunde. Weiterhin werden die wesentlichen Merkmale, die das Gebotene ausmachen und von Angeboten anderer Anbieter unterscheiden, aufgelistet:
 
 > Begeisterung statt Dienst nach Vorschrift.
 
-Nun, Begeisterung, als eine Empfindung, kann man schwer anbieten. Hier werden schließlich keine Glückshormone vermarktet. Dienst nach Vorschrift wäre wiederum ein Verhalten, das ein Arbeitnehmer erst in weiterer Folge an den Tag legen könnte, im Gegenzug für die tatsächlichen Arbeitsbedingungen. Über Umstände, die dauerhaft für Begeisterung sorgen, bei allen Beteiligten (inkl. Kundeskunden), würde ich mich natürlich freuen.
+Nun, Begeisterung, als eine Empfindung, kann man schwer anbieten. ~~Hier werden schließlich keine Glückshormone vermarktet.~~ Dienst nach Vorschrift wäre wiederum ein Verhalten, das ein Arbeitnehmer erst in weiterer Folge an den Tag legen könnte, im Gegenzug für die tatsächlichen Arbeitsbedingungen. Über Umstände, die dauerhaft für Begeisterung sorgen, bei allen Beteiligten ~~(inkl. Kundeskunden)~~, würde ich mich natürlich freuen.
 
 > Ein echtes Team statt einfach nur Kollegen und
 
@@ -36,7 +36,7 @@ Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form 
 
 > eine Berufung statt einfach einen Beruf.
 
-Berufung, im Sinne einer besonderen Befähigung, die jemand als Auftrag in sich fühlt, kann man gar nicht anbieten. Dabei wäre es für mich ein Traum, zusammen mit Menschen, die einer Berufung hauptberuflich nachkommen, arbeiten zu dürfen. Potential. Ausschöpfen. Fordern und fördern.
+Berufung, im Sinne der inneren Bestimmung, einer besonderen Befähigung, die jemand als Auftrag in sich fühlt, wird genau wie Begeisterung schwer anzubieten sein. Dabei würde ich mich glücklich schätzen, zusammen mit Menschen, die einer Berufung hauptberuflich nachkommen, arbeiten zu dürfen.
 
 ## Genauigkeit
 
