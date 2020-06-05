@@ -36,45 +36,11 @@ Berufung, im Sinne der inneren Bestimmung, einer besonderen Befähigung, die jem
 
 ## Genauigkeit
 
-> Sie sind als .NET SoftwareentwicklerIn (für Azure und/oder SharePoint) von der Konzeption[,] über die Implementierung[,] bis hin zum Testing[,] und der Auslieferung von Kundenlösungen involviert.
+> Ihre Verantwortung […] Ihr […] Verantwortungsbewusstsein […] Unser Angebot […] Aufgabengebiet mit Selbstverantwortung […] Gehaltsinformation […] verantwortungsvolle Tätigkeit mit Zukunftsperspektiven.
 
-Ich würde hier alle Kommas streichen, von dem ersten bis zum letzten.
-
-> Ihre Verantwortung liegt darin die Anforderungen effiz[i]ent und mit einer hohen Qualität umzusetzen, dabei unterstützt Sie ein Team von erfahrenen Entwickler(n)Innen.
-
-T**i**ppfehler.
-
-> Fundierte IT-Ausbildung (Lehre, HTL, FH, Uni[,] …)
-
-Das Komma vor den Auslassungspunkten
-
-> Sie verfügen über Kenntnisse in C#, HTML5, CSS[,] und JavaScript
-
-sowie das Komma vor dem "und" würde ich auch streichen.
+"Zukunftsperspektiven" sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine [Zusatzleistung](#zusatzleistung). Selbstverantwortung, als Verantwortung für das eigene Handeln, ist ab der Volljährigkeit grundsätzlich zu erwarten.
 
 ## Analytisches Denkvermögen
-
-> Erfahrung mit SharePoint (~~SP~~ Farm Solutions, SPFx, PnP[,] …) und Azure (Functions, Web Apps, ~~Azure~~DevOps) wäre ein Plus
-
-Hier würde ich das erste "SP" streichen, nachdem es für "SharePoint" steht: 
-
-*SharePoint (~~SharePoint~~ Farm Solutions)*. 
-
-Der aktuellen Terminologie des Herstellers entsprechend ließe sich der Azure-Part wie folgt formulieren ([Web Apps](https://azure.microsoft.com/services/app-service/web) als ein Aufgabengebiet des [App Service](https://azure.microsoft.com/services/app-service), zwecks gleichrangiger Elemente in der Aufzählung): 
-
-*Azure (Functions, App- und DevOps Services)*. 
-
-Auslassungspunkte wären hier eher angebracht, nachdem es inzwischen 200+ verschiedene [Azure Services](https://azure.microsoft.com/services) gibt (auf die Services von Microsoft bezogen; neben unzähligen [Angeboten der Drittanbieter](https://azuremarketplace.microsoft.com)).
-
-> Idealerweise besitzen Sie Microsoft Azure, SharePoint oder Office 365 Zertifizierungen
-
-Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziiert werden, das Ideal darstellen, warum stellt dann unmittelbare Erfahrung mit Microsoft Produkten, Technologien und Dienstleistungen nur ein Plus dar?
-
-> Es erwartet Sie eine verantwortungsvolle Tätigkeit mit Zukunftsperspektiven.
-
-"Ihre Verantwortung" unter "Ihre Aufgaben", "Verantwortungsbewusstsein" unter "Ihr Profil", "Aufgabengebiet mit Selbstverantwortung" unter "Unser Angebot", "verantwortungsvolle Tätigkeit" unter "Gehaltsinformation" …
-
-"Zukunftsperspektiven" sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine [Zusatzleistung](#zusatzleistung). Selbstverantwortung, als Verantwortung für das eigene Handeln, wird ab der Volljährigkeit grundsätzlich erwartet.
 
 > Das gebotene monatliche Bruttogehalt liegt bei (mind.) 3.300 - je nach relevanter Arbeitserfahrung und Qualifikation.
 
@@ -88,7 +54,7 @@ Arbeitsrechtlich ist jenes Entgelt anzugeben, das als Mindestgrundlage für die 
 
 allein stehen, als ein Hinweis auf die Bereitschaft zur kollektivvertraglichen Überzahlung, vermutlich.
 
-## Anmerkungen zu den Anmerkungen
+## Anmerkungen
 
 ### Gesamtleistung
 
