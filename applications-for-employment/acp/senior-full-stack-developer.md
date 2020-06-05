@@ -100,4 +100,4 @@ Wenn ich das vorhin Ausgeborgte zinsfrei erhalten und das Gekaufte um 1 Billion 
 
 ### Zusatzleistung
 
-Das jährliche Mitarbeitergespräch als eine Zusatzleistung (aka Benefit) [aufzulisten](https://www.acp.at/karriere), stellt "kurze Entscheidungswege" in Frage. So könnte man auch Straßenanbindung oder Heizung als Zusatzleistungen bezeichnen.
+Das jährliche Mitarbeitergespräch als eine Zusatzleistung (aka Benefit) zu [bezeichnen](https://www.acp.at/karriere), stellt "kurze Entscheidungswege" in Frage. So könnte man auch Straßenanbindung oder Heizung als Zusatzleistungen auflisten.
