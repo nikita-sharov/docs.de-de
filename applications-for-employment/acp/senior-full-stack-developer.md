@@ -90,13 +90,11 @@ allein stehen, als ein Hinweis auf die Bereitschaft zur kollektivvertraglichen �
 
 ## Anmerkungen zu den Anmerkungen
 
-Bitte nicht lesen!
-
 ### Gesamtleistung
 
 Wenn ich, "gegründet" im Jahre 1982, mir 500 Milliarden € ausborge, um 500 Milliarden € etwas kaufe und das Gekaufte um 500 Milliarden € verkaufe, mache ich 500 Milliarden € Umsatz.
 
-Das, was ein Mitarbeiter Apple (einer der *Partner von ACP*) an [Gewinn](https://www.postbeyond.com/profit-per-employee) bringt, bringt ein Mitarbeiter bei ACP (einer der *Authorized Enterprise Reseller* von Apple) an [Umsatz](https://www.acp.at/ueber-uns/das-unternehmen).
+Das, was ein Mitarbeiter Apple (einer der Partner von ACP) an [Gewinn](https://www.postbeyond.com/profit-per-employee) bringt, bringt ein Mitarbeiter bei ACP (einer der Authorized Enterprise Reseller von Apple) an [Umsatz](https://www.acp.at/ueber-uns/das-unternehmen).
 
 Wenn ich das vorhin Ausgeborgte zinsfrei erhalten und das Gekaufte um 1 Billion € verkauft hätte, hätte ich 500 Milliarden € Gewinn erwirtschaftet und dabei nichts erschaffen.
 
