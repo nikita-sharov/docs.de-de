@@ -62,7 +62,7 @@ Hier würde ich das erste "SP" streichen, nachdem es für "SharePoint" steht:
 
 Der aktuellen Terminologie des Herstellers entsprechend ließe sich der Azure-Part wie folgt formulieren ([Web Apps](https://azure.microsoft.com/services/app-service/web) als ein Aufgabengebiet des [App Service](https://azure.microsoft.com/services/app-service), zwecks gleichrangiger Elemente in der Aufzählung): 
 
-*Azure (Functions, App- und [DevOps Services](https://azure.microsoft.com/services/devops))*. 
+*Azure (Functions, App- und DevOps Services)*. 
 
 Auslassungspunkte wären hier eher angebracht, nachdem es inzwischen 200+ verschiedene [Azure Services](https://azure.microsoft.com/services) gibt (auf die Services von Microsoft bezogen; neben unzähligen [Angeboten der Drittanbieter](https://azuremarketplace.microsoft.com)).
 
