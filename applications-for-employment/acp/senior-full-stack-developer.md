@@ -28,7 +28,7 @@ Nun, Begeisterung, als eine Empfindung, kann man schwer anbieten. Dienst nach Vo
 
 > Ein echtes Team statt einfach nur Kollegen und
 
-Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre, um Probleme zu behandeln, die ich allein nie lösen könnte. Von einem echten Team würde ich eine [Gesamtleistung](#Gesamtleistung) erwarten, die der Leistung des besten Einzelnen oder der Summe der Einzelleistungen überlegen wäre.
+Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre, um Probleme zu behandeln, die ich allein nie lösen könnte. Von einem echten Team würde ich eine [Gesamtleistung](#gesamtleistung) erwarten, die der Leistung des besten Einzelnen oder der Summe der Einzelleistungen überlegen wäre.
 
 > eine Berufung statt einfach einen Beruf.
 
@@ -74,7 +74,7 @@ Wenn Microsoft Zertifizierungen, die mit Erfahrung und Kompetenz assoziiert werd
 
 "Ihre Verantwortung" unter "Ihre Aufgaben", "Verantwortungsbewusstsein" unter "Ihr Profil", "Aufgabengebiet mit Selbstverantwortung" unter "Unser Angebot", "verantwortungsvolle Tätigkeit" unter "Gehaltsinformation" …
 
-"Zukunftsperspektiven" sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine [Zusatzleistung](#Zusatzleistung). Selbstverantwortung, als Verantwortung für das eigene Handeln, wird ab der Volljährigkeit grundsätzlich erwartet.
+"Zukunftsperspektiven" sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine [Zusatzleistung](#zusatzleistung). Selbstverantwortung, als Verantwortung für das eigene Handeln, wird ab der Volljährigkeit grundsätzlich erwartet.
 
 > Das gebotene monatliche Bruttogehalt liegt bei (mind.) 3.300 - je nach relevanter Arbeitserfahrung und Qualifikation.
 
@@ -88,16 +88,18 @@ Arbeitsrechtlich ist jenes Entgelt anzugeben, das als Mindestgrundlage für die 
 
 allein stehen, als ein Hinweis auf die Bereitschaft zur kollektivvertraglichen Überzahlung, vermutlich.
 
-## Anmerkungen
+## Anmerkungen zu den Anmerkungen
+
+Bitte nicht lesen!
 
 ### Gesamtleistung
 
-Wenn ich, allein, "gegründet" im Jahre 1982, mir 500 Milliarden € ausborge, um 500 Milliarden € etwas kaufe und das Gekaufte um 500 Milliarden € verkaufe, mache ich 500 Milliarden € Umsatz.
+Wenn ich, "gegründet" im Jahre 1982, mir 500 Milliarden € ausborge, um 500 Milliarden € etwas kaufe und das Gekaufte um 500 Milliarden € verkaufe, mache ich 500 Milliarden € Umsatz.
 
-Das Doppelte von dem, was ein Mitarbeiter bei ACP [umsetzt](https://www.acp.at/ueber-uns/das-unternehmen), bringt ein Mitarbeiter bei Facebook an [Gewinn](https://www.postbeyond.com/profit-per-employee).
+Das, was ein Mitarbeiter Apple (einer der *Partner von ACP*) an [Gewinn](https://www.postbeyond.com/profit-per-employee) bringt, bringt ein Mitarbeiter bei ACP (einer der *Authorized Enterprise Reseller* von Apple) an [Umsatz](https://www.acp.at/ueber-uns/das-unternehmen).
 
-(Wenn ich das vorhin Ausgeborgte zinsfrei erhalten und das Gekaufte um 600 Milliarden € verkauft hätte, hätte ich 100 Milliarden € Gewinn erwirtschaftet und dabei nichts erschaffen.)
+Wenn ich das vorhin Ausgeborgte zinsfrei erhalten und das Gekaufte um 1 Billion € verkauft hätte, hätte ich 500 Milliarden € Gewinn erwirtschaftet und dabei nichts erschaffen.
 
 ### Zusatzleistung
 
-Das jährliche Mitarbeitergespräch als eine Zusatzleistung (aka Benefit) zu bezeichnen (s. [acp.at/karriere](https://www.acp.at/karriere)), stellt "kurze Entscheidungswege" in Frage. Weitere Zusatzleistungen dieser Art könnten sein: Straßenanbindung, Heizung, Visitenkarten …
+Das jährliche Mitarbeitergespräch als eine Zusatzleistung (aka Benefit) [aufzulisten](https://www.acp.at/karriere), stellt "kurze Entscheidungswege" in Frage. So könnte man auch Straßenanbindung oder Heizung als Zusatzleistungen bezeichnen.
