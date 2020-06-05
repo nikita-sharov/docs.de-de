@@ -9,7 +9,7 @@ Sehr geehrte Frau Braun,
 hiermit möchte ich mich für die obige Position (Standort: Graz) bewerben. Hierbei versuche die gesuchten Qualitäten gleich unter Beweis zu stellen (statt diese als gegeben zu deklarieren), indem ich:
 
 - ein kleines [Demo-Projekt](https://github.com/nikita-sharov/acp) in Eigeninitiative baue;
-- der Maxime "Miteinander weiter denken" im Anhang folge.
+- der Devise "Miteinander weiter denken [Punkt]" im Anhang folge.
 
 Bitte beachten Sie dabei meine Bereitschaft Verantwortung zu übernehmen, in der Höhe der Zeit, die ich als Aufwand investiere.
 
@@ -24,11 +24,11 @@ Hiermit wäre die ACP Gruppe, als Arbeitgeber, der Anbieter (auf dem Arbeitsmark
 
 > Begeisterung statt Dienst nach Vorschrift.
 
-Nun, Begeisterung, als eine Empfindung, kann man schwer anbieten. Dienst nach Vorschrift wäre wiederum ein Verhalten, das ein Arbeitnehmer erst in weiterer Folge an den Tag legen könnte, im Gegenzug für die tatsächlichen Arbeitsbedingungen. Über Umstände, die dauerhaft für Begeisterung sorgen, bei allen Beteiligten, würde ich mich natürlich freuen.
+Nun, Begeisterung, als eine Empfindung, kann man schwer anbieten. Dienst nach Vorschrift wäre wiederum ein Verhalten, das ein Arbeitnehmer erst in weiterer Folge an den Tag legen könnte, im Gegenzug für die tatsächlichen Arbeitsbedingungen. Über Umstände, die dauerhaft für Begeisterung sorgen, würde ich mich natürlich freuen.
 
 > Ein echtes Team statt einfach nur Kollegen und
 
-Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre, um Probleme zu behandeln, die ich allein nie lösen könnte. Von einem echten Team erwarte ich eine Gesamtleistung, die der Leistung des besten Einzelnen oder der Summe der Einzelleistungen überlegen wäre.
+Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre, um Probleme zu behandeln, die ich allein nie lösen könnte. Von einem echten Team würde ich eine Gesamtleistung erwarten, die der Leistung des besten Einzelnen oder der Summe der Einzelleistungen überlegen wäre.
 
 > eine Berufung statt einfach einen Beruf.
 
