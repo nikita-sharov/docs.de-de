@@ -38,7 +38,7 @@ Berufung, im Sinne der inneren Bestimmung, einer besonderen Befähigung, die jem
 
 > Ihre Verantwortung […] Ihr […] Verantwortungsbewusstsein […] Unser Angebot […] Aufgabengebiet mit Selbstverantwortung […] Gehaltsinformation […] verantwortungsvolle Tätigkeit mit Zukunftsperspektiven.
 
-"Zukunftsperspektiven" sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine [Zusatzleistung](#zusatzleistung). Selbstverantwortung, als Verantwortung für das eigene Handeln, ist ab der Volljährigkeit grundsätzlich zu erwarten.
+Zukunftsperspektiven sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine [Zusatzleistung](#zusatzleistung). Selbstverantwortung, als Verantwortung für das eigene Handeln, ist ab der Volljährigkeit grundsätzlich zu erwarten.
 
 ## Analytisches Denkvermögen
 
