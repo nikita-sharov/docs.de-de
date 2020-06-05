@@ -38,7 +38,7 @@ Berufung, im Sinne der inneren Bestimmung, einer besonderen Befähigung, die jem
 
 > Ihre Verantwortung […] Ihr […] Verantwortungsbewusstsein […] Unser Angebot […] Aufgabengebiet mit Selbstverantwortung […] Gehaltsinformation […] verantwortungsvolle Tätigkeit mit Zukunftsperspektiven.
 
-Zukunftsperspektiven sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine [Zusatzleistung](#zusatzleistung). Selbstverantwortung, als Verantwortung für das eigene Handeln, ist ab der Volljährigkeit grundsätzlich zu erwarten.
+Zukunftsperspektiven sind keine Gehaltsinformation. Verantwortung stellt eine Last dar, keine [Zusatzleistung](#zusatzleistung). Selbstverantwortung, als Verantwortung für das eigene Handeln, ist ab der Volljährigkeit ~~grundsätzlich~~ zu erwarten.
 
 ## Analytisches Denkvermögen
 
@@ -60,7 +60,7 @@ allein stehen, als ein Hinweis auf die Bereitschaft zur kollektivvertraglichen �
 
 Wenn ich, "gegründet" im Jahre 1982, mir 500 Milliarden € ausborge, um 500 Milliarden € etwas kaufe und das Gekaufte um 500 Milliarden € verkaufe, mache ich 500 Milliarden € Umsatz.
 
-Das, was ein Mitarbeiter Apple (einer der Partner von ACP) an [Gewinn](https://www.postbeyond.com/profit-per-employee) bringt, bringt ein Mitarbeiter bei ACP (einer der Authorized Enterprise Reseller von Apple) an [Umsatz](https://www.acp.at/ueber-uns/das-unternehmen).
+Das, was ein Mitarbeiter Apple (Partner von ACP) an [Gewinn](https://www.postbeyond.com/profit-per-employee) bringt, bringt ein Mitarbeiter bei ACP (Authorized Enterprise Reseller von Apple) an [Umsatz](https://www.acp.at/ueber-uns/das-unternehmen).
 
 Wenn ich das vorhin Ausgeborgte zinsfrei erhalten und das Gekaufte um 1 Billion € verkauft hätte, hätte ich 500 Milliarden € Gewinn erwirtschaftet und dabei nichts erschaffen.
 
