@@ -23,7 +23,7 @@ Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Z
 > Up Next  
 > — Karriere
 
-Unter [de/kultur/unsere-werte](https://www.parkside-interactive.com/de/kultur/unsere-werte) steht für das "Up Next" der englischen Version "Nächstes Kapitel" in der Deutschen.
+Unter [de/kultur/unsere-werte](https://www.parkside-interactive.com/de/kultur/unsere-werte) heißt es "Nächstes Kapitel" (und "Next chapter" in der [englischen Version](https://www.parkside-interactive.com/culture/our-values).
 
 Der Halbgeviertstrich (*em dash*, `U+2014`) weist hier wohl auf ein Zitat hin, mit Karriere als Quelle.
 
@@ -32,11 +32,9 @@ Der Halbgeviertstrich (*em dash*, `U+2014`) weist hier wohl auf ein Zitat hin, m
 
 Vor dem Halbgeviertstrich hier wäre ein geschütztes Leerzeichen (*nbsp*, `U+00A0`) zu setzen, um einen Umbruch wie
 
-```
-Better together
-—
-werde Teil unseres Teams!
-```
+> Better together  
+> —  
+> werde Teil unseres Teams!  
 
 zu verhindern. Das Denglisch-Kauderwelsche würde ich meiden.
 
