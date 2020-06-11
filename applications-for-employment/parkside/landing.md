@@ -16,11 +16,9 @@ Ob das die Bio-Veganer glauben?
 
 > News und Updates
 
-*Wasser und Flüssigkeit* 
+*Wasser und Flüssigkeit* könnte eine bestimmte chemische Verbindung in einem der klassischen Aggregatzustände, eigenartig formuliert, darstellen.
 
-(Dies könnte eine bestimmte chemische Verbindung in einem der klassischen Aggregatzustände, eigenartig formuliert, darstellen.)
-
-Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind (keine Updates) und zum Zeitpunkt ihrer Veröffentlichung wohl neu waren, gelistet. 
+Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Zeitpunkt ihrer Veröffentlichung wohl neu waren, gelistet. 
 
 > Up Next  
 > — Karriere
