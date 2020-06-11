@@ -4,15 +4,21 @@ https://www.parkside-interactive.com/de
 
 > Parkside ist ein führender Partner für das Design und die Entwicklung individueller Software.
 
-*X ist ein führender Partner für Äpfel und Obst.* Mögliche Fragen: Wessen Partner ist X? Wohin führt X seine Partner?
+*X ist ein führender Partner für Äpfel und Obst.*
+
+Mögliche Fragen: Wessen Partner ist X? Wohin führt X seine Partner?
 
 > Wir verbinden Software Development, UX/UI Design, Product Development und Technology Consulting, um bessere Software schneller zu liefern.
 
-*Wir verbinden Obst, Äpfel, Produktentwicklung und technische Beratung, um besseres Obst schneller zu liefern.* Ob das die Bio-Veganer glauben?
+*Wir verbinden Obst, Äpfel, Produktentwicklung und technische Beratung, um besseres Obst schneller zu liefern.*
+
+Ob das die Bio-Veganer glauben?
 
 > News und Updates
 
-*Wasser und Flüssigkeit* könnte ein bestimmtes chemisches Element in einem der klassischen Aggregatzustände, eigenartig formuliert, darstellen.  
+*Wasser und Flüssigkeit* 
+
+(Dies könnte eine bestimmte chemische Verbindung in einem der klassischen Aggregatzustände, eigenartig formuliert, darstellen.)
 
 Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind (keine Updates) und zum Zeitpunkt ihrer Veröffentlichung wohl neu waren, gelistet. 
 
@@ -21,7 +27,7 @@ Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind (keine Up
 
 Unter [de/kultur/unsere-werte](https://www.parkside-interactive.com/de/kultur/unsere-werte) steht für das "Up Next" der englischen Version "Nächstes Kapitel" in der Deutschen.
 
-Der Halbgeviertstrich (*em dash*, `U+2014`) weist hier auf ein Zitat hin, mit Karriere als Quelle.
+Der Halbgeviertstrich (*em dash*, `U+2014`) weist hier wohl auf ein Zitat hin, mit Karriere als Quelle.
 
 > Better together —  
 > werde Teil unseres Teams!
