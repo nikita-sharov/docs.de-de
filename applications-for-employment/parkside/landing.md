@@ -6,7 +6,7 @@ https://www.parkside-interactive.com/de
 
 *X ist ein führender Partner für Äpfel und Obst.*
 
-Mögliche Fragen: Wessen Partner ist X? Wohin führt X seine Partner?
+Wessen Partner ist X? Wohin führt X seine Partner?
 
 > Wir verbinden Software Development, UX/UI Design, Product Development und Technology Consulting, um bessere Software schneller zu liefern.
 
@@ -18,19 +18,21 @@ Ob das die Bio-Veganer glauben?
 
 *Wasser und Flüssigkeit* könnte eine bestimmte chemische Verbindung in einem der klassischen Aggregatzustände, eigenartig formuliert, darstellen.
 
-Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Zeitpunkt ihrer Veröffentlichung wohl neu waren, gelistet. 
+Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Zeitpunkt ihrer Veröffentlichung wohl neu waren, gelistet. In der englishen Version heißt es "News, events & stories".
 
 > Up Next  
 > — Karriere
 
-Unter [de/kultur/unsere-werte](https://www.parkside-interactive.com/de/kultur/unsere-werte) heißt es "Nächstes Kapitel" (und "Next chapter" in der [englischen Version](https://www.parkside-interactive.com/culture/our-values).
+In der englischen Version heißt es "— Careers". Den Halbgeviertstrich (*em dash*, `U+2014`) würde ich streichen und bei Einzahl bleiben. Das Letztere gilt auch für die Navigationsleiste ("Karierre" in der deutschen Version).
 
-Der Halbgeviertstrich (*em dash*, `U+2014`) weist hier wohl auf ein Zitat hin, mit Karriere als Quelle.
+Unter [de/kultur/unsere-werte](https://www.parkside-interactive.com/de/kultur/unsere-werte) heißt es "Nächstes Kapitel" (und "Next chapter" in der [englischen Version](https://www.parkside-interactive.com/culture/our-values)).
+
+Der Halbgeviertstrich hier weist wohl auf ein Zitat hin, mit Karriere als Quelle.
 
 > Better together —  
 > werde Teil unseres Teams!
 
-Vor dem Halbgeviertstrich hier wäre ein geschütztes Leerzeichen (*nbsp*, `U+00A0`) zu setzen, um einen Umbruch wie
+Vor dem Halbgeviertstrich hier wäre ein geschütztes Leerzeichen (*no-break space*, `U+00A0`) zu setzen, um einen Umbruch wie
 
 > Better together  
 > —  

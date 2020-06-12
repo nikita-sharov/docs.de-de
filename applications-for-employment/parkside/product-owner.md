@@ -270,6 +270,13 @@ Fallstudien werden in etwas abgewandelter Form im Referenzmarketing verwendet. H
 
 Allgemein
 
-- Typographie
+- Typografie
 - Ausdrucksweise, Denglische
-- Schwankende
+- Schwankende Qualität (Deustch / Englisch)
+
+Home, English
+
+Careers => Career
+
+
+
