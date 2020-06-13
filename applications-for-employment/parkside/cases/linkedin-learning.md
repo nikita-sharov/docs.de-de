@@ -55,7 +55,7 @@ Man beachte, dass beim Rebranding der Lynda.com App (für [iOS](https://apps.app
 
 > Im Juni 2016 wurde LinkedIn für 26,2 Milliarden US-Dollar von Microsoft übernommen.
 
-Was nicht ausschließlich dem "talent of four of our best mobile developers" (s. "10 years of experience" in der [englischen Version](https://www.parkside-interactive.com/cases/bringing-linkedin-learning-to-mobile)) zu verdanken wäre (LinkedIn selbst beschäftigt 15K+ Mitarbeiter).
+Was nicht ausschließlich dem "Beitrag unserer besten Mobile Developer" (die [englischen Version](https://www.parkside-interactive.com/cases/bringing-linkedin-learning-to-mobile) der Studie nennt die zahlt 4 [vier]) zu verdanken wäre: LinkedIn selbst beschäftigte zum Zeitpunkt der Übernahme 10K+ Mitarbeiter.
 
 ## Unser Beitrag für LinkedIn Learning
 
@@ -69,11 +69,11 @@ die Entwicklung zentraler Features offensichtlich nicht Teil von "Erarbeitung s�
 
 > Sämtliche Apps wurden barrierefrei gestaltet
 
-Die deutsche Lokalisierung einer englischen Fallstudie, oder umgekehrt, macht nicht zwei Fallstudien daraus; sofern die Lokalisierung das Original korrekt wiedergibt.
+Die deutsche Lokalisierung einer englischen Fallstudie, oder umgekehrt, macht nicht zwei Fallstudien daraus.
 
 > Setup tracking
 
-*Set_up tracking* (wovon?) oder *Tracking [-Software] setup*?
+*Set_up tracking* (wovon?) oder *Tracking [-Software] setup*, oder sonst wie?
 
 > A/B testing
 
@@ -125,13 +125,13 @@ Das weiß man auch schon.
 
 > Vor allem die Büros in Mountain View und die dortige Cafeteria, mit den hervorragenden Frühstücks- und Lunch-Buffets, können wir wärmstens empfehlen.
 
-Das Ganze hat sehr wenig mit Barierrefreiheit zu tun.
+Das Ganze hat sehr wenig mit Barierrefreiheit der LinkedIn Learning App zu tun.
 
 ## Erbrachte Leistungen & Key Features
 
-Im Kontext erbrachter Leistungen wäre es zu erwähnen, dass es ein Kapitel namens [Unser Beitrag für LinkedIn Learning](#unser-beitrag-fuer-linked-in-learning) schon gab.
+Im Kontext erbrachter Leistungen wäre es zu erwähnen, dass es die Kapitel  [Unser Beitrag für LinkedIn Learning](#unser-beitrag-fuer-linked-in-learning) und [Das Ergebnis]() schon gab.
 
-Nochmals, ein bestimmtes Feature `A` wäre das Ergebnis einer konkreten Leistung `B`.
+Nochmals, ein bestimmtes Feature A wäre das Ergebnis einer konkreten Leistung B. Die Existenz einer Funktion `A` schließt Arbeitszeit `B` voraus. Ein Kapitel namens "Das Ergebnis" gab es auch schon. 
 
 > Parkside war für die Entwicklung der LinkedIn Learning Apps für iOS und Android verantwortlich.
 
@@ -143,7 +143,7 @@ Mit-verantwortlich.
 
 Davor war es den Usern nicht möglich neue Skills zu entwickeln.
 
-Programmierpsrachen ("Java / Swift")  und "iOS / Android" waren kaum von von Parkside erbrachte Leistungen oder Key Features der LinkedIn Learning App [Einzahl].
+Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android") waren kaum von von Parkside erbrachte Leistungen oder Key Features der LinkedIn Learning App.
 
 ## In a nutshell
 
@@ -151,6 +151,7 @@ Programmierpsrachen ("Java / Swift")  und "iOS / Android" waren kaum von von Par
 
 > Unser Team schuf zentrale Features in allen Phasen für die iOS- und Android-App und gestaltete diese möglichst barrierefrei, 
 
+In welchen Phasen? Horoskop-Leser könnten an Mondphasen denken.
 
 > um sie einem breiten Publikum zugänglich zu machen. 
 
@@ -159,3 +160,7 @@ Ja, man weiß, normalerweise, was Barierrefreiheit bedeutet.
 > Durch unsere Unterstützung gelang es LinkedIn, die Time-to-Market deutlich zu reduzieren.
 
 Dabei wird das unter [Erbrachte Leistungen & Key Features](#erbrachte-leistungen-&-key-features) gar nicht aufgelistet.
+
+> [Download — Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf)
+
+Eine kurze Zusammenfassung am Ende des Zusammengefassten neben einer weiteren, längeren, Zusammenfassung (in PDF-Form) macht wenig Sinn: Die Langfassung hat man schon hinter sich. So gibt es den gleichen Link auch anfangs.
