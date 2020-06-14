@@ -23,7 +23,7 @@ Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Z
 > Up Next  
 > — Karriere
 
-In der englischen Version heißt es "— Careers". Den Halbgeviertstrich (*em dash*, `U+2014`) würde ich streichen und bei Einzahl bleiben. Das Letztere gilt auch für die Navigationsleiste ("Karierre" in der deutschen Version).
+In der englischen Version heißt es "— Careers". Den Halbgeviertstrich (*em dash*, `U+2014`) würde ich streichen und bei Einzahl bleiben. Das Letztere gilt auch für die Navigationsleiste ("Karriere" in der deutschen Version).
 
 Unter [de/kultur/unsere-werte](https://www.parkside-interactive.com/de/kultur/unsere-werte) heißt es "Nächstes Kapitel" (und "Next chapter" in der [englischen Version](https://www.parkside-interactive.com/culture/our-values)).
 
@@ -47,7 +47,7 @@ zu verhindern. Das Denglisch-Kauderwelsche würde ich meiden.
 |----|----|------------|
 |[graz@parkside-interactive.com](mailto:graz@parkside-interactive.com)|[vienna@parkside-interactive.com](mailto:vienna@parkside-interactive.com)|[sf@parkside-interactive.com](mailto:sf@parkside-interactive.com)|
 
-Weiter oben wird [newbiz@parkside-interactive.com](mailto:newbiz@parkside-interactive.com) als Kontakt-Adresse angegeben. An welche Adresse sollte sich ein etabliertes Linzer Unternehmen wenden?
+Weiter oben wird [newbiz@parkside-interactive.com](mailto:newbiz@parkside-interactive.com) als Kontakt-Adresse angegeben. An welche Adresse sollte sich beispielweise ein etabliertes Linzer Unternehmen wenden?
 
 > Directions
 
