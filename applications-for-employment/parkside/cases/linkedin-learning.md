@@ -4,9 +4,9 @@ https://www.parkside-interactive.com/de/cases/mit-linkedin-learning-mobil-lernen
 
 > Nach der Übernahme unseres Kunden Lynda.com war unsere Expertise bei der Entwicklung der Learning-Plattform LinkedIn Learning gefragt.  
 
-Nach einer weiteren Übernahme waren wir wieder mal beim Rebranding (Refactoring / Redesign / Rewrite / Remastering …) einer bestehenden Video-Learning-Plattform beteiligt.
+Nach einer weiteren Übernahme waren wir wieder mal beim Rebranding (Reintegration / Redesign / Rewrite / Remastering …) einer bestehenden, von uns mit-entwickelten Video-Learning-Plattform beteiligt.
 
-"Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform."
+"Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform." -- [Lynda.com](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html)
 
 Rebranding, hier, durch die Zusammenführung, Eingliederung, Integration in die Produkt- und System-Landschaft des neuen Besitzers, mit der Migration der Inhalte und der Beteiligten – der Benutzer, vor allem. 
 
@@ -20,7 +20,7 @@ Die Business-Challenge beim Rebranding der Video-Learning-Plattform Lynda.com wa
 
 > LinkedIn ist die weltweit größte Social Business Plattform mit mehr als 500 Millionen Usern.
 
-Ein Tochterunternehmen von LinkedIn – LinkedIn Learning – die ehemalige [Lynda.com](https://www.lynda.com).
+Ein Tochterunternehmen von LinkedIn (Stand: Juni 2020) – LinkedIn Learning – die ehemalige [Lynda.com](https://www.lynda.com).
 
 ## Unser Zugang
 
@@ -82,7 +82,7 @@ Ja, man weiß es schon.
 
 > Die Zusammenarbeit mit einem der größten Tech-Unternehmen des Silicon Valley bringt natürlich gewisse Herausforderungen mit sich, aber gleichzeitig auch eine Reihe von Möglichkeiten.
 
-LinkedIn zählt nicht zu den "größten" Tech-Unternehmen des Silicon Valley(Top-100, wahrscheinlich). LinkedIn Learning, das Tochterunternehmen, die ehemalige Lynda.com, macht einen Bruchteil (1/20, schätzungsweise), von LinkedIn aus. Jede Herausforderung bringt gleichzeitig zwei Möglichkeiten mit sich mindestens: der Herausforderung gerecht zu werden, oder auch nicht.
+LinkedIn zählt nicht zu den "größten" Tech-Unternehmen des Silicon Valley (Top-100, wahrscheinlich). LinkedIn Learning, das Tochterunternehmen, die ehemalige Lynda.com, macht einen Bruchteil (1/20, schätzungsweise), von LinkedIn aus. Jede Herausforderung bringt gleichzeitig zwei Möglichkeiten mit sich, mindestens: der Herausforderung gerecht zu werden, oder auch nicht.
 
 > Den meisten Unternehmen fehlt beispielsweise das Budget, um sich auf das Thema Barrierefreiheit zu konzentrieren. Hier kamen wir ins Spiel, denn eine unserer Hauptaufgaben war es, die Apps für ein möglichst breites Publikum zugänglich zu machen.
 
@@ -90,7 +90,7 @@ LinkedIn zählt nicht zu den "größten" Tech-Unternehmen des Silicon Valley(Top
 
 > Außerdem war es spannend für uns zu sehen, wie eines der größten Unternehmen des Silicon Valley funktioniert und wie deren Development Stack aussieht.
 
-Nochmals, LinkedIn ist nicht (und war es auch nie) eines der größten Unternehmen des Silicon Valley. Der Stack wäre recht einfach rauszufinden: https://stackshare.io/companies/linkedin. Zu beachten wäre, dass es neben der LinkedIn Learning App weitere LinkedIn Apps gibt, dass die LinkedIn Corporation weitere Software-Lösungen im Einsatz haben wird (s. https://github.com/linkedin).
+Nochmals, LinkedIn ist nicht (und war es auch nie) eines der größten Unternehmen des Silicon Valley. Der Stack wäre recht einfach rauszufinden: https://stackshare.io/companies/linkedin. Zu beachten wäre, dass es neben der LinkedIn Learning App weitere LinkedIn Apps gibt, dass die LinkedIn Corporation weitere Software-Lösungen im Einsatz haben wird (s. https://github.com/linkedin, z. B.).
 
 > Eine neue Herausforderung war es, LinkedIn zu helfen, ihre Apps für alle Zielgruppen zugänglich zu machen.
 
@@ -98,7 +98,7 @@ Wie oft denn noch?!
 
 > Insgesamt arbeiteten wir zwei Jahre lang mit LinkedIn an deren Mobile Learning Apps. 
 
-Ja, man weiß es schon, dass an der LinkedIn Mobile App gearbeitet wurde.
+Ja, man weiß es schon, dass an der "LinkedIn Learning"-App gearbeitet wurde.
 
 > Teil dieser Zusammenarbeit waren zahlreiche Trips nach San Francisco und Mountain View, 
 
@@ -106,7 +106,7 @@ Das weiß man auch schon.
 
 > wo das Unternehmen seinen Hauptsitz hat. 
 
-Es kann schon sein, dass das Unternehmen seinen Hauptsitz in Mountain View (Gründungsort) hatte – heute (2020) liegt dieser im benachbarten Sunnyvale. 
+Es kann schon sein, dass das Unternehmen seinen Hauptsitz in Mountain View (Gründungsort) hatte – heute (Juni 2020) liegt dieser im benachbarten Sunnyvale. 
 
 > Vor allem die Büros in Mountain View und die dortige Cafeteria, mit den hervorragenden Frühstücks- und Lunch-Buffets, können wir wärmstens empfehlen.
 
@@ -128,11 +128,11 @@ Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android"
 
 ## In a nutshell
 
-Am Ende der Langfassung macht eine Kurzfassung wenig Sinn: Die Langfassung hat man schon hinter sich. Die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang, dass sie einer Zusammenfassung bedarf.
+Am Ende der Langfassung macht eine Kurzfassung im "[too long; didn't read](https://www.urbandictionary.com/define.php?term=Too%20long%20didn%27t%20read)"-Zeitalter wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang, dass sie einer Zusammenfassung bedarf.
 
 > Unser Team schuf zentrale Features in allen Phasen für die iOS- und Android-App und gestaltete diese möglichst barrierefrei, 
 
-In welchen Phasen? (Horoskop-Leser könnten an Mondphasen denken.)
+In welchen Phasen? (Horoskop-Leser könnten an die Mondphasen denken.)
 
 > um sie einem breiten Publikum zugänglich zu machen. 
 
@@ -140,7 +140,7 @@ Ja, man weiß, normalerweise, was Barierrefreiheit bedeutet.
 
 > [Download — Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf)
 
-Eine weitere, längere, Kurzfassung, macht im Anschluss an die Langfassung (und die andere Kurzfassung) keinen Sinn: So gibt es den gleichen Link auch anfangs, neben der [LinkedIn Business Challenge](#linkedin-business-challenge).
+Eine weitere, längere, Kurzfassung, macht im Anschluss an die Kurzfassung (und die Langfassung davor) keinen Sinn: So gibt es den gleichen Link auch anfangs, neben der [LinkedIn Business Challenge](#linkedin-business-challenge).
 
 ## Informative Gegenbeispiele
 
