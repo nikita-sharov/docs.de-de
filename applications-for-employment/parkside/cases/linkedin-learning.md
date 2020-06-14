@@ -2,35 +2,19 @@
 
 https://www.parkside-interactive.com/de/cases/mit-linkedin-learning-mobil-lernen
 
-Eine bezeichnende Überschrift wäre: *Lynda.com is now LinkedIn Learning!*
-
-## Outline
-
-
-> Nach der Übernahme unseres Kunden Lynda.com war unsere Expertise bei der Entwicklung der Learning-Plattform LinkedIn Learning gefragt.
-
-2013
-
-- Gigaom, [Flush with cash, lynda.com buys European online learning site video2brain](https://gigaom.com/2013/02/13/flush-with-cash-lynda-com-buys-european-online-learning-site-video2brain/) (2013)
-- 
-
-Wayback Machine, [lynda.com, Press Releases](https://web.archive.org/web/20140122181254/http://www.lynda.com/press/pressrelease?id=3317)
-
-> [lynda.com](https://web.archive.org/web/20140122181254/http://www.lynda.com), an **online learning company**, today announced its acquisition of video2brain, GmbH, a European-based **online video training company** that specializes in German-, French-, Spanish- and English-language courses. lynda.com announced this acquisition less than one month after the news of its $103 million growth equity investment that positioned it for expanded opportunities in technology, content and international expansion.
-
-> We have long envisioned the company providing content in multiple languages. The two options were to organically grow that capability from scratch, or find a company aligned with our culture and business model. What video2brain has built in 11 years is impressive and we are fortunate to welcome their employees, members, partners and authors to lynda.com.
-> 
-> –  Eric Robison, former CEO of lynda.com
+> Nach der Übernahme unseres Kunden Lynda.com war unsere Expertise bei der Entwicklung der Learning-Plattform LinkedIn Learning gefragt.  
 
 Nach einer weiteren Übernahme waren wir wieder mal beim Rebranding (Refactoring / Redesign / Rewrite / Remastering …) einer bestehenden Video-Learning-Plattform beteiligt.
 
-Rebranding, hier, durch das Zusammenführen, die Eingliederung, Integration in neue Produkt- und System-Landschaft(en), Migration der Inhalte und der Beteiligten, könnte neben dem Austauschen des Logos, Anpassung der Schriften und Farben … 
+"Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform."
+
+Rebranding, hier, durch die Zusammenführung, Eingliederung, Integration in die Produkt- und System-Landschaft des neuen Besitzers, mit der Migration der Inhalte und der Beteiligten – der Benutzer, vor allem. 
 
 ## LinkedIn Business Challenge
 
 > Die Entwicklung der LinkedIn Video-Learning-Plattform nach der Übernahme von Lynda.com so rasch wie möglich voranbringen.
 
-Die Business-Challenge beim Rebranding der Video-Learning-Plattform war das Rebranding der Video-Learning-Plattform. Die Projektlaufzeit betrug 1,5 (der [Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf) nach) bis 2 Jahre (s. [Barrierefreiheit ist entscheidend](#barrierefreiheit-ist-entscheidend)), denn das Rebranding war so rasch wie möglich voranzubringen.
+Die Business-Challenge beim Rebranding der Video-Learning-Plattform Lynda.com war das Rebranding der Video-Learning-Plattform. Die Projektlaufzeit betrug 1,5 (der [Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf) nach) bis 2 Jahre (s. [Barrierefreiheit ist entscheidend](#barrierefreiheit-ist-entscheidend)), denn das Rebranding war so rasch wie möglich voranzubringen.
 
 ## Kunde
 
@@ -144,9 +128,7 @@ Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android"
 
 ## In a nutshell
 
-Eine Kurzfassung am Ende der Langfassung macht wenig Sinn: Die Langfassung hat man schon hinter sich. Die Langfassung ist nicht so lang, dass sie einer Zusammenfassung bedarf.
-
-> Nachdem Lynda.com von LinkedIn übernommen wurde, setzten wir unsere Zusammenarbeit mit dem neuen Eigentümer fort. Mit mehr als 10 Jahren Erfahrung in der Entwicklung von Video-Learning-Plattformen unterstützten wir LinkedIn bei der Entwicklung der iOS- und Android-Apps. 
+Am Ende der Langfassung macht eine Kurzfassung wenig Sinn: Die Langfassung hat man schon hinter sich. Die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang, dass sie einer Zusammenfassung bedarf.
 
 > Unser Team schuf zentrale Features in allen Phasen für die iOS- und Android-App und gestaltete diese möglichst barrierefrei, 
 
@@ -156,15 +138,13 @@ In welchen Phasen? (Horoskop-Leser könnten an Mondphasen denken.)
 
 Ja, man weiß, normalerweise, was Barierrefreiheit bedeutet.
 
-> Durch unsere Unterstützung gelang es LinkedIn, die Time-to-Market deutlich zu reduzieren.
-
 > [Download — Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf)
 
-Nochmals, eine weitere, längere, Kurzfassung, macht im Anschluss an die Langfassung (und die andere Kurzfassung) keinen Sinn: So gibt es den gleichen Link auch anfangs.
+Eine weitere, längere, Kurzfassung, macht im Anschluss an die Langfassung (und die andere Kurzfassung) keinen Sinn: So gibt es den gleichen Link auch anfangs, neben der [LinkedIn Business Challenge](#linkedin-business-challenge).
 
 ## Informative Gegenbeispiele
 
-S. wie Lynda.com die neue Platform, das Ergebnis, [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier das Transcript):
+Wie Lynda.com die neue Plattform, das Ergebnis, Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier das Transcript):
 
 > Soon, you'll be able to upgrade to our new learning platform, LinkedIn Learning, which delivers the same great lynda.com content through a personalized, easy-to-use, new experience. With unique insights from LinkedIn, based on a person's job title and skillsets, LinkedIn Learning delivers a personalized learning experience, highlighting content that will help individuals succeed in their given role.
 >
@@ -172,3 +152,18 @@ S. wie Lynda.com die neue Platform, das Ergebnis, [beschreibt](https://www.lynda
 >
 > On the day of your upgrade, all of your organization's activity and data from lynda.com will automatically migrate to LinkedIn Learning and that's it.
 
+
+2013
+
+- Gigaom, [Flush with cash, lynda.com buys European online learning site video2brain](https://gigaom.com/2013/02/13/flush-with-cash-lynda-com-buys-european-online-learning-site-video2brain/) (2013)
+- 
+
+Wayback Machine, [lynda.com, Press Releases](https://web.archive.org/web/20140122181254/http://www.lynda.com/press/pressrelease?id=3317)
+
+> [lynda.com](https://web.archive.org/web/20140122181254/http://www.lynda.com), an **online learning company**, today announced its acquisition of video2brain, GmbH, a European-based **online video training company** that specializes in German-, French-, Spanish- and English-language courses. lynda.com announced this acquisition less than one month after the news of its $103 million growth equity investment that positioned it for expanded opportunities in technology, content and international expansion.
+
+> We have long envisioned the company providing content in multiple languages. The two options were to organically grow that capability from scratch, or find a company aligned with our culture and business model. What video2brain has built in 11 years is impressive and we are fortunate to welcome their employees, members, partners and authors to lynda.com.
+> 
+> –  Eric Robison, former CEO of lynda.com
+
+Outline
