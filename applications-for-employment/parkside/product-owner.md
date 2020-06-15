@@ -6,16 +6,6 @@ Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5486367) (Stelleni
 
 ### Wer wir sind
 
-> Parkside® verbindet Software Development, UX/UI Design, Product Development sowie Technology Consulting und ist damit ein führender Partner für das Design und die Entwicklung individueller Software.
-
-Form, formallogisch, grob betrachtet: Max verbindet A, B, C sowie D und ist dadurch ein führender Partner für A und B. 
-
-
-
-Die Formulierung auch: Max verbindet Entwicklung von Software, Design, Produktentwicklung (zwecks "Serienfertigung") sowie technischer Beratung, damit ist er ein führender Partner für die Verpackung und spezialangefertigte Äpfel.
-
-Zur Klarstellung (Software als Kontext): Software-Design ist ein Teilbereich der Software-Entwicklung, 
-
 > Hi. Wir sind Parkside. Als Vorreiter in Software Development & Design entwickeln wir die digitalen Anwendungen von morgen - und freuen uns bereits auf dich!
 
 Blah, schon wieder & u. der Satz sagt rein gar nichts aus? Wer entwickelt schon Anwendungen von gestern (oder gibt es offiziell zu)? Design?
@@ -64,7 +54,7 @@ Ownership und Verantwortung sind zwei verschiedene Dinge. Es fehlt wieder ein Be
 
 > Wir garantieren jedoch ein deinen Qualifikationen und deiner Erfahrung entsprechend höheres Gehalt.
 
-Mit wäre ein meiner Leistung entsprechendes Gehalt lieber. 
+Mir wäre ein meiner Leistung entsprechendes Gehalt lieber. 
 
 > Bewirb dich und sende uns deinen Lebenslauf und ein Motivationsschreiben zu.
 
@@ -141,13 +131,6 @@ On a two page summary with a lot of whitespace and two images
 
 How often was Parkside asked to step in with its 10+ (the mordern version of "over 10") years of experience exactly? Twice? Thrice? (By LinkedIn?)
 
-> LinkedIn is the world’s largest social networking platform (500 million users), designed for the business world.
-
-LinkedIn is not (and never was) *the world's largest social networking platform*. Facebook or Instagram (see your accounts there).
-
-> LinkedIn ist die weltweit größte Social Business Plattform mit mehr als 500 Millionen Usern.
-
-Das kann sein.
 
 > Features  
 > Parkside was responsible for the iOS and Android apps for LinkedIn Learning [...]
@@ -186,16 +169,6 @@ Yes, "the time-to-market for LinkedIn iOS and Android apps could be significantl
 https://www.parkside-interactive.com/culture/our-values/
 
 > Demanding excellence and striving to be better allows us to meet the high quality standards we have, both for our team and the work we do.
-
-https://stackshare.io/linkedin/linkedin
-
-> Die Zusammenarbeit mit einem der größten Tech-Unternehmen des Silicon Valley bringt natürlich gewisse Herausforderungen mit sich, aber gleichzeitig auch eine Reihe von Möglichkeiten.
-
-LinkedIn zählt nicht zu den **größten** Tech-Unternehmen des Silicon Valley, wenn auch eines der nennenswerten.
-
-> Den meisten Unternehmen fehlt beispielsweise das Budget, um sich auf das Thema Barrierefreiheit zu konzentrieren. Hier kamen wir ins Spiel, denn eine unserer Hauptaufgaben war es, die Apps für ein möglichst breites Publikum zugänglich zu machen.
-
-Was hat denn das eine mit dem anderen zu tun? Weil eine der Hauptaufgaben von Parkside Barrierefreiheit war, fehlt es den meisten Unternehmen dafür (B.) an Budget?
 
 > Eine neue Herausforderung war es, LinkedIn zu helfen, ihre Apps für alle Zielgruppen zugänglich zu machen.
 

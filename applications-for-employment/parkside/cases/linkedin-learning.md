@@ -2,13 +2,11 @@
 
 https://www.parkside-interactive.com/de/cases/mit-linkedin-learning-mobil-lernen
 
-> Nach der Übernahme unseres Kunden Lynda.com war unsere Expertise bei der Entwicklung der Learning-Plattform LinkedIn Learning gefragt.  
-
-Nach einer weiteren Übernahme waren wir wieder mal beim Rebranding (Reintegration / Redesign / Rewrite / Remastering …) einer bestehenden, von uns mit-entwickelten Video-Learning-Plattform beteiligt.
+> Nach der Übernahme unseres Kunden Lynda.com war unsere Expertise bei der "Entwicklung der Learning-Plattform LinkedIn Learning" gefragt.  
 
 "Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform." — [Lynda.com](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html)
 
-Rebranding, hier, durch die Zusammenführung, Eingliederung, Integration in die Produkt- und System-Landschaft des neuen Besitzers, mit der Migration der Inhalte und der Beteiligten – der Benutzer, vor allem. 
+Unter "Entwicklung der Learning-Plattform LinkedIn Learning" wäre das Rebranding der bestehenden Learning-Plattform Lynda.com zu verstehen.
 
 ## LinkedIn Business Challenge
 
@@ -20,7 +18,7 @@ Die Business-Challenge beim Rebranding der Video-Learning-Plattform Lynda.com wa
 
 > LinkedIn ist die weltweit größte Social Business Plattform mit mehr als 500 Millionen Usern.
 
-Ein Tochterunternehmen von LinkedIn (Stand: Juni 2020) – LinkedIn Learning – die ehemalige [Lynda.com](https://www.lynda.com).
+Ein Tochterunternehmen von LinkedIn – LinkedIn Learning – die ehemalige [Lynda.com](https://www.lynda.com). Bei "Usern" wäre zu erwähnen, dass Registrierungen gemeint waren, dass die Anzahl der Benutzer, die LinkedIn auch benutzen, geringer sein wird.
 
 ## Unser Zugang
 
@@ -70,13 +68,21 @@ Das Ziel ist der Weg. Die Folge ist der Beitrag.
 
 ## 10 Jahre Erfahrung
 
-> Nach der Übernahme von Lynda.com durch LinkedIn und der Schaffung einer neuen Lernplattform – LinkedIn Learning – konnten wir unsere Kooperation mit dem neuen Eigentümer weiterführen. Wir brachten unsere Erfahrungen aus den letzten 10 Jahren ein, die wir aus der Zusammenarbeit mit video2brain und Lynda.com gesammelt hatten, um LinkedIn bei der Entwicklung der iOS- und Android-Apps zu unterstützen. 
+> Nach der Übernahme von Lynda.com durch LinkedIn und der Schaffung einer neuen Lernplattform – LinkedIn Learning – konnten wir unsere Kooperation mit dem neuen Eigentümer weiterführen. 
+
+Ja, "Die App mit Chromecast zu verwenden"
+
+> Wir brachten unsere Erfahrungen aus den letzten 10 Jahren ein, die wir aus der Zusammenarbeit mit video2brain und Lynda.com gesammelt hatten, um LinkedIn bei der Entwicklung der iOS- und Android-Apps zu unterstützen. 
+
+Zum Zeitpunkt der Übernahme von B durch A hatten wir 10 Kalenderjahre Erfahrung mit B und C, das einst von B übernommen wurde. Diese Erfahrung brachten wir ein
 
 > Durch den Beitrag unserer besten Mobile Developer agierten wir als eine Art Erweiterung des bestehenden LinkedIn Mobile Teams.
 
+
+
 > Nach der Übernahme von Lynda vertraute LinkedIn kontinuierlich auf unser Entwicklerteam.
 
-Ja, man weiß es schon.
+LinkedIn (bzw. LinkedIn Learning) vertraute uns so sehr, dass keine
 
 ## Barrierefreiheit ist entscheidend
 
@@ -124,17 +130,15 @@ Mit-verantwortlich.
 
 Davor war es den Usern nicht möglich neue Skills zu entwickeln.
 
-> – Zertifikate für abgeschlossene Kurse zu erhalten / Die App mit Chromecast zu verwenden
+> — Zertifikate für abgeschlossene Kurse zu erhalten / Die App mit Chromecast zu verwenden
 
-> – Zertifikate für abgeschlossene Kurse zu erhalten / Die App mit Chromecast zu verwenden
-
-
+"Die App mit Chromecast zu verwenden" wäre als ein eigener Punkt in die Auszählung aufzunehmen.
 
 Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android") waren kaum von von Parkside erbrachte Leistungen oder Key Features der LinkedIn Learning App.
 
 ## In a nutshell
 
-Am Ende der Langfassung macht eine Kurzfassung im "[too long; didn't read](https://www.urbandictionary.com/define.php?term=Too%20long%20didn%27t%20read)"-Zeitalter wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang (an die zwei Normseiten), dass sie einer Zusammenfassung bedarf.
+Am Ende der Langfassung macht eine Kurzfassung ([too long; didn't read](https://www.urbandictionary.com/define.php?term=Too%20long%20didn%27t%20read)) wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang, dass sie einer Zusammenfassung bedarf.
 
 > Unser Team schuf zentrale Features in allen Phasen für die iOS- und Android-App und gestaltete diese möglichst barrierefrei, 
 
@@ -171,14 +175,9 @@ Wayback Machine, [lynda.com, Press Releases](https://web.archive.org/web/2014012
 
 > We have long envisioned the company providing content in multiple languages. The two options were to organically grow that capability from scratch, or find a company aligned with our culture and business model. What video2brain has built in 11 years is impressive and we are fortunate to welcome their employees, members, partners and authors to lynda.com.
 > 
-> –  Eric Robison, former CEO of lynda.com
+> — Eric Robison, former CEO of lynda.com
 
 Outline
 
-Bodo
 
-hyphen-minus -  
-en-dash --  
-em-dash ---  
-Yay!
 

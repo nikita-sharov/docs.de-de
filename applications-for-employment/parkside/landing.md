@@ -4,15 +4,11 @@ https://www.parkside-interactive.com/de
 
 > Parkside ist ein führender Partner für das Design und die Entwicklung individueller Software.
 
-*X ist ein führender Partner für Äpfel und Obst.*
-
-Wessen Partner ist X? Wohin führt X seine Partner?
+`X` ist ein führender Partner für Äpfel und Obst. Wessen Partner ist `X`? Wohin führt `X` seine Partner?
 
 > Wir verbinden Software Development, UX/UI Design, Product Development und Technology Consulting, um bessere Software schneller zu liefern.
 
-*Wir verbinden Obst, Äpfel, Produktentwicklung und technische Beratung, um besseres Obst schneller zu liefern.*
-
-Ob das die Bio-Veganer glauben?
+Wir verbinden Obst, Äpfel, Produktentwicklung und technische Beratung, um besseres Obst schneller zu liefern. Ob das die Bio-Veganer glauben?
 
 > News und Updates
 
@@ -23,22 +19,22 @@ Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Z
 > Up Next  
 > — Karriere
 
-In der englischen Version heißt es "— Careers". Den Halbgeviertstrich (*em dash*, `U+2014`) würde ich streichen und bei Einzahl bleiben. Das Letztere gilt auch für die Navigationsleiste ("Karriere" in der deutschen Version).
-
 Unter [de/kultur/unsere-werte](https://www.parkside-interactive.com/de/kultur/unsere-werte) heißt es "Nächstes Kapitel" (und "Next chapter" in der [englischen Version](https://www.parkside-interactive.com/culture/our-values)).
 
-Der Halbgeviertstrich hier weist wohl auf ein Zitat hin, mit Karriere als Quelle.
+Der Geviertstrich (*em dash*, `U+2014`) hier weist wohl auf ein Zitat hin, mit Karriere als Quelle.
+
+In der [englischen Version](https://www.parkside-interactive.com/) heißt es "— Careers". (Den Geviertstrich würde ich streichen und bei Einzahl bleiben. Das Letztere gilt auch für die Navigationsleiste – "Karriere" in der deutschen Version).
 
 > Better together —  
 > werde Teil unseres Teams!
 
-Vor dem Halbgeviertstrich hier wäre ein geschütztes Leerzeichen (*no-break space*, `U+00A0`) zu setzen, um einen Umbruch wie
+Vor dem Geviertstrich hier wäre ein geschütztes Leerzeichen (*no-break space*, `U+00A0`) zu setzen, um einen Umbruch wie
 
 > Better together  
 > —  
 > werde Teil unseres Teams!  
 
-zu verhindern. Das Denglisch-Kauderwelsche würde ich meiden.
+zu verhindern. Das Denglisch-Kauderwelsche würde ich meiden. Als Gedankenstrich wäre im Deutschen ein Halbgeviertstrich (*en dash*, `U+2013`) zu verwenden.
 
 > Think interactive first.  
 > Contact us.
