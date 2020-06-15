@@ -6,7 +6,7 @@ https://www.parkside-interactive.com/de/cases/mit-linkedin-learning-mobil-lernen
 
 Nach einer weiteren Übernahme waren wir wieder mal beim Rebranding (Reintegration / Redesign / Rewrite / Remastering …) einer bestehenden, von uns mit-entwickelten Video-Learning-Plattform beteiligt.
 
-"Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform." -- [Lynda.com](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html)
+"Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform." — [Lynda.com](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html)
 
 Rebranding, hier, durch die Zusammenführung, Eingliederung, Integration in die Produkt- und System-Landschaft des neuen Besitzers, mit der Migration der Inhalte und der Beteiligten – der Benutzer, vor allem. 
 
@@ -90,7 +90,7 @@ LinkedIn zählt nicht zu den "größten" Tech-Unternehmen des Silicon Valley (To
 
 > Außerdem war es spannend für uns zu sehen, wie eines der größten Unternehmen des Silicon Valley funktioniert und wie deren Development Stack aussieht.
 
-Nochmals, LinkedIn ist nicht (und war es auch nie) eines der größten Unternehmen des Silicon Valley. Der Stack wäre recht einfach rauszufinden: https://stackshare.io/companies/linkedin. Zu beachten wäre, dass es neben der LinkedIn Learning App weitere LinkedIn Apps gibt, dass die LinkedIn Corporation weitere Software-Lösungen im Einsatz haben wird (s. https://github.com/linkedin, z. B.).
+Nochmals, LinkedIn ist nicht (und war es auch nie) eines der größten Unternehmen des Silicon Valley. Der Stack wäre recht einfach herauszufinden: https://stackshare.io/companies/linkedin. Zu beachten wäre, dass es neben der LinkedIn Learning App weitere LinkedIn Apps gibt, dass die LinkedIn Corporation weitere Software-Lösungen im Einsatz haben wird (s. https://github.com/linkedin, z. B.).
 
 > Eine neue Herausforderung war es, LinkedIn zu helfen, ihre Apps für alle Zielgruppen zugänglich zu machen.
 
@@ -114,7 +114,7 @@ Das Ganze hat sehr wenig mit Barierrefreiheit der LinkedIn Learning App zu tun.
 
 ## Erbrachte Leistungen & Key Features
 
-Nochmals, ein bestimmtes Feature A wäre das Ergebnis einer konkreten Leistung B. Die Existenz einer Software-Funktion `A` schließt Arbeitszeit `B` voraus.
+Nochmals, ein bestimmtes Feature `A` wäre das Ergebnis einer konkreten Leistung `B`. Die Existenz einer Software-Funktion `A` schließt Arbeitszeit `B` voraus.
 
 > Parkside war für die Entwicklung der LinkedIn Learning Apps für iOS und Android verantwortlich.
 
@@ -128,11 +128,11 @@ Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android"
 
 ## In a nutshell
 
-Am Ende der Langfassung macht eine Kurzfassung im "[too long; didn't read](https://www.urbandictionary.com/define.php?term=Too%20long%20didn%27t%20read)"-Zeitalter wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang, dass sie einer Zusammenfassung bedarf.
+Am Ende der Langfassung macht eine Kurzfassung im "[too long; didn't read](https://www.urbandictionary.com/define.php?term=Too%20long%20didn%27t%20read)"-Zeitalter wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang (an die zwei Normseiten), dass sie einer Zusammenfassung bedarf.
 
 > Unser Team schuf zentrale Features in allen Phasen für die iOS- und Android-App und gestaltete diese möglichst barrierefrei, 
 
-In welchen Phasen? (Horoskop-Leser könnten an die Mondphasen denken.)
+In welchen Phasen?
 
 > um sie einem breiten Publikum zugänglich zu machen. 
 
@@ -144,14 +144,15 @@ Eine weitere, längere, Kurzfassung, macht im Anschluss an die Kurzfassung (und 
 
 ## Informative Gegenbeispiele
 
-Wie Lynda.com die neue Plattform, das Ergebnis, Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier das Transcript):
+Wie Lynda.com die neue Plattform, das Ergebnis, in Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier das Transcript):
 
 > Soon, you'll be able to upgrade to our new learning platform, LinkedIn Learning, which delivers the same great lynda.com content through a personalized, easy-to-use, new experience. With unique insights from LinkedIn, based on a person's job title and skillsets, LinkedIn Learning delivers a personalized learning experience, highlighting content that will help individuals succeed in their given role.
 >
-> We also have a brand new admin experience to help you easily manage your groups of learners, curate and recommend content that is relevant to each learner's needs including the ability to incorporate content from outside of our library such as a welcome video from your CEO helping you create a truly customized experience for your learners. There's also new reporting and analytics at a glance so you can easily measure adoption and engagement. [...]
->
+> We also have a brand new admin experience to help you easily manage your groups of learners, curate and recommend content that is relevant to each learner's needs including the ability to incorporate content from outside of our library such as a welcome video from your CEO helping you create a truly customized experience for your learners. There's also new reporting and analytics at a glance so you can easily measure adoption and engagement. 
+
 > On the day of your upgrade, all of your organization's activity and data from lynda.com will automatically migrate to LinkedIn Learning and that's it.
 
+Das sind knapp **150** Wörter.
 
 2013
 
