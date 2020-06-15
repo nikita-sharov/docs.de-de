@@ -124,6 +124,12 @@ Mit-verantwortlich.
 
 Davor war es den Usern nicht möglich neue Skills zu entwickeln.
 
+> – Zertifikate für abgeschlossene Kurse zu erhalten / Die App mit Chromecast zu verwenden
+
+> – Zertifikate für abgeschlossene Kurse zu erhalten / Die App mit Chromecast zu verwenden
+
+
+
 Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android") waren kaum von von Parkside erbrachte Leistungen oder Key Features der LinkedIn Learning App.
 
 ## In a nutshell
@@ -168,3 +174,11 @@ Wayback Machine, [lynda.com, Press Releases](https://web.archive.org/web/2014012
 > –  Eric Robison, former CEO of lynda.com
 
 Outline
+
+Bodo
+
+hyphen-minus -  
+en-dash --  
+em-dash ---  
+Yay!
+
