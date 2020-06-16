@@ -33,15 +33,15 @@ Nicht marktführende Anwendungen von gestern verwandeln wir in Marktführende.
 
 ## Was wir tun
 
-Als aufmerksamer Leser weiß ich bereits, dass Parkside Software entwickelt. 
+Als aufmerksamer Leser weiß ich bereits, dass Parkside individuelle Software entwickelt. 
 
 > Wir verbinden Software Development, UX/UI Design, Product Development und Technology Consulting, um bessere Software schneller zu liefern.
 
 Wir verbinden Obst, Äpfel, Produktentwicklung und technische Beratung, um besseres Obst schneller zu liefern. Ob das die Bio-Veganer glauben?
 
-Das Firmenprofil auf [karriere.at](https://www.karriere.at/f/parkside) erklärt die kausalen Zusammenhänge: 
+Das [Firmenprofil](https://www.karriere.at/f/parkside) auf karriere.at erklärt die kausalen Zusammenhänge: 
 
-"Parkside® verbindet Software Development, UX/UI Design, Product Development sowie Technology Consulting und ist damit ein führender Partner für das Design und die Entwicklung individueller Software."
+> Parkside® verbindet Software Development, UX/UI Design, Product Development sowie Technology Consulting und ist damit ein führender Partner für das Design und die Entwicklung individueller Software.
 
 Weil wir Obst, Äpfel, Produktentwicklung und technische Beratung verbinden, sind wir ein führender Partner für Äpfel und Obst.
 
@@ -49,7 +49,7 @@ Weil wir Obst, Äpfel, Produktentwicklung und technische Beratung verbinden, sin
 
 *Wasser und Flüssigkeit* wäre eine chemische Verbindung in einem der klassischen Aggregatzustände, eigenartig formuliert dargestellt.
 
-Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Zeitpunkt ihrer Veröffentlichung wohl neu waren, gelistet. In der [englischen Version](https://www.parkside-interactive.com/) heißt es "News, events & stories".
+Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Zeitpunkt ihrer Veröffentlichung wohl neu waren, gelistet. In der [englischen Version](https://www.parkside-interactive.com/) heißt es "News, events & stories". Das Et-Zeichen (*ampersand*, `U+0026`) wäre nur in dafür vorgesehenen Fällen zu verwenden.
 
 ## Karriere
 

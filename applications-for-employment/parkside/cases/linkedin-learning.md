@@ -132,17 +132,20 @@ Das Ganze hat sehr wenig mit Barierrefreiheit der LinkedIn Learning App zu tun.
 
 ## Erbrachte Leistungen & Key Features
 
-Nochmals, ein bestimmtes Feature `A` wäre das Ergebnis einer konkreten Leistung `B`. Die Existenz einer Software-Funktion `A` schließt Arbeitszeit `B` voraus. 
-
-Das Et-Zeichen (*ampersand*, `U+0026`) wäre in dafür vorgesehenen Fällen zu verwenden.
+Nochmals, ein bestimmtes Feature `A` wäre das Ergebnis einer konkreten Leistung `B`. Die Existenz einer Software-Funktion `A` schließt Arbeitszeit `B` voraus.
 
 > Parkside war für die Entwicklung der LinkedIn Learning Apps für iOS und Android verantwortlich.
 
 Mit-verantwortlich.
 
-> Wir haben es Usern ermöglicht: [...] Neue Skills zu entwickeln
+> Wir haben es Usern ermöglicht:  
+> — Videos und Kurse anzusehen
 
-Davor war es den Usern nicht möglich neue Skills zu entwickeln.
+Davor war es den (Lynda.com) Usern nicht möglich Video-Kurse anzusehen,
+ 
+> — Neue Skills zu entwickeln
+
+um durch das Ansehen neue Skills zu entwickeln.
 
 > — Zertifikate für abgeschlossene Kurse zu erhalten / Die App mit Chromecast zu verwenden
 
@@ -150,7 +153,7 @@ Davor war es den Usern nicht möglich neue Skills zu entwickeln.
 
 Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android") waren kaum von von Parkside erbrachte Leistungen oder Key Features der LinkedIn Learning App.
 
-Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier die Niederschrift):
+Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier die Niederschrift), im Vergleich:
 
 > Soon, you'll be able to upgrade to our new learning platform, LinkedIn Learning, which delivers the same great lynda.com content through a personalized, easy-to-use, new experience. With unique insights from LinkedIn, based on a person's job title and skillsets, LinkedIn Learning delivers a personalized learning experience, highlighting content that will help individuals succeed in their given role.
 >
@@ -160,7 +163,7 @@ Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](htt
 
 ## In a nutshell
 
-Am Ende der Langfassung ([too long; didn't read](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read)) macht eine Kurzfassung wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang, dass sie einer Zusammenfassung bedarf.
+Am Ende der Langfassung ([too long; didn't read](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read)) macht eine Kurzfassung wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang (476 Wörter, 17 davon sind "LinkedIn"), dass sie einer Zusammenfassung bedarf.
 
 > Unser Team schuf zentrale Features in allen Phasen für die iOS- und Android-App und gestaltete diese möglichst barrierefrei, 
 
