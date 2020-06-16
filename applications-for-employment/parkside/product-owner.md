@@ -4,6 +4,35 @@ Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5486367) (Stelleni
 
 ## karierre.at
 
+Werte Kollegen,
+
+hiermit möchte ich ein kleines
+
+
+
+Mit freundlichen Grüßen,  
+Nikita Sharov
+
+## Bibo
+
+- [Landing Page](landing-page.md)
+  - [Headings](landing-page.md#headings)
+  - [Über uns](landing-page.md#ueber-uns)
+  - [Was wir tun](landing-page.md#was-wir-tun)
+  - [News und Updates](landing-page.md#news-und-updates)
+  - [Footer](landing-page.md#footer)
+- [Mit LinkedIn Learning mobil lernen](landing-page.md)
+  - [LinkedIn Business Challenge]()
+  - [Kunde]()
+  - [Unser Zugang]()
+  - [Das Ergebnis]()
+  - [Unser Beitrag für LinkedIn Learning]()
+  - [10 Jahre Erfahrung]()
+  - [Barrierefreiheit ist entscheidend]()
+  - [Erbrachte Leistungen & Key Features]()
+  - [In a nutshell]()
+
+
 ### Wer wir sind
 
 > Hi. Wir sind Parkside. Als Vorreiter in Software Development & Design entwickeln wir die digitalen Anwendungen von morgen - und freuen uns bereits auf dich!

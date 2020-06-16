@@ -2,11 +2,13 @@
 
 https://www.parkside-interactive.com/de/cases/mit-linkedin-learning-mobil-lernen
 
+Als technischer Redakteur würde ich den Autor keine Fallstudien mehr schreiben lassen und die Qualitätssicherung 
+
 > Nach der Übernahme unseres Kunden Lynda.com war unsere Expertise bei der "Entwicklung der Learning-Plattform LinkedIn Learning" gefragt.  
 
 "Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform." — [Lynda.com](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html)
 
-Unter "Entwicklung der Learning-Plattform LinkedIn Learning" wäre das Rebranding der bestehenden Learning-Plattform Lynda.com zu verstehen.
+Unter der "Entwicklung der Learning-Plattform LinkedIn Learning" wäre das Rebranding der bestehenden Learning-Plattform Lynda.com zu verstehen.
 
 ## LinkedIn Business Challenge
 

@@ -8,7 +8,9 @@ Wer entwickelt schon die Anwendungen von gestern?
 
 ## Headings
 
-Die Struktur der `HTML`-Überschriften wäre zu korrigieren:
+Als Leser (Softwareentwickler, Screenreader) will ich klar sowie technisch sauber strukturierte Inhalte.
+
+Die aktuelle Struktur der `HTML`-Überschriften wäre zu überdenken:
 
 - `h1` Wir entwickeln die digitalen Anwendungen von morgen.
 - `h4` Über uns
@@ -19,6 +21,8 @@ Die Struktur der `HTML`-Überschriften wäre zu korrigieren:
 
 ## Über uns
 
+Als potentieller Arbeitnehmer / Auftraggeber / Partner will ich wissen, was Parkside ausmacht, wie es sich von den anderen unterscheidet.
+
 > Parkside ist ein führender Partner für das Design und die Entwicklung individueller Software.
 
 `X` ist ein führender Partner für Äpfel und Obst. Wessen Partner ist `X`? Wohin führt `X` seine Partner?
@@ -28,6 +32,8 @@ Die Struktur der `HTML`-Überschriften wäre zu korrigieren:
 Nicht marktführende Anwendungen von gestern verwandeln wir in Marktführende.
 
 ## Was wir tun
+
+Als aufmerksamer Leser weiß ich bereits, dass Parkside Software entwickelt. 
 
 > Wir verbinden Software Development, UX/UI Design, Product Development und Technology Consulting, um bessere Software schneller zu liefern.
 
@@ -40,6 +46,8 @@ Wir verbinden Obst, Äpfel, Produktentwicklung und technische Beratung, um besse
 Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Zeitpunkt ihrer Veröffentlichung wohl neu waren, gelistet. In der [englischen Version](https://www.parkside-interactive.com/) heißt es "News, events & stories".
 
 ## Karriere
+
+Als Leser
 
 > Up Next  
 > — Karriere
@@ -62,6 +70,8 @@ Vor dem Geviertstrich hier wäre ein geschütztes Leerzeichen (*no-break space*,
 zu verhindern. Das Denglisch-Kauderwelsche würde ich meiden. Als Gedankenstrich wäre im Deutschen ein Halbgeviertstrich (*en dash*, `U+2013`) zu verwenden.
 
 ## Footer
+
+Als bereits Interessierter will ich die richtigen Ohren erreichen und dabei höflich bleiben, ohne Lärm für andere Ohren zu erzeugen. Ich will auch keine Entscheidungen treffen oder gar nachdenken müssen, wenn es nicht unbedingt sein muss. Als Power-User weiß ich, was Alias-Adressen sind, und wie viel Müll tagtäglich im digitalen Reißwolf landet.
 
 > Think interactive first.  
 > Contact us.
