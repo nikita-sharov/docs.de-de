@@ -2,41 +2,43 @@
 
 https://www.parkside-interactive.com/de/cases/mit-linkedin-learning-mobil-lernen
 
-Als technischer Redakteur würde ich die Qualitätssicherung der Fallstudien in Frage stellen.
+Als technischer Redakteur will ich die hauseigene Qualitätssicherung (Review-Prozesse / Feedback-Schleifen) in Frage stellen und eine Überarbeitung der Fallstudie(n) einleiten.
 
 > Nach der Übernahme unseres Kunden Lynda.com war unsere Expertise bei der "Entwicklung der Learning-Plattform LinkedIn Learning" gefragt.  
 
-Unter der "Entwicklung der Learning-Plattform LinkedIn Learning" wäre das [Rebranding einer bestehenden Learning-Plattform](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (Lynda.com) zu verstehen:
+Unter der "Entwicklung der Learning-Plattform LinkedIn Learning" wäre das [Rebranding einer bestehenden Learning-Plattform](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) ("Lynda.com is now LinkedIn Learning") zu verstehen:
 
-> Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform.
+> LinkedIn Learning combines industry-leading content from Lynda.com with personalized course recommendations based on insights from LinkedIn's network, all in a redesigned easy-to-use experience.
 
 ## LinkedIn Business Challenge
 
 > Die Entwicklung der LinkedIn Video-Learning-Plattform nach der Übernahme von Lynda.com so rasch wie möglich voranbringen.
 
-Die Business-Challenge beim Rebranding der Video-Learning-Plattform Lynda.com war das Rebranding der Video-Learning-Plattform. Die Projektlaufzeit betrug 1,5 (der [Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf) nach) bis 2 Jahre (s. [Barrierefreiheit ist entscheidend](#barrierefreiheit-ist-entscheidend)), denn das Rebranding war so rasch wie möglich voranzubringen.
+Ob die zeitliche Challenge bei der Projektlaufzeit von 1,5 (der [Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf) nach) bis 2 Jahren (s. [Barrierefreiheit ist entscheidend](#barrierefreiheit-ist-entscheidend)) bewältigt wurde?
 
 ## Kunde
 
 > LinkedIn ist die weltweit größte Social Business Plattform mit mehr als 500 Millionen Usern.
 
-Ein Tochterunternehmen von LinkedIn – LinkedIn Learning – die ehemalige [Lynda.com](https://www.lynda.com). Bei "Usern" wäre zu erwähnen, dass Registrierungen gemeint waren, dass die Anzahl der Benutzer, die LinkedIn auch benutzen, geringer sein wird.
+Nicht die LinkedIn Learning – ein Tochterunternehmen von LinkedIn – die ehemalige [Lynda.com](https://www.lynda.com)?
+
+Bei "Usern" wäre eventuelle zu erwähnen, dass registrierte Benutzer gemeint waren, dass die Anzahl der Benutzer, die LinkedIn auch benutzen, deutlich geringer sein wird.
 
 ## Unser Zugang
 
 > Unser Engineering Team war regelmäßig vor Ort in Mountain View, San Francisco, um eng mit dem Kunden zusammenzuarbeiten.
 
-Das ganze "Engineering Team"? Ohne Remote-Zugang? Diesem [Kapitel](#barrierefreiheit-ist-entscheidend) nach "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
+Ohne Remote-Zugang? Diesem [Kapitel](#barrierefreiheit-ist-entscheidend) nach "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
 
 ## Das Ergebnis
 
 > Dank unserer Erfahrung, die wir in den Projekten mit video2brain und Lynda.com gesammelt hatten, konnten wir die Time-to-Market für die LinkedIn iOS- und Android-Apps beträchtlich reduzieren.
 
-Um wie viele Tage / Wochen / Monate / Jahre konnte man als "eine Art Erweiterung des bestehenden LinkedIn Mobile Teams" die Time-to-Market der LinkedIn Learning App (für [iOS](https://apps.apple.com/at/app/linkedin-learning/id1084807225) und [Android](https://play.google.com/store/apps/details?id=com.linkedin.android.learning)) reduzieren?
+Um wie viele Tage / Wochen / Monate / Jahre konnte man "als eine Art Erweiterung des bestehenden LinkedIn Mobile Teams" die Time-to-Market der LinkedIn Learning App (für [iOS](https://apps.apple.com/at/app/linkedin-learning/id1084807225) und [Android](https://play.google.com/store/apps/details?id=com.linkedin.android.learning)) reduzieren?
 
 > Die Android-App wurde 2016 mit dem Google Play Award für die beste App im Bereich Weiterbildung ausgezeichnet. 
 
-Man beachte, dass beim Rebranding der Lynda.com App (für [iOS](https://apps.apple.com/de/app/lynda-com/id356169777) und [Android](https://play.google.com/store/apps/details?id=com.lynda.android.root)) auch ein Team von LinkedIn beteiligt war, dass die Auszeichnung einem kollektiven Ergebnis zu Teil wurde.
+Man beachte, dass  auch ein Team von LinkedIn daran beteiligt war, dass die Auszeichnung einem kollektiven Ergebnis zu Teil wurde.
 
 > Im Juni 2016 wurde LinkedIn für 26,2 Milliarden US-Dollar von Microsoft übernommen.
 
@@ -66,7 +68,9 @@ Die deutsche Lokalisierung einer englischen Fallstudie, oder umgekehrt, macht ni
 
 > Verringerte Time-to-Market
 
-Das Ziel ist der Weg. Die Folge ist der Beitrag. Wenn mehrere für ein Geschenk zusammenlegen, so könnte daraus, in weiterer Folge, ein brauchbares Geschenk, aus der Sicht des Beschenkten, werden.
+*Das Ziel ist der Weg. Die Folge ist der Beitrag.*
+
+Wenn mehrere für ein Geschenk zusammenlegen, so könnte daraus, in weiterer Folge, ein brauchbares Geschenk für den Beschenkten, werden.
 
 ## 10 Jahre Erfahrung
 
@@ -94,41 +98,29 @@ Wie von dem [Firmenprofil](https://www.karriere.at/f/parkside) auf karriere.at a
 
 Wobei es mit "Gründungsjahr 2007" sich selbst widerlegt, und San Francisco (s. Fußzeile bzw. [de/kontakt](https://www.parkside-interactive.com/de/kontakt)), die Stadt und das County, nicht zu Silicon Valley gehört.
 
-Zeitspannen in Kalenderjahren sagen grundsätzlich wenig über die "Erfahrung" aus. Durch die Fluktuation geht diese auch sehr schnell verloren. Geografische Gegebenheiten und die Besitzstrukturen transnationaler Konzerne, sagen wenig über die Fähigkeit eines bestimmten Teams, gute Software zu schreiben.
+Zeitspannen in Kalenderjahren sagen grundsätzlich wenig über die "Erfahrung" aus. Durch die Fluktuation geht diese auch sehr schnell verloren. Geografische Gegebenheiten und die Besitzstrukturen transnationaler Konzerne, sagen wenig über die Fähigkeit eines bestimmten Teams, gute Software zu entwickeln.
 
 ## Barrierefreiheit ist entscheidend
 
 > Die Zusammenarbeit mit einem der größten Tech-Unternehmen des Silicon Valley bringt natürlich gewisse Herausforderungen mit sich, aber gleichzeitig auch eine Reihe von Möglichkeiten.
 
-LinkedIn zählt nicht zu den "größten" Tech-Unternehmen des Silicon Valley (Top-100, wahrscheinlich). LinkedIn Learning, das Tochterunternehmen, die ehemalige Lynda.com, macht einen Bruchteil (1/20, schätzungsweise), von LinkedIn aus. Jede Herausforderung bringt gleichzeitig zwei Möglichkeiten mit sich, mindestens: der Herausforderung gerecht zu werden, oder auch nicht.
+LinkedIn zählt nicht zu den "größten" Tech-Unternehmen des Silicon Valley (Top-100, wahrscheinlich). LinkedIn Learning, das Tochterunternehmen, die ehemalige Lynda.com, macht einen Bruchteil (1/20, schätzungsweise), von LinkedIn aus.
 
 > Den meisten Unternehmen fehlt beispielsweise das Budget, um sich auf das Thema Barrierefreiheit zu konzentrieren. Hier kamen wir ins Spiel, denn eine unserer Hauptaufgaben war es, die Apps für ein möglichst breites Publikum zugänglich zu machen.
 
-Weil eine der Hauptaufgaben von Parkside Barrierefreiheit war, fehlt es den meisten Unternehmen dafür an Budget.
+*Weil eine der Hauptaufgaben von Parkside Barrierefreiheit war, fehlt es den meisten Unternehmen dafür an Budget.*
 
 > Außerdem war es spannend für uns zu sehen, wie eines der größten Unternehmen des Silicon Valley funktioniert und wie deren Development Stack aussieht.
 
-Nochmals, LinkedIn ist nicht (und war es auch nie) eines der größten Unternehmen des Silicon Valley. Der Stack wäre recht einfach herauszufinden: https://stackshare.io/companies/linkedin. Zu beachten wäre, dass es neben der LinkedIn Learning App weitere LinkedIn Apps gibt, dass die LinkedIn Corporation weitere Software-Lösungen im Einsatz haben wird (s. https://github.com/linkedin, z. B.).
+Nochmals, LinkedIn ist nicht (und war es auch nie) eines der größten Unternehmen des Silicon Valley. Der Stack wäre recht einfach herauszufinden: https://stackshare.io/companies/linkedin. Zu beachten wäre, dass es neben der LinkedIn Learning App weitere LinkedIn Apps gibt (und gab), dass die LinkedIn Corporation weitere Software-Lösungen im Einsatz (gehabt) haben wird (s. https://github.com/linkedin, z. B.).
 
-> Eine neue Herausforderung war es, LinkedIn zu helfen, ihre Apps für alle Zielgruppen zugänglich zu machen.
+> Teil dieser Zusammenarbeit waren zahlreiche Trips nach San Francisco und Mountain View, wo das Unternehmen seinen Hauptsitz hat. 
 
-Wie oft denn noch?!
-
-> Insgesamt arbeiteten wir zwei Jahre lang mit LinkedIn an deren Mobile Learning Apps. 
-
-Ja, man weiß es schon, dass an der "LinkedIn Learning"-App gearbeitet wurde.
-
-> Teil dieser Zusammenarbeit waren zahlreiche Trips nach San Francisco und Mountain View, 
-
-Das weiß man auch schon.
-
-> wo das Unternehmen seinen Hauptsitz hat. 
-
-Es kann schon sein, dass das Unternehmen seinen Hauptsitz in Mountain View (Gründungsort) hatte – heute (Juni 2020) liegt dieser im benachbarten Sunnyvale. 
+Heute (Juni 2020) liegt dieser im benachbarten Sunnyvale. 
 
 > Vor allem die Büros in Mountain View und die dortige Cafeteria, mit den hervorragenden Frühstücks- und Lunch-Buffets, können wir wärmstens empfehlen.
 
-Das Ganze hat sehr wenig mit Barierrefreiheit der LinkedIn Learning App zu tun.
+Das Ganze hat sehr wenig mit Barrierefreiheit der LinkedIn Learning App zu tun.
 
 ## Erbrachte Leistungen & Key Features
 
@@ -141,17 +133,15 @@ Mit-verantwortlich.
 > Wir haben es Usern ermöglicht:  
 > — Videos und Kurse anzusehen
 
-Davor war es den (Lynda.com) Usern nicht möglich Video-Kurse anzusehen,
+*Davor war es den (Lynda.com) Usern nicht möglich Video-Kurse anzusehen,*
  
 > — Neue Skills zu entwickeln
 
-um durch das Ansehen neue Skills zu entwickeln.
+*um durch das Ansehen neue Skills zu entwickeln.*
 
 > — Zertifikate für abgeschlossene Kurse zu erhalten / Die App mit Chromecast zu verwenden
 
 "Die App mit Chromecast zu verwenden" wäre als ein eigener Punkt in die Auszählung aufzunehmen.
-
-Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android") waren kaum von von Parkside erbrachte Leistungen oder Key Features der LinkedIn Learning App.
 
 Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier die Niederschrift), im Vergleich:
 
@@ -171,11 +161,8 @@ In welchen Phasen?
 
 > um sie einem breiten Publikum zugänglich zu machen. 
 
-Ja, man weiß, normalerweise, was Barierrefreiheit bedeutet.
+Ja, man weiß, normalerweise, was Barrierefreiheit bedeutet.
 
 > [Download — Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf)
 
-Eine weitere, längere, Kurzfassung, macht im Anschluss an die Kurzfassung  keinen Sinn: So gibt es den gleichen Link auch anfangs, neben der [LinkedIn Business Challenge](#linkedin-business-challenge).
-
-
-
+Eine weitere, längere, Kurzfassung, macht im Anschluss an die Kurzfassung keinen Sinn: So gibt es den gleichen Link auch anfangs, neben der [LinkedIn Business Challenge](#linkedin-business-challenge).
