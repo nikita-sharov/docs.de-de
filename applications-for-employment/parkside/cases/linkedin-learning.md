@@ -2,13 +2,13 @@
 
 https://www.parkside-interactive.com/de/cases/mit-linkedin-learning-mobil-lernen
 
-Als technischer Redakteur würde ich den Autor keine Fallstudien mehr schreiben lassen und die Qualitätssicherung 
+Als technischer Redakteur würde ich die Qualitätssicherung der vorliegenden Fallstudie in Frage stellen.
 
 > Nach der Übernahme unseres Kunden Lynda.com war unsere Expertise bei der "Entwicklung der Learning-Plattform LinkedIn Learning" gefragt.  
 
 "Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform." — [Lynda.com](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html)
 
-Unter der "Entwicklung der Learning-Plattform LinkedIn Learning" wäre das Rebranding der bestehenden Learning-Plattform Lynda.com zu verstehen.
+Unter der "Entwicklung der Learning-Plattform LinkedIn Learning" wäre das Rebranding einer bestehenden Learning-Plattform (Lynda.com) zu verstehen.
 
 ## LinkedIn Business Challenge
 
@@ -66,7 +66,7 @@ Die deutsche Lokalisierung einer englischen Fallstudie, oder umgekehrt, macht ni
 
 > Verringerte Time-to-Market
 
-Das Ziel ist der Weg. Die Folge ist der Beitrag.
+Das Ziel ist der Weg. Die Folge ist der Beitrag. (Wenn mehrere für ein Geschenk zusammenlegen, so könnte daraus, in weiterer Folge, ein brauchbares Geschenk werden.)
 
 ## 10 Jahre Erfahrung
 
@@ -140,7 +140,7 @@ Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android"
 
 ## In a nutshell
 
-Am Ende der Langfassung macht eine Kurzfassung ([too long; didn't read](https://www.urbandictionary.com/define.php?term=Too%20long%20didn%27t%20read)) wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang, dass sie einer Zusammenfassung bedarf.
+Am Ende der Langfassung ([too long; didn't read](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read)) macht eine Kurzfassung wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang, dass sie einer Zusammenfassung bedarf.
 
 > Unser Team schuf zentrale Features in allen Phasen für die iOS- und Android-App und gestaltete diese möglichst barrierefrei, 
 
@@ -152,17 +152,17 @@ Ja, man weiß, normalerweise, was Barierrefreiheit bedeutet.
 
 > [Download — Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf)
 
-Eine weitere, längere, Kurzfassung, macht im Anschluss an die Kurzfassung (und die Langfassung davor) keinen Sinn: So gibt es den gleichen Link auch anfangs, neben der [LinkedIn Business Challenge](#linkedin-business-challenge).
+Eine weitere, längere, Kurzfassung, macht im Anschluss an die Kurzfassung  keinen Sinn: So gibt es den gleichen Link auch anfangs, neben der [LinkedIn Business Challenge](#linkedin-business-challenge).
 
 ## Informative Gegenbeispiele
 
-Wie Lynda.com die neue Plattform, das Ergebnis, in Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier das Transcript):
+Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier die Niederschrift):
 
-> Soon, you'll be able to upgrade to our new learning platform, LinkedIn Learning, which delivers the same great lynda.com content through a personalized, easy-to-use, new experience. With unique insights from LinkedIn, based on a person's job title and skillsets, LinkedIn Learning delivers a personalized learning experience, highlighting content that will help individuals succeed in their given role.
->
-> We also have a brand new admin experience to help you easily manage your groups of learners, curate and recommend content that is relevant to each learner's needs including the ability to incorporate content from outside of our library such as a welcome video from your CEO helping you create a truly customized experience for your learners. There's also new reporting and analytics at a glance so you can easily measure adoption and engagement. 
+"Soon, you'll be able to upgrade to our new learning platform, LinkedIn Learning, which delivers the same great lynda.com content through a personalized, easy-to-use, new experience. With unique insights from LinkedIn, based on a person's job title and skillsets, LinkedIn Learning delivers a personalized learning experience, highlighting content that will help individuals succeed in their given role.
 
-> On the day of your upgrade, all of your organization's activity and data from lynda.com will automatically migrate to LinkedIn Learning and that's it.
+We also have a brand new admin experience to help you easily manage your groups of learners, curate and recommend content that is relevant to each learner's needs including the ability to incorporate content from outside of our library such as a welcome video from your CEO helping you create a truly customized experience for your learners. There's also new reporting and analytics at a glance so you can easily measure adoption and engagement."
+
+"On the day of your upgrade, all of your organization's activity and data from lynda.com will automatically migrate to LinkedIn Learning and that's it."
 
 Das sind knapp **150** Wörter.
 
@@ -179,7 +179,6 @@ Wayback Machine, [lynda.com, Press Releases](https://web.archive.org/web/2014012
 > 
 > — Eric Robison, former CEO of lynda.com
 
-Outline
 
 
 

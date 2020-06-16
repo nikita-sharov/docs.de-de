@@ -1,12 +1,12 @@
-# Landing Page
+# Startseite
 
 https://www.parkside-interactive.com/de
 
 > Wir entwickeln die digitalen Anwendungen von morgen.
 
-Wer entwickelt schon die Anwendungen von gestern?
+Wer entwickelt schon die digitalen Anwendungen von gestern (abgesehen von [Hackerman](https://youtu.be/KEkrWRHCDQU?t=134))?
 
-## Headings
+## Inhaltsverzeichnis
 
 Als Leser (Softwareentwickler, Screenreader) will ich klar sowie technisch sauber strukturierte Inhalte.
 
@@ -69,7 +69,7 @@ Vor dem Geviertstrich hier wäre ein geschütztes Leerzeichen (*no-break space*,
 
 zu verhindern. Das Denglisch-Kauderwelsche würde ich meiden. Als Gedankenstrich wäre im Deutschen ein Halbgeviertstrich (*en dash*, `U+2013`) zu verwenden.
 
-## Footer
+## Fußzeile
 
 Als bereits Interessierter will ich die richtigen Ohren erreichen und dabei höflich bleiben, ohne Lärm für andere Ohren zu erzeugen. Ich will auch keine Entscheidungen treffen oder gar nachdenken müssen, wenn es nicht unbedingt sein muss. Als Power-User weiß ich, was Alias-Adressen sind, und wie viel Müll tagtäglich im digitalen Reißwolf landet.
 
