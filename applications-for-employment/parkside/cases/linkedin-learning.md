@@ -2,13 +2,13 @@
 
 https://www.parkside-interactive.com/de/cases/mit-linkedin-learning-mobil-lernen
 
-Als technischer Redakteur würde ich die Qualitätssicherung der vorliegenden Fallstudie in Frage stellen.
+Als technischer Redakteur würde ich die Qualitätssicherung der Fallstudien in Frage stellen.
 
 > Nach der Übernahme unseres Kunden Lynda.com war unsere Expertise bei der "Entwicklung der Learning-Plattform LinkedIn Learning" gefragt.  
 
-"Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform." — [Lynda.com](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html)
+Unter der "Entwicklung der Learning-Plattform LinkedIn Learning" wäre das [Rebranding einer bestehenden Learning-Plattform](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (Lynda.com) zu verstehen:
 
-Unter der "Entwicklung der Learning-Plattform LinkedIn Learning" wäre das Rebranding einer bestehenden Learning-Plattform (Lynda.com) zu verstehen.
+> Lynda.com is now LinkedIn Learning · Same content. Same instructors. New platform.
 
 ## LinkedIn Business Challenge
 
@@ -66,17 +66,17 @@ Die deutsche Lokalisierung einer englischen Fallstudie, oder umgekehrt, macht ni
 
 > Verringerte Time-to-Market
 
-Das Ziel ist der Weg. Die Folge ist der Beitrag. (Wenn mehrere für ein Geschenk zusammenlegen, so könnte daraus, in weiterer Folge, ein brauchbares Geschenk werden.)
+Das Ziel ist der Weg. Die Folge ist der Beitrag. Wenn mehrere für ein Geschenk zusammenlegen, so könnte daraus, in weiterer Folge, ein brauchbares Geschenk, aus der Sicht des Beschenkten, werden.
 
 ## 10 Jahre Erfahrung
 
 Vor der Übernahme von Lynda.com durch LinkedIn in 2015,
 
-> Nach der Übernahme von Lynda.com durch LinkedIn und der Schaffung einer neuen Lernplattform – LinkedIn Learning – konnten wir unsere Kooperation mit dem neuen Eigentümer weiterführen. Wir brachten unsere Erfahrungen aus den letzten **10** Jahren ein, die wir aus der Zusammenarbeit mit video2brain und Lynda.com gesammelt hatten, um LinkedIn bei der Entwicklung der iOS- und Android-Apps zu unterstützen. 
+> Nach der Übernahme von Lynda.com durch LinkedIn und der Schaffung einer neuen Lernplattform – LinkedIn Learning – konnten wir unsere Kooperation mit dem neuen Eigentümer weiterführen. Wir brachten unsere Erfahrungen aus den letzten 10 Jahren ein, die wir aus der Zusammenarbeit mit video2brain und Lynda.com gesammelt hatten, um LinkedIn bei der Entwicklung der iOS- und Android-Apps zu unterstützen. 
 
-zur Übernahme von video2brain durch Lynda.com in 2013, im entsprechenden [Press Release](https://web.archive.org/web/20140122181254/http://www.lynda.com/press/pressrelease?id=3317):
+zur [Übernahme von video2brain durch Lynda.com](https://web.archive.org/web/20140122181254/http://www.lynda.com/press/pressrelease?id=3317) in 2013:
 
-"We have long envisioned the company providing content in multiple languages. The two options were to organically grow that capability from scratch, or find a company aligned with our culture and business model. What video2brain has built in 11 years is impressive and we are fortunate to welcome their employees, members, partners and authors to lynda.com."
+> We have long envisioned the company providing content in multiple languages. The two options were to organically grow that capability from scratch, or find a company aligned with our culture and business model. What video2brain has built in 11 years is impressive and we are fortunate to welcome their employees, members, partners and authors to lynda.com.
 
 Von [de/cases/ein-edtech-unternehmen-wird-zum-globalen-player](https://www.parkside-interactive.com/de/cases/ein-edtech-unternehmen-wird-zum-globalen-player) bestätigt:
 
@@ -86,13 +86,15 @@ Von [de/about](https://www.parkside-interactive.com/de/about) widerlegt:
 
 > Seit 2005 unterstützen wir innovative Unternehmen bei der Entwicklung, Verbesserung und Skalierung digitaler Produkte.
 
-> Die Zeit seit 2005 war eine unglaubliche Reise für uns. Von unseren ersten Kunden zum Big Bang in den USA — was klein anfing wurde immer größer und übertraf unsere kühnsten Vorstellungen.
+> Die Zeit seit 2005 war eine unglaubliche Reise für uns. Von unseren ersten Kunden zum Big Bang in den USA — was klein anfing[,] wurde immer größer und übertraf unsere kühnsten Vorstellungen.
 
-Wie von dem Firmenprofil auf [karriere.at](https://www.karriere.at/f/parkside) auch:
+Wie von dem [Firmenprofil](https://www.karriere.at/f/parkside) auf karriere.at auch:
 
-"Das Team von Parkside besteht aus über 75 digitalen ExpertInnen in Österreich und Silicon Valley. Seit 2005 unterstützt es innovative Unternehmen wie z. B. LinkedIn, PicMonkey, BearingPoint[,] etc. bei der Entwicklung, Verbesserung und Skalierung digitaler Produkte."
+> Das Team von Parkside besteht aus über 75 digitalen ExpertInnen in Österreich und Silicon Valley. Seit 2005 unterstützt es innovative Unternehmen wie z. B. LinkedIn, PicMonkey, BearingPoint[,] etc. bei der Entwicklung, Verbesserung und Skalierung digitaler Produkte."
 
-Wobei es mit "Gründungsjahr 2007" sich selbst widerlegt. San Francisco (s. Fußzeile bzw. [de/kontakt](https://www.parkside-interactive.com/de/kontakt)), die Stadt und das County, liegt nicht in Silicon Valley.
+Wobei es mit "Gründungsjahr 2007" sich selbst widerlegt, und San Francisco (s. Fußzeile bzw. [de/kontakt](https://www.parkside-interactive.com/de/kontakt)), die Stadt und das County, nicht zu Silicon Valley gehört.
+
+Zeitspannen in Kalenderjahren sagen grundsätzlich wenig über die "Erfahrung" aus. Durch die Fluktuation geht diese auch sehr schnell verloren. Geografische Gegebenheiten und die Besitzstrukturen transnationaler Konzerne, sagen wenig über die Fähigkeit eines bestimmten Teams, gute Software zu schreiben.
 
 ## Barrierefreiheit ist entscheidend
 
@@ -102,7 +104,7 @@ LinkedIn zählt nicht zu den "größten" Tech-Unternehmen des Silicon Valley (To
 
 > Den meisten Unternehmen fehlt beispielsweise das Budget, um sich auf das Thema Barrierefreiheit zu konzentrieren. Hier kamen wir ins Spiel, denn eine unserer Hauptaufgaben war es, die Apps für ein möglichst breites Publikum zugänglich zu machen.
 
-*Weil eine der Hauptaufgaben von Parkside Barrierefreiheit war, fehlt es den meisten Unternehmen dafür an Budget.*
+Weil eine der Hauptaufgaben von Parkside Barrierefreiheit war, fehlt es den meisten Unternehmen dafür an Budget.
 
 > Außerdem war es spannend für uns zu sehen, wie eines der größten Unternehmen des Silicon Valley funktioniert und wie deren Development Stack aussieht.
 
@@ -150,11 +152,11 @@ Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android"
 
 Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier die Niederschrift):
 
-"Soon, you'll be able to upgrade to our new learning platform, LinkedIn Learning, which delivers the same great lynda.com content through a personalized, easy-to-use, new experience. With unique insights from LinkedIn, based on a person's job title and skillsets, LinkedIn Learning delivers a personalized learning experience, highlighting content that will help individuals succeed in their given role.
+> Soon, you'll be able to upgrade to our new learning platform, LinkedIn Learning, which delivers the same great lynda.com content through a personalized, easy-to-use, new experience. With unique insights from LinkedIn, based on a person's job title and skillsets, LinkedIn Learning delivers a personalized learning experience, highlighting content that will help individuals succeed in their given role.
+>
+> We also have a brand new admin experience to help you easily manage your groups of learners, curate and recommend content that is relevant to each learner's needs including the ability to incorporate content from outside of our library such as a welcome video from your CEO helping you create a truly customized experience for your learners. There's also new reporting and analytics at a glance so you can easily measure adoption and engagement."
 
-We also have a brand new admin experience to help you easily manage your groups of learners, curate and recommend content that is relevant to each learner's needs including the ability to incorporate content from outside of our library such as a welcome video from your CEO helping you create a truly customized experience for your learners. There's also new reporting and analytics at a glance so you can easily measure adoption and engagement."
-
-"On the day of your upgrade, all of your organization's activity and data from lynda.com will automatically migrate to LinkedIn Learning and that's it."
+> On the day of your upgrade, all of your organization's activity and data from lynda.com will automatically migrate to LinkedIn Learning and that's it."
 
 ## In a nutshell
 
