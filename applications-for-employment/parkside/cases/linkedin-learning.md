@@ -26,7 +26,7 @@ Ein Tochterunternehmen von LinkedIn – LinkedIn Learning – die ehemalige [Lyn
 
 > Unser Engineering Team war regelmäßig vor Ort in Mountain View, San Francisco, um eng mit dem Kunden zusammenzuarbeiten.
 
-Das ganze "Engineering Team"? Ohne Remote-Zugang? Diesem [Kapitel](#barrierefreiheit-ist-entscheidend) nach: "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
+Das ganze "Engineering Team"? Ohne Remote-Zugang? Diesem [Kapitel](#barrierefreiheit-ist-entscheidend) nach "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
 
 ## Das Ergebnis
 
@@ -70,21 +70,29 @@ Das Ziel ist der Weg. Die Folge ist der Beitrag. (Wenn mehrere für ein Geschenk
 
 ## 10 Jahre Erfahrung
 
-> Nach der Übernahme von Lynda.com durch LinkedIn und der Schaffung einer neuen Lernplattform – LinkedIn Learning – konnten wir unsere Kooperation mit dem neuen Eigentümer weiterführen. 
+Vor der Übernahme von Lynda.com durch LinkedIn in 2015,
 
-Ja, "Die App mit Chromecast zu verwenden"
+> Nach der Übernahme von Lynda.com durch LinkedIn und der Schaffung einer neuen Lernplattform – LinkedIn Learning – konnten wir unsere Kooperation mit dem neuen Eigentümer weiterführen. Wir brachten unsere Erfahrungen aus den letzten **10** Jahren ein, die wir aus der Zusammenarbeit mit video2brain und Lynda.com gesammelt hatten, um LinkedIn bei der Entwicklung der iOS- und Android-Apps zu unterstützen. 
 
-> Wir brachten unsere Erfahrungen aus den letzten 10 Jahren ein, die wir aus der Zusammenarbeit mit video2brain und Lynda.com gesammelt hatten, um LinkedIn bei der Entwicklung der iOS- und Android-Apps zu unterstützen. 
+zur Übernahme von video2brain durch Lynda.com in 2013, im entsprechenden [Press Release](https://web.archive.org/web/20140122181254/http://www.lynda.com/press/pressrelease?id=3317):
 
-Zum Zeitpunkt der Übernahme von B durch A hatten wir 10 Kalenderjahre Erfahrung mit B und C, das einst von B übernommen wurde. Diese Erfahrung brachten wir ein
+"We have long envisioned the company providing content in multiple languages. The two options were to organically grow that capability from scratch, or find a company aligned with our culture and business model. What video2brain has built in 11 years is impressive and we are fortunate to welcome their employees, members, partners and authors to lynda.com."
 
-> Durch den Beitrag unserer besten Mobile Developer agierten wir als eine Art Erweiterung des bestehenden LinkedIn Mobile Teams.
+Von [de/cases/ein-edtech-unternehmen-wird-zum-globalen-player](https://www.parkside-interactive.com/de/cases/ein-edtech-unternehmen-wird-zum-globalen-player) bestätigt:
 
+> Die Zusammenarbeit mit video2brain begann im Jahr 2002.
 
+Von [de/about](https://www.parkside-interactive.com/de/about) widerlegt:
 
-> Nach der Übernahme von Lynda vertraute LinkedIn kontinuierlich auf unser Entwicklerteam.
+> Seit 2005 unterstützen wir innovative Unternehmen bei der Entwicklung, Verbesserung und Skalierung digitaler Produkte.
 
-LinkedIn (bzw. LinkedIn Learning) vertraute uns so sehr, dass keine
+> Die Zeit seit 2005 war eine unglaubliche Reise für uns. Von unseren ersten Kunden zum Big Bang in den USA — was klein anfing wurde immer größer und übertraf unsere kühnsten Vorstellungen.
+
+Wie von dem Firmenprofil auf [karriere.at](https://www.karriere.at/f/parkside) auch:
+
+"Das Team von Parkside besteht aus über 75 digitalen ExpertInnen in Österreich und Silicon Valley. Seit 2005 unterstützt es innovative Unternehmen wie z. B. LinkedIn, PicMonkey, BearingPoint[,] etc. bei der Entwicklung, Verbesserung und Skalierung digitaler Produkte."
+
+Wobei es mit "Gründungsjahr 2007" sich selbst widerlegt. San Francisco (s. Fußzeile bzw. [de/kontakt](https://www.parkside-interactive.com/de/kontakt)), die Stadt und das County, liegt nicht in Silicon Valley.
 
 ## Barrierefreiheit ist entscheidend
 
@@ -122,7 +130,9 @@ Das Ganze hat sehr wenig mit Barierrefreiheit der LinkedIn Learning App zu tun.
 
 ## Erbrachte Leistungen & Key Features
 
-Nochmals, ein bestimmtes Feature `A` wäre das Ergebnis einer konkreten Leistung `B`. Die Existenz einer Software-Funktion `A` schließt Arbeitszeit `B` voraus.
+Nochmals, ein bestimmtes Feature `A` wäre das Ergebnis einer konkreten Leistung `B`. Die Existenz einer Software-Funktion `A` schließt Arbeitszeit `B` voraus. 
+
+Das Et-Zeichen (*ampersand*, `U+0026`) wäre in dafür vorgesehenen Fällen zu verwenden.
 
 > Parkside war für die Entwicklung der LinkedIn Learning Apps für iOS und Android verantwortlich.
 
@@ -137,6 +147,14 @@ Davor war es den Usern nicht möglich neue Skills zu entwickeln.
 "Die App mit Chromecast zu verwenden" wäre als ein eigener Punkt in die Auszählung aufzunehmen.
 
 Programmiersprachen ("Java / Swift") und mobile Betriebssysteme ("iOS / Android") waren kaum von von Parkside erbrachte Leistungen oder Key Features der LinkedIn Learning App.
+
+Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier die Niederschrift):
+
+"Soon, you'll be able to upgrade to our new learning platform, LinkedIn Learning, which delivers the same great lynda.com content through a personalized, easy-to-use, new experience. With unique insights from LinkedIn, based on a person's job title and skillsets, LinkedIn Learning delivers a personalized learning experience, highlighting content that will help individuals succeed in their given role.
+
+We also have a brand new admin experience to help you easily manage your groups of learners, curate and recommend content that is relevant to each learner's needs including the ability to incorporate content from outside of our library such as a welcome video from your CEO helping you create a truly customized experience for your learners. There's also new reporting and analytics at a glance so you can easily measure adoption and engagement."
+
+"On the day of your upgrade, all of your organization's activity and data from lynda.com will automatically migrate to LinkedIn Learning and that's it."
 
 ## In a nutshell
 
@@ -153,32 +171,6 @@ Ja, man weiß, normalerweise, was Barierrefreiheit bedeutet.
 > [Download — Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf)
 
 Eine weitere, längere, Kurzfassung, macht im Anschluss an die Kurzfassung  keinen Sinn: So gibt es den gleichen Link auch anfangs, neben der [LinkedIn Business Challenge](#linkedin-business-challenge).
-
-## Informative Gegenbeispiele
-
-Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier die Niederschrift):
-
-"Soon, you'll be able to upgrade to our new learning platform, LinkedIn Learning, which delivers the same great lynda.com content through a personalized, easy-to-use, new experience. With unique insights from LinkedIn, based on a person's job title and skillsets, LinkedIn Learning delivers a personalized learning experience, highlighting content that will help individuals succeed in their given role.
-
-We also have a brand new admin experience to help you easily manage your groups of learners, curate and recommend content that is relevant to each learner's needs including the ability to incorporate content from outside of our library such as a welcome video from your CEO helping you create a truly customized experience for your learners. There's also new reporting and analytics at a glance so you can easily measure adoption and engagement."
-
-"On the day of your upgrade, all of your organization's activity and data from lynda.com will automatically migrate to LinkedIn Learning and that's it."
-
-Das sind knapp **150** Wörter.
-
-2013
-
-- Gigaom, [Flush with cash, lynda.com buys European online learning site video2brain](https://gigaom.com/2013/02/13/flush-with-cash-lynda-com-buys-european-online-learning-site-video2brain/) (2013)
-- 
-
-Wayback Machine, [lynda.com, Press Releases](https://web.archive.org/web/20140122181254/http://www.lynda.com/press/pressrelease?id=3317)
-
-> [lynda.com](https://web.archive.org/web/20140122181254/http://www.lynda.com), an **online learning company**, today announced its acquisition of video2brain, GmbH, a European-based **online video training company** that specializes in German-, French-, Spanish- and English-language courses. lynda.com announced this acquisition less than one month after the news of its $103 million growth equity investment that positioned it for expanded opportunities in technology, content and international expansion.
-
-> We have long envisioned the company providing content in multiple languages. The two options were to organically grow that capability from scratch, or find a company aligned with our culture and business model. What video2brain has built in 11 years is impressive and we are fortunate to welcome their employees, members, partners and authors to lynda.com.
-> 
-> — Eric Robison, former CEO of lynda.com
-
 
 
 
