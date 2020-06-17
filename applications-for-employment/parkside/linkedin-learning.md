@@ -22,13 +22,13 @@ Ob die zeitliche Challenge bei der Projektlaufzeit von 1,5 (der [Executive Summa
 
 Nicht die [Lynda.com](https://www.lynda.com) ("unser Kunde"), 2015 aufgekauftes, 2017 in [LinkedIn Learning](https://en.wikipedia.org/wiki/LinkedIn_Learning) umbenanntes Tochterunternehmen von LinkedIn?
 
-Bei "Usern" wäre eventuell zu erwähnen, dass registrierte Benutzer gemeint waren, dass die Anzahl der Benutzer, die LinkedIn auch benutzen, deutlich geringer sein wird. Zum Zeitpunkt der Übernahme [bezeichnete](https://news.linkedin.com/2015/linkedin-to-acquire-lyndacom) sich LinkedIn als "the world's largest professional network on the Internet with more than 300 million members worldwide".
+Bei "Usern" wäre zu erwähnen, dass registrierte Benutzer gemeint waren, dass die Anzahl der Benutzer, die LinkedIn auch benutzen, deutlich geringer sein wird. Zum Zeitpunkt der Übernahme [bezeichnete sich LinkedIn](https://news.linkedin.com/2015/linkedin-to-acquire-lyndacom) als "the world's largest professional network on the Internet with more than 300 million members worldwide".
 
 ## Unser Zugang
 
 > Unser Engineering Team war regelmäßig vor Ort in Mountain View, San Francisco, um eng mit dem Kunden zusammenzuarbeiten.
 
-Ohne Remote-Zugang? Diesem [Kapitel](#barrierefreiheit-ist-entscheidend) nach "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
+Ohne Remote-Zugang? [Diesem Kapitel](#barrierefreiheit-ist-entscheidend) nach "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
 
 Ryan Roslansky, heutiger CEO und damaliger "head of global content products" von LinkedIn, muss bei der Übernahme vergessen haben, das Team von Parkside zu [erwähnen](https://blog.linkedin.com/2015/04/09/lynda-joins-linkedin):
 
@@ -94,7 +94,7 @@ Von [de/about](https://www.parkside-interactive.com/de/about) widerlegt:
 
 > Die Zeit seit 2005 war eine unglaubliche Reise für uns. Von unseren ersten Kunden zum Big Bang in den USA — was klein anfing[,] wurde immer größer und übertraf unsere kühnsten Vorstellungen.
 
-Wie von dem [Firmenprofil](https://www.karriere.at/f/parkside) auf karriere.at auch:
+Wie von dem [Firmenprofil auf karriere.at](https://www.karriere.at/f/parkside) auch:
 
 > Das Team von Parkside besteht aus über 75 digitalen ExpertInnen in Österreich und Silicon Valley. Seit 2005 unterstützt es innovative Unternehmen wie z. B. LinkedIn, PicMonkey, BearingPoint[,] etc. bei der Entwicklung, Verbesserung und Skalierung digitaler Produkte."
 
@@ -110,7 +110,7 @@ LinkedIn zählt nicht zu den "größten" Tech-Unternehmen des Silicon Valley (To
 
 > Den meisten Unternehmen fehlt beispielsweise das Budget, um sich auf das Thema Barrierefreiheit zu konzentrieren. Hier kamen wir ins Spiel, denn eine unserer Hauptaufgaben war es, die Apps für ein möglichst breites Publikum zugänglich zu machen.
 
-*Weil eine der Hauptaufgaben von Parkside Barrierefreiheit war, fehlt es den meisten Unternehmen dafür an Budget.*
+Weil eine der Hauptaufgaben von Parkside Barrierefreiheit war, fehlt es den meisten Unternehmen dafür an Budget.
 
 > Außerdem war es spannend für uns zu sehen, wie eines der größten Unternehmen des Silicon Valley funktioniert und wie deren Development Stack aussieht.
 
@@ -118,11 +118,11 @@ Nochmals, LinkedIn ist nicht (und war es auch nie) eines der größten Unternehm
 
 > Teil dieser Zusammenarbeit waren zahlreiche Trips nach San Francisco und Mountain View, wo das Unternehmen seinen Hauptsitz hat. 
 
-Heute (Juni 2020) liegt dieser im benachbarten Sunnyvale. 
+Heute (Juni 2020) liegt der Hauptsitz von LinkedIn im benachbarten Sunnyvale. 
 
 > Vor allem die Büros in Mountain View und die dortige Cafeteria, mit den hervorragenden Frühstücks- und Lunch-Buffets, können wir wärmstens empfehlen.
 
-Das Ganze hat sehr wenig mit Barrierefreiheit der LinkedIn Learning App zu tun.
+Das Ganze hat sehr wenig mit der Barrierefreiheit der LinkedIn Learning App zu tun.
 
 ## Erbrachte Leistungen & Key Features
 
@@ -137,11 +137,11 @@ Mit-verantwortlich.
 > Wir haben es Usern ermöglicht:  
 > — Videos und Kurse anzusehen
 
-*Davor war es den (Lynda.com) Usern nicht möglich Video-Kurse anzusehen,*
+Davor war es den (Lynda.com) Usern nicht möglich Video-Kurse anzusehen,
  
 > — Neue Skills zu entwickeln
 
-*um durch das Ansehen neue Skills zu entwickeln.*
+um durch das Ansehen neue Skills zu entwickeln.
 
 > — Zertifikate für abgeschlossene Kurse zu erhalten / Die App mit Chromecast zu verwenden
 
@@ -169,4 +169,4 @@ Ja, man weiß, normalerweise, was Barrierefreiheit bedeutet.
 
 > [Download — Executive Summary](https://d3k0xv5o1rqf31.cloudfront.net/app/uploads/2020/05/Exec-Summary-%E2%80%94-LinkedIn.pdf)
 
-Eine weitere, längere, Kurzfassung, macht im Anschluss an die Kurzfassung keinen Sinn: So gibt es den gleichen Link auch anfangs, neben der [LinkedIn Business Challenge](#linkedin-business-challenge).
+Eine weitere, längere, Kurzfassung, macht im Anschluss an die Kurzfassung keinen Sinn: So gibt es den gleichen Link auch anfangs (neben der [LinkedIn Business Challenge](#linkedin-business-challenge)).

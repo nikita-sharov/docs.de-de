@@ -37,9 +37,7 @@ Als aufmerksamer Leser weiß ich bereits, dass Parkside individuelle Software en
 
 > Wir verbinden Software Development, UX/UI Design, Product Development und Technology Consulting, um bessere Software schneller zu liefern.
 
-Wir verbinden Obst, Äpfel, Produktentwicklung und technische Beratung, um besseres Obst schneller zu liefern. Ob das die Bio-Veganer glauben?
-
-Das [Firmenprofil](https://www.karriere.at/f/parkside) auf karriere.at erklärt die kausalen Zusammenhänge: 
+Wir verbinden Obst, Äpfel, Produktentwicklung und technische Beratung, um besseres Obst schneller zu liefern. Das [Firmenprofil auf karriere.at]((https://www.karriere.at/f/parkside)) liefert die kausalen Zusammenhänge: 
 
 > Parkside® verbindet Software Development, UX/UI Design, Product Development sowie Technology Consulting und ist damit ein führender Partner für das Design und die Entwicklung individueller Software.
 
