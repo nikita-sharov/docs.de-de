@@ -1,27 +1,28 @@
 # Product Owner
 
-Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5696375) (Stelleninserat vom / aktualisiert am 11.06.2020, s. [Druckversion](media/product-owner_karriere.at.pdf)) sowie auf [parkside-interactive.com](https://www.parkside-interactive.com/de/open-position/product-owner-w-m).
+Ausgeschrieben auf [parkside-interactive.com](https://www.parkside-interactive.com/de/open-position/product-owner-w-m) sowie auf [karierre.at](https://www.karriere.at/jobs/5696375) (Stelleninserat vom / aktualisiert am 11.06.2020, s. [Druckversion](media/product-owner_karriere.at.pdf)).
 
 ## Motivationsschreiben
 
 Werte Kollegen,
 
-hiermit möchte ich mich für die 
+hiermit möchte ich mich für die obige Position bewerben. Ich bin ein Software
 
-An Stelle allgemeinüblicher Unterlagen
-
-Sollten meine Argumentation & Ausdrucksweise zielführend erscheinen
+An Stelle allgemeinüblicher Unterlagen möchte ich auf den folgenden [Backlog](#backlog) verweisen. Sollten meine Argumentation & Ausdrucksweise als nützlich erscheinen, so würde ich mich über eine informative Rückmeldung freuen.
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
 
 ## Backlog
 
+Die folgenden Einträge wären als nicht priorisierte Backlog-Items (Epics / Features / Requirements / User Stories / Tasks / Bugs / Issues, je nach Vorgehensmodell) zu verstehen:
+
 - [Startseite](startseite.md)
   - [Inhaltsverzeichnis](startseite.md#inhaltsverzeichnis)
-  - [Über uns](startseite.md#ueber-uns)
+  - [Über uns](startseite.md#über-uns)
   - [Was wir tun](startseite.md#was-wir-tun)
   - [News und Updates](startseite.md#news-und-updates)
+  - [Karriere](startseite.md#karriere)
   - [Fußzeile](startseite.md#fußzeile)
 - [Mit LinkedIn Learning mobil lernen](linkedin-learning.md)
   - [LinkedIn Business Challenge](linkedin-learning.md#linkedin-business-challenge)
@@ -34,14 +35,7 @@ Nikita Sharov
   - [Erbrachte Leistungen & Key Features](linkedin-learning.md#erbrachte-leistungen--key-features)
   - [In a nutshell](linkedin-learning.md#in-a-nutshell)
 
-
-### Wer wir sind
-
-> Hi. Wir sind Parkside. Als Vorreiter in Software Development & Design entwickeln wir die digitalen Anwendungen von morgen - und freuen uns bereits auf dich!
-
-Blah, schon wieder & u. der Satz sagt rein gar nichts aus? Wer entwickelt schon Anwendungen von gestern (oder gibt es offiziell zu)? Design?
-
-"Product Owner" alsd Text auf's Bild mit dem Team hauen.
+Die Paraphrasen sollten den ungünstigsten Gedankengang (aka Worst Case) aus der User-Perspektive darstellen und sind mit Humor ("with a smile") zu nehmen.
 
 Team: Engineering
 
