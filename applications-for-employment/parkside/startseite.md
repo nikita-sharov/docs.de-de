@@ -8,7 +8,7 @@ Wer entwickelt schon die digitalen Anwendungen von gestern (abgesehen von [Hacke
 
 ## Inhaltsverzeichnis
 
-Als Leser (Softwareentwickler, Screenreader) will ich klar sowie technisch sauber strukturierte Inhalte.
+Als Leser (Softwareentwickler / Screenreader) will ich klar sowie technisch sauber strukturierte Inhalte.
 
 Die aktuelle Struktur der `HTML`-Überschriften wäre zu überdenken:
 
@@ -33,7 +33,7 @@ Nicht marktführende Anwendungen von gestern verwandeln wir in Marktführende.
 
 ## Was wir tun
 
-Als aufmerksamer Leser weiß ich bereits, dass Parkside individuelle Software entwickelt. 
+Als aufmerksamer Leser weiß ich bereits, dass Parkside individuelle Software entwickelt.
 
 > Wir verbinden Software Development, UX/UI Design, Product Development und Technology Consulting, um bessere Software schneller zu liefern.
 
@@ -49,11 +49,11 @@ Weil wir Obst, Äpfel, Produktentwicklung und technische Beratung verbinden, sin
 
 *Wasser und Flüssigkeit* wäre eine chemische Verbindung in einem der klassischen Aggregatzustände, eigenartig formuliert dargestellt.
 
-Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Zeitpunkt ihrer Veröffentlichung wohl neu waren, gelistet. In der [englischen Version](https://www.parkside-interactive.com/) heißt es "News, events & stories". Das Et-Zeichen (*ampersand*, `U+0026`) wäre nur in dafür vorgesehenen Fällen zu verwenden.
+Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Zeitpunkt ihrer Veröffentlichung wohl neu waren, gelistet. In der [englischen Version](https://www.parkside-interactive.com/) heißt es "News, events & stories".
 
 ## Karriere
 
-Als Leser
+Als Leser erwarte ich mir von Texten, die der deutschsprachigen Öffentlichkeit bestimmt sind, die amtliche Rechtschreibung.
 
 > Up Next  
 > — Karriere

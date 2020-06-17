@@ -1,36 +1,38 @@
 # Product Owner
 
-Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5486367) (Stelleninserat vom / aktualisiert am 25.05.2020, s. [Druckversion](media/senior-full-stack-developer_karriere.at.pdf)) sowie auf [jobs.acp.at](https://jobs.acp.at/Job/7382) (Jobnummer: 7382, s. [Druckversion](media/senior-full-stack-developer_acp.at.pdf)) für Graz, Feldbach.
+Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5696375) (Stelleninserat vom / aktualisiert am 11.06.2020, s. [Druckversion](media/product-owner_karriere.at.pdf)) sowie auf [parkside-interactive.com](https://www.parkside-interactive.com/de/open-position/product-owner-w-m).
 
-## karierre.at
+## Motivationsschreiben
 
 Werte Kollegen,
 
-hiermit möchte ich ein kleines
+hiermit möchte ich mich für die 
 
+An Stelle allgemeinüblicher Unterlagen
 
+Sollten meine Argumentation & Ausdrucksweise zielführend erscheinen
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
 
-## Bibo
+## Backlog
 
-- [Landing Page](landing-page.md)
-  - [Headings](landing-page.md#headings)
-  - [Über uns](landing-page.md#ueber-uns)
-  - [Was wir tun](landing-page.md#was-wir-tun)
-  - [News und Updates](landing-page.md#news-und-updates)
-  - [Footer](landing-page.md#footer)
-- [Mit LinkedIn Learning mobil lernen](landing-page.md)
-  - [LinkedIn Business Challenge]()
-  - [Kunde]()
-  - [Unser Zugang]()
-  - [Das Ergebnis]()
-  - [Unser Beitrag für LinkedIn Learning]()
-  - [10 Jahre Erfahrung]()
-  - [Barrierefreiheit ist entscheidend]()
-  - [Erbrachte Leistungen & Key Features]()
-  - [In a nutshell]()
+- [Startseite](startseite.md)
+  - [Inhaltsverzeichnis](startseite.md#inhaltsverzeichnis)
+  - [Über uns](startseite.md#ueber-uns)
+  - [Was wir tun](startseite.md#was-wir-tun)
+  - [News und Updates](startseite.md#news-und-updates)
+  - [Fußzeile](startseite.md#fußzeile)
+- [Mit LinkedIn Learning mobil lernen](linkedin-learning.md)
+  - [LinkedIn Business Challenge](linkedin-learning.md#linkedin-business-challenge)
+  - [Kunde](linkedin-learning.md#kunde)
+  - [Unser Zugang](linkedin-learning.md#unser-zugang)
+  - [Das Ergebnis](linkedin-learning.md#das-ergebnis)
+  - [Unser Beitrag für LinkedIn Learning](linkedin-learning.md#unser-beitrag-für-linkedin-learning)
+  - [10 Jahre Erfahrung](linkedin-learning.md#10-jahre-erfahrung)
+  - [Barrierefreiheit ist entscheidend](linkedin-learning.md#barrierefreiheit-ist-entscheidend)
+  - [Erbrachte Leistungen & Key Features](linkedin-learning.md#erbrachte-leistungen--key-features)
+  - [In a nutshell](linkedin-learning.md#in-a-nutshell)
 
 
 ### Wer wir sind

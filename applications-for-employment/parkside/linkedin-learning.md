@@ -56,7 +56,7 @@ Die "Konzeptualisierung des Produkts" bedeutet wohl "Erarbeitung sämtlicher Fea
 
 > Development von zentralen Features in allen Phasen für die iOS und Android App
 
-die Entwicklung zentraler Features offensichtlich nicht Teil von "Erarbeitung sämtlicher Features" war.
+die Entwicklung zentraler Features offenbar nicht Teil von "Erarbeitung sämtlicher Features" war.
 
 > Sämtliche Apps wurden barrierefrei gestaltet
 
@@ -72,9 +72,7 @@ Die deutsche Lokalisierung einer englischen Fallstudie, oder umgekehrt, macht ni
 
 > Verringerte Time-to-Market
 
-*Das Ziel ist der Weg. Die Folge ist der Beitrag.*
-
-Wenn mehrere für ein Geschenk zusammenlegen, so könnte daraus, in weiterer Folge, ein brauchbares Geschenk für den Beschenkten, werden.
+Das Ziel ist der Weg. Die Folge ist der Beitrag: Wenn mehrere für ein Geschenk zusammenlegen, so könnte daraus, in weiterer Folge, ein brauchbares Geschenk für den Beschenkten, werden.
 
 ## 10 Jahre Erfahrung
 
@@ -102,7 +100,7 @@ Wie von dem [Firmenprofil](https://www.karriere.at/f/parkside) auf karriere.at a
 
 Wobei es mit "Gründungsjahr 2007" sich selbst widerlegt, und San Francisco (s. Fußzeile bzw. [de/kontakt](https://www.parkside-interactive.com/de/kontakt)), die Stadt und das County, nicht zu Silicon Valley gehört.
 
-Zeitspannen in Kalenderjahren sagen grundsätzlich wenig über die "Erfahrung" aus. Durch die Fluktuation geht diese auch sehr schnell verloren. Geografische Gegebenheiten und die Besitzstrukturen transnationaler Konzerne, sagen wenig über die Fähigkeit eines bestimmten Teams, gute Software zu entwickeln.
+Zeitspannen in Kalenderjahren sagen grundsätzlich wenig über die "Erfahrung" aus. Durch die Fluktuation geht diese auch sehr schnell verloren. Geografische Gegebenheiten und die Besitzstrukturen transnationaler Konzerne sagen wenig über die Fähigkeit eines bestimmten Teams, ~~gute~~ ausgezeichnete Software zu entwickeln.
 
 ## Barrierefreiheit ist entscheidend
 
@@ -129,6 +127,8 @@ Das Ganze hat sehr wenig mit Barrierefreiheit der LinkedIn Learning App zu tun.
 ## Erbrachte Leistungen & Key Features
 
 Nochmals, ein bestimmtes Feature `A` wäre das Ergebnis einer konkreten Leistung `B`. Die Existenz einer Software-Funktion `A` schließt Arbeitszeit `B` voraus.
+
+Das Et-Zeichen (*ampersand*, `U+0026`) wäre nur in dafür vorgesehenen Fällen zu verwenden.
 
 > Parkside war für die Entwicklung der LinkedIn Learning Apps für iOS und Android verantwortlich.
 
@@ -157,11 +157,11 @@ Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](htt
 
 ## In a nutshell
 
-Am Ende der Langfassung ([too long; didn't read](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read)) macht eine Kurzfassung wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang (476 Wörter, 17 davon sind "LinkedIn"), dass sie einer Zusammenfassung bedarf.
+Am Ende der Langfassung ([too long; didn't read](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read)) macht eine Kurzfassung wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang (476 Wörter, 17 davon "LinkedIn"), dass sie einer Zusammenfassung bedarf.
 
 > Unser Team schuf zentrale Features in allen Phasen für die iOS- und Android-App und gestaltete diese möglichst barrierefrei, 
 
-In welchen Phasen?
+"Phase" ist ein dehnbarer Begriff, der im gegebenen Kontext zu konkretisieren wäre. 
 
 > um sie einem breiten Publikum zugänglich zu machen. 
 
