@@ -33,6 +33,6 @@ Die folgenden Einträge wären als nicht priorisierte Backlog-Items (Epics / Fea
   - [Erbrachte Leistungen & Key Features](linkedin-learning.md#erbrachte-leistungen--key-features)
   - [In a nutshell](linkedin-learning.md#in-a-nutshell)
 
-Die Paraphrasen sollten den ungünstigsten Gedankengang ~~(Worst Case)~~ aus der User-Perspektive darstellen und sind mit Humor ~~("with a smile")~~~ zu nehmen.
+Die Paraphrasen sollten den ungünstigsten Gedankengang aus der User-Perspektive(Worst-Case-Szenario) darstellen und sind mit Humor zu nehmen.
 
 

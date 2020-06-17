@@ -2,7 +2,7 @@
 
 https://www.parkside-interactive.com/de/cases/mit-linkedin-learning-mobil-lernen
 
-Als technischer Redakteur will ich die hauseigene Qualitätssicherung (Review-Prozesse / Feedback-Schleifen) in Frage stellen und eine Überarbeitung der Fallstudie(n) einleiten.
+Als technischer Redakteur würde ich die hauseigene Qualitätssicherung (Review-Prozesse / Feedback-Schleifen) in Frage stellen und eine Überarbeitung der Fallstudie(n) einleiten.
 
 > Nach der Übernahme unseres Kunden Lynda.com war unsere Expertise bei der "Entwicklung der Learning-Plattform LinkedIn Learning" gefragt.  
 
@@ -22,7 +22,7 @@ Ob die zeitliche Challenge bei der Projektlaufzeit von 1,5 (der [Executive Summa
 
 Nicht die [Lynda.com](https://www.lynda.com) ("unser Kunde"), 2015 aufgekauftes, 2017 in [LinkedIn Learning](https://en.wikipedia.org/wiki/LinkedIn_Learning) umbenanntes Tochterunternehmen von LinkedIn?
 
-Bei "Usern" wäre zu erwähnen, dass registrierte Benutzer gemeint waren, dass die Anzahl der Benutzer, die LinkedIn auch benutzen, deutlich geringer sein wird. Zum Zeitpunkt der Übernahme [bezeichnete sich LinkedIn](https://news.linkedin.com/2015/linkedin-to-acquire-lyndacom) als "the world's largest professional network on the Internet with more than 300 million members worldwide".
+Bei "Usern" wäre zu erwähnen, dass registrierte User gemeint sind, dass die Anzahl der User, die LinkedIn auch benutzen, geringer sein wird. Zum Zeitpunkt der Übernahme von Lynda.com [bezeichnete sich LinkedIn](https://news.linkedin.com/2015/linkedin-to-acquire-lyndacom) als "the world's largest professional network on the Internet with more than 300 million members worldwide".
 
 ## Unser Zugang
 
@@ -30,7 +30,7 @@ Bei "Usern" wäre zu erwähnen, dass registrierte Benutzer gemeint waren, dass d
 
 Ohne Remote-Zugang? [Diesem Kapitel](#barrierefreiheit-ist-entscheidend) nach "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
 
-Ryan Roslansky, heutiger CEO und damaliger "head of global content products" von LinkedIn, muss bei der Übernahme vergessen haben, das Team von Parkside zu [erwähnen](https://blog.linkedin.com/2015/04/09/lynda-joins-linkedin):
+Ryan Roslansky, heutiger CEO und damaliger "head of global content products" von LinkedIn, muss [bei der Übernahme](https://blog.linkedin.com/2015/04/09/lynda-joins-linkedin) vergessen haben, das Team von Parkside zu:
 
 > What I'm most excited about are the passionate and talented lynda.com employees that will be joining the content team that I lead. This is a team that really cares about content and about helping people change their lives. I look forward to working closely with this incredible team and for what's to come. In the meantime, you can continue to use lynda.com's product as you always have to find the highest quality content and learn new skills.
 
@@ -46,7 +46,7 @@ Man beachte, dass  auch ein Team von LinkedIn daran beteiligt war, dass die Ausz
 
 > Im Juni 2016 wurde LinkedIn für 26,2 Milliarden US-Dollar von Microsoft übernommen.
 
-Was nicht ausschließlich dem "Beitrag unserer besten Mobile Developer" (die [englische Version](https://www.parkside-interactive.com/cases/bringing-linkedin-learning-to-mobile) der Studie nennt ihre Zahl: "four") zu verdanken wäre: LinkedIn selbst beschäftigte zum Zeitpunkt der Übernahme 10K+ Mitarbeiter.
+Was nicht ausschließlich dem "Beitrag unserer besten Mobile Developer" (die [englische Version](https://www.parkside-interactive.com/cases/bringing-linkedin-learning-to-mobile) der Studie nennt ihre Zahl: "four") zu verdanken wäre: Zum Zeitpunkt der Übernahme durch Microsoft beschäftigte LinkedIn selbst 10K+ Mitarbeiter.
 
 ## Unser Beitrag für LinkedIn Learning
 
