@@ -20,15 +20,19 @@ Ob die zeitliche Challenge bei der Projektlaufzeit von 1,5 (der [Executive Summa
 
 > LinkedIn ist die weltweit größte Social Business Plattform mit mehr als 500 Millionen Usern.
 
-Nicht die LinkedIn Learning – ein Tochterunternehmen von LinkedIn – die ehemalige [Lynda.com](https://www.lynda.com)?
+Nicht die [Lynda.com](https://www.lynda.com) ("unser Kunde"), 2015 aufgekauftes, 2017 in [LinkedIn Learning](https://en.wikipedia.org/wiki/LinkedIn_Learning) umbenanntes Tochterunternehmen von LinkedIn?
 
-Bei "Usern" wäre eventuelle zu erwähnen, dass registrierte Benutzer gemeint waren, dass die Anzahl der Benutzer, die LinkedIn auch benutzen, deutlich geringer sein wird.
+Bei "Usern" wäre eventuell zu erwähnen, dass registrierte Benutzer gemeint waren, dass die Anzahl der Benutzer, die LinkedIn auch benutzen, deutlich geringer sein wird. Zum Zeitpunkt der Übernahme [bezeichnete](https://news.linkedin.com/2015/linkedin-to-acquire-lyndacom) sich LinkedIn als "the world's largest professional network on the Internet with more than 300 million members worldwide".
 
 ## Unser Zugang
 
 > Unser Engineering Team war regelmäßig vor Ort in Mountain View, San Francisco, um eng mit dem Kunden zusammenzuarbeiten.
 
 Ohne Remote-Zugang? Diesem [Kapitel](#barrierefreiheit-ist-entscheidend) nach "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
+
+Ryan Roslansky, heutiger CEO und damaliger "head of global content products" von LinkedIn, muss bei der Übernahme vergessen haben, das Team von Parkside zu [erwähnen](https://blog.linkedin.com/2015/04/09/lynda-joins-linkedin):
+
+> What I'm most excited about are the passionate and talented lynda.com employees that will be joining the content team that I lead. This is a team that really cares about content and about helping people change their lives. I look forward to working closely with this incredible team and for what's to come. In the meantime, you can continue to use lynda.com's product as you always have to find the highest quality content and learn new skills.
 
 ## Das Ergebnis
 
@@ -42,7 +46,7 @@ Man beachte, dass  auch ein Team von LinkedIn daran beteiligt war, dass die Ausz
 
 > Im Juni 2016 wurde LinkedIn für 26,2 Milliarden US-Dollar von Microsoft übernommen.
 
-Was nicht ausschließlich dem "Beitrag unserer besten Mobile Developer" (die [englische Version](https://www.parkside-interactive.com/cases/bringing-linkedin-learning-to-mobile) der Studie nennt ihre Zahl: 4) zu verdanken wäre: LinkedIn selbst beschäftigte zum Zeitpunkt der Übernahme 10K+ Mitarbeiter.
+Was nicht ausschließlich dem "Beitrag unserer besten Mobile Developer" (die [englische Version](https://www.parkside-interactive.com/cases/bringing-linkedin-learning-to-mobile) der Studie nennt ihre Zahl: "four") zu verdanken wäre: LinkedIn selbst beschäftigte zum Zeitpunkt der Übernahme 10K+ Mitarbeiter.
 
 ## Unser Beitrag für LinkedIn Learning
 
@@ -143,7 +147,7 @@ Mit-verantwortlich.
 
 "Die App mit Chromecast zu verwenden" wäre als ein eigener Punkt in die Auszählung aufzunehmen.
 
-Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier die Niederschrift), im Vergleich:
+Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](https://www.lynda.com/Business-tutorials/Upgrading-from-Lynda-com-LinkedIn-Learning/675718-2.html) (in Video-Form; hier die Niederschrift), zum Vergleich:
 
 > Soon, you'll be able to upgrade to our new learning platform, LinkedIn Learning, which delivers the same great lynda.com content through a personalized, easy-to-use, new experience. With unique insights from LinkedIn, based on a person's job title and skillsets, LinkedIn Learning delivers a personalized learning experience, highlighting content that will help individuals succeed in their given role.
 >
