@@ -30,7 +30,9 @@ Bei "Usern" wäre zu erwähnen, dass registrierte User gemeint sind, dass die An
 
 Ohne Remote-Zugang? [Diesem Kapitel](#barrierefreiheit-ist-entscheidend) nach "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
 
-Ryan Roslansky, heutiger CEO und damaliger "head of global content products" von LinkedIn, muss [bei der Übernahme](https://blog.linkedin.com/2015/04/09/lynda-joins-linkedin) vergessen haben, das Team von Parkside zu:
+> We get so excited about the possibilities that could come from the integration of lynda.com and LinkedIn.
+
+Ryan Roslansky, heutiger CEO und damaliger "head of global content products" von LinkedIn, muss [bei der Übernahme](https://blog.linkedin.com/2015/04/09/lynda-joins-linkedin) vergessen haben, das Team von Parkside zu erwähnen:
 
 > What I'm most excited about are the passionate and talented lynda.com employees that will be joining the content team that I lead. This is a team that really cares about content and about helping people change their lives. I look forward to working closely with this incredible team and for what's to come. In the meantime, you can continue to use lynda.com's product as you always have to find the highest quality content and learn new skills.
 
