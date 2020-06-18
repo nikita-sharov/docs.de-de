@@ -1,12 +1,12 @@
 # Product Owner
 
-Ausgeschrieben auf [parkside-interactive.com](https://www.parkside-interactive.com/de/open-position/product-owner-w-m) sowie auf [karierre.at](https://www.karriere.at/jobs/5696375) (Stelleninserat vom / aktualisiert am 11.06.2020, s. [Druckversion](media/product-owner_karriere.at.pdf)).
+Ausgeschrieben auf [parkside-interactive.com/de/karriere](https://www.parkside-interactive.com/de/open-position/product-owner-w-m) sowie auf [karierre.at](https://www.karriere.at/jobs/5696375) (Stelleninserat vom / aktualisiert am 11.06.2020, s. [Druckversion](media/product-owner_karriere.at.pdf)).
 
 ## Motivationsschreiben
 
 Werte Kollegen,
 
-hiermit möchte ich mich für die obige Position bewerben. An Stelle allgemeinüblicher Unterlagen möchte ich auf den folgenden [Backlog](#backlog) verweisen, um Motivation zu beweisen. Sollten meine Argumentation & Ausdrucksweise als nützlich erscheinen, so würde ich mich über eine informative Rückmeldung freuen.
+hiermit möchte ich mich für die obige Position bewerben. An Stelle allgemeinüblicher Unterlagen möchte ich auf den folgenden [Backlog](#backlog) verweisen. Sollten meine Argumentation & Ausdrucksweise als nützlich erscheinen, so würde ich mich über eine informative Rückmeldung freuen.
 
 Mit freundlichen Grüßen,  
 Nikita Sharov

@@ -157,7 +157,7 @@ Wie Lynda.com die neue Plattform, das Ergebnis, im Oktober 2017 [beschreibt](htt
 
 ## In a nutshell
 
-Am Ende der Langfassung ([too long; didn't read](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read)) macht eine Kurzfassung wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang (476 Wörter, 17 davon "LinkedIn"), dass sie einer Zusammenfassung bedarf.
+Am Ende der Langfassung ([too long; didn't read](https://www.urbandictionary.com/define.php?term=Too%20long%20didn%27t%20read)) macht eine Kurzfassung wenig Sinn: Die Langfassung hat man schon hinter sich; und die vorliegende Langfassung ist, all den Wiederholungen zum Trotz, nicht so lang (476 Wörter, 17 davon "LinkedIn"), dass sie einer Zusammenfassung bedarf.
 
 > Unser Team schuf zentrale Features in allen Phasen für die iOS- und Android-App und gestaltete diese möglichst barrierefrei, 
 
