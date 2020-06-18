@@ -6,7 +6,7 @@ https://www.parkside-interactive.com/de
 
 Wer entwickelt schon die digitalen Anwendungen von gestern (abgesehen von [Hackerman](https://youtu.be/KEkrWRHCDQU?t=134))?
 
-## Inhaltsverzeichnis
+## Überschriften
 
 Als Leser (Softwareentwickler / Screenreader) will ich klar sowie technisch sauber strukturierte Inhalte.
 
@@ -33,7 +33,7 @@ Nicht marktführende Anwendungen von gestern verwandeln wir in Marktführende.
 
 ## Was wir tun
 
-Als aufmerksamer Leser weiß ich bereits, dass Parkside individuelle Software entwickelt.
+Als aufmerksamer Leser weiß ich bereits, dass Parkside individuelle Software entwickelt. ~~Was?~~ Wie?
 
 > Wir verbinden Software Development, UX/UI Design, Product Development und Technology Consulting, um bessere Software schneller zu liefern.
 
@@ -51,7 +51,7 @@ Momentan werden Beiträge, die als "Artikel" oder "News" markiert sind und zum Z
 
 ## Karriere
 
-Als Leser erwarte ich mir von Texten, die der deutschsprachigen Öffentlichkeit bestimmt sind, die amtliche Rechtschreibung.
+Als Leser erwarte ich mir von Texten, die der deutschsprachigen Öffentlichkeit bestimmt sind, die amtliche Zeichensetzung.
 
 > Up Next  
 > — Karriere

@@ -16,7 +16,7 @@ Nikita Sharov
 Die folgenden Einträge wären als nicht priorisierte Backlog-Items (Epics / Features / Requirements / User Stories / Tasks / Bugs / Issues, je nach Vorgehensmodell) zu verstehen:
 
 - [Startseite](startseite.md)
-  - [Inhaltsverzeichnis](startseite.md#inhaltsverzeichnis)
+  - [Überschriften](startseite.md#überschriften)
   - [Über uns](startseite.md#über-uns)
   - [Was wir tun](startseite.md#was-wir-tun)
   - [News und Updates](startseite.md#news-und-updates)
@@ -33,6 +33,4 @@ Die folgenden Einträge wären als nicht priorisierte Backlog-Items (Epics / Fea
   - [Erbrachte Leistungen & Key Features](linkedin-learning.md#erbrachte-leistungen--key-features)
   - [In a nutshell](linkedin-learning.md#in-a-nutshell)
 
-Die Paraphrasen sollten den ungünstigsten Gedankengang aus der User-Perspektive(Worst-Case-Szenario) darstellen und sind mit Humor zu nehmen.
-
-
+Die Paraphrasen sollten den ungünstigsten Gedankengang aus der User-Perspektive (Worst-Case-Szenario) darstellen und sind mit Humor zu nehmen.
