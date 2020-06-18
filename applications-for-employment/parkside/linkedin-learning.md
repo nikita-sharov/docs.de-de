@@ -28,11 +28,11 @@ Bei "Usern" wäre zu erwähnen, dass registrierte User gemeint sind, dass die An
 
 > Unser Engineering Team war regelmäßig vor Ort in Mountain View, San Francisco, um eng mit dem Kunden zusammenzuarbeiten.
 
-Ohne Remote-Zugang? [Diesem Kapitel](#barrierefreiheit-ist-entscheidend) nach "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
+Ohne Remote-Zugang? Diesem [Kapitel](#barrierefreiheit-ist-entscheidend) nach "waren zahlreiche Trips nach San Francisco und Mountain View" nur ein "Teil dieser Zusammenarbeit".
 
 > We get so excited about the possibilities that could come from the integration of lynda.com and LinkedIn.
 
-Ryan Roslansky, heutiger CEO und damaliger "head of global content products" von LinkedIn, muss [bei der Übernahme](https://blog.linkedin.com/2015/04/09/lynda-joins-linkedin) vergessen haben, das Team von Parkside zu erwähnen:
+Ryan Roslansky, heutiger CEO und damaliger "head of global content products" von LinkedIn, muss bei der [Übernahme](https://blog.linkedin.com/2015/04/09/lynda-joins-linkedin) vergessen haben, das Team von Parkside zu erwähnen:
 
 > What I'm most excited about are the passionate and talented lynda.com employees that will be joining the content team that I lead. This is a team that really cares about content and about helping people change their lives. I look forward to working closely with this incredible team and for what's to come. In the meantime, you can continue to use lynda.com's product as you always have to find the highest quality content and learn new skills.
 
@@ -48,7 +48,7 @@ Man beachte, dass  auch ein Team von LinkedIn daran beteiligt war, dass die Ausz
 
 > Im Juni 2016 wurde LinkedIn für 26,2 Milliarden US-Dollar von Microsoft übernommen.
 
-Was nicht ausschließlich dem "Beitrag unserer besten Mobile Developer" (die [englische Version](https://www.parkside-interactive.com/cases/bringing-linkedin-learning-to-mobile) der Studie nennt ihre Zahl: "four") zu verdanken wäre: Zum Zeitpunkt der Übernahme durch Microsoft beschäftigte LinkedIn selbst 10K+ Mitarbeiter.
+Was nicht ausschließlich dem "Beitrag unserer besten Mobile Developer" (die [englische Version der Studie](https://www.parkside-interactive.com/cases/bringing-linkedin-learning-to-mobile) nennt ihre Zahl: "four") zu verdanken wäre: Zum Zeitpunkt der Übernahme durch Microsoft beschäftigte LinkedIn selbst 10K+ Mitarbeiter.
 
 ## Unser Beitrag für LinkedIn Learning
 
