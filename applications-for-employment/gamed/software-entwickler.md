@@ -26,13 +26,13 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Erfahrung mit .NET|✔️|10+, 5+ in der Industrie (Maschinenbau / Automatisierung)|
 |Erfahrung mit .NET Core|✔️|2+|
 |Erfahrung mit Oracle Datenbanksystemen|✔️|0.5, 10+ mit anderen relationalen Datenbanksystemen|
-|Fähigkeit sich schnell in komplexe Systeme einzuarbeiten|✔️|Man kann sich, meiner Meinung nach, kaum *schnell* in **komplexe** Systeme einarbeiten. Die Hauptaufgabe und die größte Herausforderung eines Software-Entwicklers sollte meines Wissens die Behandlung (Reduktion soweit möglich) der Komplexität sein.|
-|Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Gegeben, sofern die gestrigen Aufgaben vollständig erledigt wurden; häufig-abrupte Kontext-Switches von einem mir noch fremden komplexen System in das andere sind mir lästig; s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
+|Fähigkeit sich schnell in komplexe Systeme einzuarbeiten|✔️|Man kann sich, meiner Meinung nach, kaum *schnell* in **komplexe** Systeme einarbeiten. Die Hauptaufgabe und die größte Herausforderung der Softwareentwicklung (jenseits der Hello-World-Lösungen) sollte meines Wissens die Behandlung (Reduktion soweit möglich) der Komplexität sein.|
+|Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Gegeben, sofern die gestrigen Aufgaben vollständig erledigt wurden: häufig-abrupte Kontext-Switches von einem mir noch fremden komplexen System in das andere sind mir lästig (die Konzentration ist für mich eine limitierte Ressource); s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
 |Clean Code|✔️|S. [github.com/235u/website](https://github.com/235u/website)|
 |Unit Testing|✔️|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
 |Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Form` in Relation zu meinem Anschreiben zu bringen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln. (Eine Vorlage mit eingesetztem Namen innerhalb von 2 Kalenderwochen bekommt `0.1`, voll-automatisch.)|
 
-*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (unter der Aufsicht von weltweit anerkannten, didaktisch-pädagogisch bewanderten Experten, idealerweise).
+*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (unter der Aufsicht von weltweit anerkannten, didaktisch-pädagogisch bewanderten ExpertInnen, idealerweise).
 
 ### Angewandte Arithmetik m. b. H.
 
@@ -42,7 +42,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 
 `10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5` Tassen pro Arbeitstag machen bereits `5 * 235 * 2,49 = € 292,575` pro Jahr bzw. `0,7 %` des Mindest-Grundgehaltes aus. Und einen Bruchteil bei einem Vollautomaten und Metro-Preisen; dafür werden dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser vernachlässigt.
 
-Hiermit könnte man meinen, dass die zuletzt genannten Benefits quantifizierbar sowie kaum relevant sind. Im Vergleich zu einem richtig gut eingerichteten Arbeitsplatz (Räumlichkeiten und Ausstattung samt Software und Services), der  auch am Grazer Stadtrand `€ 1.000` pro Entwickler und Monat (und `1/3` des gelisteten Grundgehaltes zusätzlich) kosten könnte.
+Hiermit könnte man meinen, dass die zuletzt genannten Benefits quantifizierbar sowie kaum relevant sind. Im Vergleich zu einem richtig gut eingerichteten Arbeitsplatz (Räumlichkeiten und Ausstattung samt Software und Services), der  auch am Grazer Stadtrand `€ 1.000` pro EntwicklerIn und Monat (und `1/3` des gelisteten Grundgehaltes zusätzlich) kosten könnte.
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
