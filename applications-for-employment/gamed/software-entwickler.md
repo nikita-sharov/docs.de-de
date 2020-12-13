@@ -14,7 +14,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Handhabung von Oracle Datenbanksystemen|🙂|Die Modellierung / Abfrage / Pflege / Migration der Daten ist mir lieber als die Administration / Konfiguration / Sicherung der Datenbanksysteme.|
 |Weiterentwicklung eines bestehenden Systems|😐|Die Begeisterung hängt stark von der technischen Verschuldung des Systems bzw. der Bereitschaft der Auftraggeber die Weiterentwicklung bestehender Systeme zu finanzieren ab.| 
 |Unterstützung in der Projektabwicklung und Organisation|🙂|Immer gerne, sofern auch der Kunde davon profitiert.|
-|Unterstützung bei Wartung und Support|😐|Besonders gerne unterstütze ich diejenigen, die auch für die Neu-Entwicklung und Dokumentation nun gewarteter  Systeme verantwortlich waren. 3rd-Level-Support (unbekannte Probleme) ist mir lieber als 1st-Level-Support (RTFM).|
+|Unterstützung bei Wartung und Support|😐|Besonders gerne unterstütze ich diejenigen, die auch für die Neu-Entwicklung und Dokumentation der nun gewarteten  Systeme verantwortlich waren. 3rd-Level-Support (unbekannte Probleme) ist mir lieber als 1st-Level-Support (RTFM).|
 
 > … meine Briefe pflegten nicht so schnell auf einander zu folgen und auch nicht so lang zu sein. Die wenige Zeit, die ich hatte, ist Ursache von dem einen wie von dem andern. Ich habe diesen Brief nur deshalb länger gemacht, weil ich nicht Muße hatte ihn kürzer zu machen.
 >
@@ -30,7 +30,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Sofern die gestrigen Aufgaben vollständig erledigt wurden; s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
 |Clean Code|✔️|S. [github.com/235u/website](https://github.com/235u/website)|
 |Unit Testing|✔️|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
-|Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Tiefe * Form` in Relation zu meinem Anschreiben zu bringen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln. (Eine Vorlage mit eingesetztem Namen innerhalb von 2 Kalenderwochen bekommt `0.1`. Das lässt sich leicht automatisieren.)|
+|Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Form` in Relation zu meinem Anschreiben zu bringen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln. (Eine Vorlage mit eingesetztem Namen innerhalb von 2 Kalenderwochen bekommt `0.1`. Das lässt sich leicht automatisieren.)|
 
 *Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (unter der Aufsicht von weltweit anerkannten, didaktisch-pädagogisch bewanderten Experten, idealerweise)
 
