@@ -18,7 +18,7 @@ Sehr geehrter Herr Stimpfl,
 |Tolle motivierte Mitarbeiter|😕|Wodurch sind die tollen Mitarbeiter motiviert?|
 |Tagtägliche Weiterentwicklung der eigenen Person|😃|Wie viel Zeit steht mir tagtäglich dafür zur Verfügung?|
 
-versuche ich mein Anschreiben in tabellarischer Form zu fassen.
+versuche ich mein Anschreiben in tabellarischer Form zu fassen und die eine oder andere Relation zu knüpfen.
 
 |Aufgaben im Team|😶|Anmerkung|
 |:--|:-:|:--|
@@ -29,8 +29,8 @@ versuche ich mein Anschreiben in tabellarischer Form zu fassen.
 |Unterstützung bei Wartung und Support|😐|Unterstützung derjenigen, die für die Neu-Entwicklung und Dokumentation verantwortlich waren, hoffentlich.|
 
 > … meine Briefe pflegten nicht so schnell auf einander zu folgen und auch nicht so lang zu sein. Die wenige Zeit, die ich hatte, ist Ursache von dem einen wie von dem andern. Ich habe diesen Brief nur deshalb länger gemacht, weil ich nicht Muße hatte ihn kürzer zu machen.
-
-– Blaise Pascal
+>
+> – Blaise Pascal
 
 |Erwartungen|✅|Umfang in Kalenderjahren* / Anmerkung / Referenz|
 |:--|:-:|:--|
