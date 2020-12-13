@@ -29,12 +29,8 @@ versuche ich mein Anschreiben in tabellarischer Form zu fassen.
 |Unterstützung bei Wartung und Support|😐|Unterstützung derjenigen, die für die Neu-Entwicklung und Dokumentation verantwortlich waren, hoffentlich.|
 
 > … meine Briefe pflegten nicht so schnell auf einander zu folgen und auch nicht so lang zu sein. Die wenige Zeit, die ich hatte, ist Ursache von dem einen wie von dem andern. Ich habe diesen Brief nur deshalb länger gemacht, weil ich nicht Muße hatte ihn kürzer zu machen.
->
-> – Pascal's Briefe an einen Freund in der Provinz
 
-> … meine Briefe pflegten nicht so schnell auf einander zu folgen und auch nicht so lang zu sein. Die wenige Zeit, die ich hatte, ist Ursache von dem einen wie von dem andern. Ich habe diesen Brief nur deshalb länger gemacht, weil ich nicht Muße hatte ihn kürzer zu machen.
->
-> – Blaise Pascal
+– Blaise Pascal
 
 |Erwartungen|✅|Umfang in Kalenderjahren* / Anmerkung / Referenz|
 |:--|:-:|:--|
