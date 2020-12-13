@@ -27,7 +27,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Erfahrung mit .NET Core|✔️|2+|
 |Erfahrung mit Oracle Datenbanksystemen|✔️|0.5, 10+ mit anderen relationalen Datenbanksystemen|
 |Fähigkeit sich schnell in komplexe Systeme einzuarbeiten|✔️|Man kann sich, meiner Meinung nach, kaum *schnell* in **komplexe** Systeme einarbeiten. Die Hauptaufgabe und die größte Herausforderung eines Software-Entwicklers sollte meines Wissens die Behandlung (Reduktion soweit möglich) der Komplexität sein.|
-|Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Sofern die gestrigen Aufgaben vollständig erledigt wurden; s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
+|Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Gegeben, sofern die gestrigen Aufgaben vollständig erledigt wurden; s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
 |Clean Code|✔️|S. [github.com/235u/website](https://github.com/235u/website)|
 |Unit Testing|✔️|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
 |Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Form` in Relation zu meinem Anschreiben zu bringen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln. (Eine Vorlage mit eingesetztem Namen innerhalb von 2 Kalenderwochen bekommt `0.1`. Das lässt sich leicht automatisieren.)|
