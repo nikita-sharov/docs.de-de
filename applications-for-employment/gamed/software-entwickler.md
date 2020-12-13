@@ -30,7 +30,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Gegeben, sofern die gestrigen Aufgaben vollständig erledigt wurden; häufig-abrupte Kontext-Switches von einem mir noch fremden komplexen System in das andere sind mir lästig; s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
 |Clean Code|✔️|S. [github.com/235u/website](https://github.com/235u/website)|
 |Unit Testing|✔️|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
-|Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Form` in Relation zu meinem Anschreiben zu bringen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln. (Eine Vorlage mit eingesetztem Namen innerhalb von 2 Kalenderwochen bekommt `0.1`. Das lässt sich automatisieren.)|
+|Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Form` in Relation zu meinem Anschreiben zu bringen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln. (Eine Vorlage mit eingesetztem Namen innerhalb von 2 Kalenderwochen bekommt `0.1`, voll-automatisch.)|
 
 *Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (unter der Aufsicht von weltweit anerkannten, didaktisch-pädagogisch bewanderten Experten, idealerweise).
 
