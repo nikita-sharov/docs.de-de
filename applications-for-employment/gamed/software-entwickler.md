@@ -6,44 +6,63 @@ Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5759348) am 03.11.
 
 ### Auf der Suche nach
 
+Skala: 🙁😐🙂
+
 |Bla|Blub|Bibo|
 |:-|:-:|:-|
 |Stabile, ständig wachsende Partnerschaft|🙂||
-|Spannende neue Aufgaben|😃||
-|Chance hoch hinaus zu kommen|😃||
-|Interessante Projekte|😃||
+|Spannende neue Aufgaben|🙂||
+|Chance hoch hinaus zu kommen|🙂||
+|Interessante Projekte|🙂||
+|Spaß bei der Arbeit mit Datenbanken|||
+|Spaß bei der Entwicklung von Systemen für die Industrie|||
 |Agile Prozesse|😐|Vorteil für die Mitarbeiter im Vergleich zu nicht-agilen Prozessen?|
 |Tolle motivierte Mitarbeiter|😕|Wodurch sind die tollen Mitarbeiter motiviert?|
-|Tagtägliche Weiterentwicklung (der eigenen Person)|😃|Wie viel Zeit steht mir tagtäglich dafür zur Verfügung?|
+|Tagtägliche Weiterentwicklung der eigenen Person|😃|Wie viel Zeit steht mir tagtäglich dafür zur Verfügung?|
 
 Du bist auf der Suche nach einer stabilen, ständig wachsenden Partnerschaft und hast Lust auf spannende neue Aufgaben mit der Chance hoch hinaus zu kommen? Es macht dir Spaß, mit Datenbanken zu arbeiten und Systeme für die Industrie zu entwickeln? Bei uns ist es möglich interessante Projekte zu begleiten, agile Prozesse zu erleben und Dich Tag für Tag, umgeben von tollen motivierten Mitarbeitern, weiterzuentwickeln.
+
+PL/SQL zählt kaum zu .NET / .NET Core. LINQ / ORM Frameworks sind mir lieber als SQL, SQL ist mir lieber als SQL-Dialekte.
 
 ### Deine Aufgaben in unserem Team
 
 |Bodo|Gabi|Babi|
 |:-|:-:|:-|
-|Software-Entwicklung|||
-|Handhabung von Datenbanksystemen||
-|Weiterentwicklung eines bestehenden Systems||
-|Unterstützung in der Projektabwicklung und Organisation||
-|Unterstützung bei Wartung und Support||
+|Software-Entwicklung|🙂||
+|Handhabung von Datenbanksystemen|🙂|
+|Weiterentwicklung eines bestehenden Systems|😐|
+|Unterstützung in der Projektabwicklung und Organisation|🙂|
+|Unterstützung bei Wartung und Support|😐|
 
 ### Was wir von Dir erwarten
 
-|Erfahrung mit Winforms, Microsoft .NET und .NET Core (in der Industrie von Vorteil)|
-|Erfahrung mit ORACLE Datenbanksystemen|
-|Du kannst dich schnell in komplexe Systeme einarbeiten|Man kann sich kaum "schnell" in **komplexe** Systeme einarbeiten
-|Du bist bereit Dich täglich neuen Aufgaben zu stellen|
-|Clean Code und Unit Testing sind dir ein Anliegen|
-|Teamarbeit|
+|Bodo|Gabi|Umfang in Kalenderjahren*|Anmerkung|
+|:---|:--:|:------------------------|---------|
+|Erfahrung mit WinForms|✔️|10+|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
+|Erfahrung .NET|✔️|10+, 5+ in der Industrie||
+|Erfahrung mit .NET Core|✔️|2+||
+|Erfahrung mit ORACLE Datenbanksystemen|✔️|0.5, 10+ mit anderen Datenbanksystemen|
+|Fähigkeit sich schnell in komplexe Systeme einzuarbeiten|✔️|Man kann sich kaum *schnell* in **komplexe** Systeme einarbeiten.|
+|Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Sofern die gestrigen Aufgaben vollständig erledigt wurden.|
+|Clean Code|✔️|10+|
+|Unit Testing|✔️|5+|
+|Teamarbeit|✔️||
 
-Was wir Dir bieten
+*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen kontinuierlich-steigenden Limit (unter Aufsicht von weltweit anerkannten Experten mit außerordentlichen didaktisch-pädagogischen Fähigkeiten 😉)
 
-Angenehmes Betriebsklima: Breit gefächertes engagiertes Team, abwechslungsreiche Tätigkeiten und eigenverantwortliches Arbeiten
+### Was wir Dir bieten
 
-
-
-Einen modernen Arbeitsplatz mit bester öffentlicher Anbindung
+|Bodo|Gabi|Babi|
+|:---|:--:|:---|
+|Angenehmes Betriebsklima|||
+|Breit gefächertes engagiertes Team|||
+|Abwechslungsreiche Tätigkeiten|||
+|Eigenverantwortliches Arbeiten|||
+|Moderner Arbeitsplatz||Jährliche Kosten?|
+|Beste öffentliche Anbindung||Die Fahrzeiten sind relativ.|
+|Spannende Projekte mit den neusten Technologien für große Unternehmen|||
+|BIO-Äpfel|||
+|Fairtrade-Kaffee, Tee und Mineralwasser||||
 
 Ein moderner Arbeitsplatz wäre für mich:
 
