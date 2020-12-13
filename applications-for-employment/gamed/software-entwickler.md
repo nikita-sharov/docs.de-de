@@ -10,50 +10,46 @@ Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5759348) am 03.11.
 |Spannende neue Aufgaben|🙂||
 |Chance hoch hinaus zu kommen|🙂||
 |Interessante Projekte|🙂||
-|Spaß bei der Arbeit mit Datenbanken|||
+|Spaß bei der Arbeit mit Datenbanken|🙂||
 |Spaß bei der Entwicklung von Systemen für die Industrie||Datenbankenb betrachte ich als Bestandteile von Systemen.|
 |Agile Prozesse|😐|Vorteil für die Mitarbeiter im Vergleich zu nicht-agilen Prozessen?|
 |Tolle motivierte Mitarbeiter|😕|Wodurch sind die tollen Mitarbeiter motiviert?|
 |Tagtägliche Weiterentwicklung der eigenen Person|😃|Wie viel Zeit steht mir tagtäglich dafür zur Verfügung?|
 
-Du bist auf der Suche nach einer stabilen, ständig wachsenden Partnerschaft und hast Lust auf spannende neue Aufgaben mit der Chance hoch hinaus zu kommen? Es macht dir Spaß, mit Datenbanken zu arbeiten und Systeme für die Industrie zu entwickeln? Bei uns ist es möglich interessante Projekte zu begleiten, agile Prozesse zu erleben und Dich Tag für Tag, umgeben von tollen motivierten Mitarbeitern, weiterzuentwickeln.
-
-PL/SQL zählt kaum zu .NET / .NET Core. LINQ / ORM Frameworks sind mir lieber als SQL, SQL ist mir lieber als SQL-Dialekte.
-
 |Aufgaben im Team|😶|Anmerkung|
 |:--|:-:|:--|
-|Software-Entwicklung|🙂||
-|Handhabung von Datenbanksystemen|🙂|
-|Weiterentwicklung eines bestehenden Systems|😐|Hängt stark von der technischen Verschuldung des Systems. 
-|Unterstützung in der Projektabwicklung und Organisation|🙂|
-|Unterstützung bei Wartung und Support|😐|
+|Software-Entwicklung mit .NET / .NET Core (C#, ASP.NET Core, WinForms, PL/SQL)|🙂|LINQ / ORM Frameworks sind mir lieber als SQL, SQL ist mir lieber als SQL-Dialekte.|
+|Handhabung von Oracle Datenbanksystemen|🙂||
+|Weiterentwicklung eines bestehenden Systems|😐|Hängt stark von der technischen Verschuldung des Systems ab sowie der Bereitschaft der Auftraggeber die Weiterentwicklung zu finanzieren.| 
+|Unterstützung in der Projektabwicklung und Organisation|🙂||
+|Unterstützung bei Wartung und Support|😐|Unterstützung derjenigen, die für die Neu-Entwicklung und Dokumentation verantwortlich waren, hoffentlich.|
 
-|Erwartung|✅|Umfang in Kalenderjahren*|Anmerkung|
-|:---|:--:|:------------------------|---------|
-|Erfahrung mit WinForms|✔️|10+|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
-|Erfahrung mit .NET|✔️|10+, 5+ in der Industrie||
-|Erfahrung mit .NET Core|✔️|2+||
-|Erfahrung mit Oracle Datenbanksystemen|✔️|0.5, 10+ mit anderen Datenbanksystemen|
+|Erwartung|✅|Umfang in Kalenderjahren* / Referenz / Anmerkung|
+|:--|:-:|:--|
+|Erfahrung mit WinForms|✔️|5+|
+|Erfahrung mit .NET|✔️|10+, 5+ in der Industrie|
+|Erfahrung mit .NET Core|✔️|2+|
+|Erfahrung mit Oracle Datenbanksystemen|✔️|0.5, 10+ mit anderen relationalen Datenbanksystemen|
 |Fähigkeit sich schnell in komplexe Systeme einzuarbeiten|✔️|Man kann sich kaum *schnell* in **komplexe** Systeme einarbeiten.|
-|Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Sofern die gestrigen Aufgaben vollständig erledigt wurden.|
-|Clean Code|✔️|10+|
-|Unit Testing|✔️|5+|
+|Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Sofern die gestrigen Aufgaben vollständig erledigt wurden; s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
+|Clean Code|✔️|S. [github.com/235u/website](https://github.com/235u/website)|
+|Unit Testing|✔️|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
 |Teamarbeit|✔️||
 
 *Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen kontinuierlich-steigenden Limit (unter Aufsicht von weltweit anerkannten Experten mit außerordentlichen didaktisch-pädagogischen Fähigkeiten 😉)
 
 |Angebot|😶|Anmerkung|
 |:--|:-:|:--|
-|Angenehmes Betriebsklima|||
-|Breit gefächertes engagiertes Team|||
-|Abwechslungsreiche Tätigkeiten|||
-|Eigenverantwortliches Arbeiten|||
-|Moderner Arbeitsplatz||Jährliche Kosten?|
-|Beste öffentliche Anbindung||Die Fahrzeiten sind relativ.|
-|Neusten Technologien||Angemessene Technologien wären mir lieber. "Wenn dein einziges Werkzeug ein Hammer ist"||
-|Spannende Projekte für große Unternehmen|||
-|BIO-Äpfel|||
-|Fairtrade-Kaffee, Tee und Mineralwasser||||
+|Angenehmes Betriebsklima|🙂||
+|Breit gefächertes engagiertes Team|🙂||
+|Abwechslungsreiche Tätigkeiten|🙂||
+|Eigenverantwortliches Arbeiten|😐||
+|Moderner Arbeitsplatz|😐|Jährliche Kosten?|
+|Beste öffentliche Anbindung|😐|Die Fahrzeiten sind relativ.|
+|Neueste Technologien|😐|Angemessene Technologien wären mir lieber. "Wenn dein einziges Werkzeug ein Hammer ist"||
+|Spannende Projekte für große Unternehmen|😐||
+|BIO-Äpfel|😐||
+|Fairtrade-Kaffee, Tee und Mineralwasser|😐||
 
 Ein moderner Arbeitsplatz wäre für mich:
 
