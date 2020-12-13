@@ -6,6 +6,7 @@
 
 |Unternehmen|Position|Ausgeschrieben am|
 |:----------|:-------|:---------------:|
+|[GAMED mbH](https://www.gamed.com/)|[Software Entwickler](applications-for-employment/gamed/software-entwickler.md)|03.11.2020|
 |[NETCONOMY Software & Consulting GmbH](https://www.netconomy.ne)|[Agile Quality Manager](applications-for-employment/netconomy/agile-quality-manager.md)|01.12.2020|
 |[niceshops GmbH](https://nicecodevalley.niceshops.com/) (Microsite)|[Product Owner](applications-for-employment/niceshops/product-owner.md)|?|
 |[Parkside Informationstechnologie GmbH](https://www.parkside-interactive.com)|[Product Owner](applications-for-employment/parkside/product-owner.md)|11.06.2020|
