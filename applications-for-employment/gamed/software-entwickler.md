@@ -24,7 +24,7 @@ Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5759348) am 03.11.
 |Unterstützung in der Projektabwicklung und Organisation|🙂||
 |Unterstützung bei Wartung und Support|😐|Unterstützung derjenigen, die für die Neu-Entwicklung und Dokumentation verantwortlich waren, hoffentlich.|
 
-|Erwartung|✅|Umfang in Kalenderjahren* / Referenz / Anmerkung|
+|Erwartung|✅|Umfang in Kalenderjahren* / Anmerkung / Referenz|
 |:--|:-:|:--|
 |Erfahrung mit WinForms|✔️|5+|
 |Erfahrung mit .NET|✔️|10+, 5+ in der Industrie|
@@ -34,9 +34,9 @@ Ausgeschrieben auf [karierre.at](https://www.karriere.at/jobs/5759348) am 03.11.
 |Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Sofern die gestrigen Aufgaben vollständig erledigt wurden; s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
 |Clean Code|✔️|S. [github.com/235u/website](https://github.com/235u/website)|
 |Unit Testing|✔️|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
-|Teamarbeit|✔️||
+|Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Tiefe * Form` in Relation zu meinem Anschreiben zu setzen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln.|
 
-*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen kontinuierlich-steigenden Limit (unter Aufsicht von weltweit anerkannten Experten mit außerordentlichen didaktisch-pädagogischen Fähigkeiten 😉)
+*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (unter Aufsicht von weltweit anerkannten Experten mit außerordentlichen didaktisch-pädagogischen Fähigkeiten 😉)
 
 |Angebot|😶|Anmerkung|
 |:--|:-:|:--|
