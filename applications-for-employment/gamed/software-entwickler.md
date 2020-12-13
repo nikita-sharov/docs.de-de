@@ -23,10 +23,10 @@ icg versuche ich mein Anschreiben in tabellarischer Form zu fassen und die eine 
 |Aufgaben im Team|😶|Anmerkung|
 |:--|:-:|:--|
 |Software-Entwicklung mit .NET / .NET Core (C#, ASP.NET Core, WinForms, PL/SQL)|🙂|LINQ / ORM Frameworks sind mir lieber als SQL, SQL ist mir lieber als SQL-Dialekte.|
-|Handhabung von Oracle Datenbanksystemen|🙂||
-|Weiterentwicklung eines bestehenden Systems|😐|Hängt stark von der technischen Verschuldung des Systems ab.| 
-|Unterstützung in der Projektabwicklung und Organisation|🙂||
-|Unterstützung bei Wartung und Support|😐|Unterstützung derjenigen, die für die Neu-Entwicklung und Dokumentation verantwortlich waren, hoffentlich.|
+|Handhabung von Oracle Datenbanksystemen|🙂|Die Modellierung der Daten ist mir lieber als die Administration der Datenbanksysteme.|
+|Weiterentwicklung eines bestehenden Systems|😐|Die Begeisterung hängt stark von der technischen Verschuldung des Systems ab.| 
+|Unterstützung in der Projektabwicklung und Organisation|🙂|Immer gerne, sofern der Kunde davon profitiert.|
+|Unterstützung bei Wartung und Support|😐|Unterstützung derjeniger, die für die Neu-Entwicklung und Dokumentation verantwortlich waren, hoffentlich.|
 
 > … meine Briefe pflegten nicht so schnell auf einander zu folgen und auch nicht so lang zu sein. Die wenige Zeit, die ich hatte, ist Ursache von dem einen wie von dem andern. Ich habe diesen Brief nur deshalb länger gemacht, weil ich nicht Muße hatte ihn kürzer zu machen.
 >
@@ -90,9 +90,9 @@ WinForms sind 2002, PL/SQL ist 1991 erschienen (2009 zuletzt aktualisiert), was 
 
 `1 kg` BIO-Äpfel kosten bei Hofer `€ 2,99`; ein Apfel (`200 g`) pro Arbeitstag (`(52 Kalenderwochen im Jahr - 5 Kalenderwochen Urlaub) * 5 Arbeitstage die Woche = 235 Tage`) kostet im Einzelhandel `235 * 0.2 * 2,99 = € 140,53 pro Jahr` und macht im Verhältnis zum Mindest-Grundgehalt (`€ 3.048 * 14`) `0,4 %` dessen aus, ohne Berücksichtigung des Arbeitgeberanteiles der steuerrechtlichen Sozialabgaben.
 
-`10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5 Tassen pro Arbeitstag` kosten im Einzelhandel `5 * 235 * 2,49 = € 292,575 pro Jahr` und machen schon `0,7 %` des Mindest-Grundgehaltes aus. Sowie einen Bruchteil bei einem Vollautomaten und Metro-Preisen; dafür werden dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser vernachlässigt.
+`10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5 Tassen pro Arbeitstag` machen bereits `5 * 235 * 2,49 = € 292,575` pro Jahr bzw. `0,7 %` des Mindest-Grundgehaltes aus. Sowie einen Bruchteil bei einem Vollautomaten und Metro-Preisen; dafür werden dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser vernachlässigt.
 
-Hiermit könnte man meinen, dass die zuletzt genanten Benefits quantifizierbar  sowie kaum relevant sind. Im Vergleich zu einem hoch-effiktiven Arbeitsplatz (Räumlichkeiten und Einrichtung samt Software und Services), welcher selbst am Stadtrand auch € 1.000 pro Mitarbeiter und Monat (und 1/3 des gelisteten Grundgehaltes zusätzlich) kosten könnte. Oder der Zeit in Stunden die zur tagtäglichen Weiterentwicklung der hoch-motivierten Mitarbeiter beiträgt.
+Hiermit könnte man meinen, dass die zuletzt genanten Benefits quantifizierbar  sowie kaum relevant sind. Im Vergleich zu einem hoch-effiktiven Arbeitsplatz (Räumlichkeiten und Einrichtung samt Software und Services), welcher selbst am Stadtrand auch € 1.000 pro Mitarbeiter und Monat (und 1/3 des gelisteten Grundgehaltes zusätzlich) kosten könnte. ~~Oder der Zeit in Stunden die zur tagtäglichen Weiterentwicklung der hoch-motivierten Mitarbeiter beiträgt.~~
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
