@@ -20,9 +20,9 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 >
 > – Blaise Pascal
 
-|Erwartungen|✅|Umfang in Kalenderjahren* / Referenz / Anmerkung|
+|Erwartungen|✅|Umfang in Kalenderjahren* / Anmerkung / Referenz|
 |:--|:-:|:--|
-|Erfahrung mit WinForms|✔️|5+, s. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
+|Erfahrung mit WinForms|✔️|5+|
 |Erfahrung mit .NET|✔️|10+, 5+ in der Industrie (Maschinenbau / Automatisierung)|
 |Erfahrung mit .NET Core|✔️|2+|
 |Erfahrung mit Oracle Datenbanksystemen|✔️|0.5, 10+ mit anderen relationalen Datenbanksystemen|
@@ -32,7 +32,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Unit Testing|✔️|S. [github.com/235u/proposals.de-de/tree/master/PdfSplitter](https://github.com/235u/proposals.de-de/tree/master/PdfSplitter)|
 |Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Tiefe * Form` in Relation zu meinem Anschreiben zu bringen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln. (Eine Vorlage mit eingesetztem Namen innerhalb von 2 Kalenderwochen bekommt `0.1`. Das lässt sich leicht automatisieren.)|
 
-*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (unter Aufsicht von weltweit anerkannten Experten mit didaktisch-pädagogischen Fähigkeiten, idealerweise)
+*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (von der Natur mit Hochbegabung auf dem gefragten Gebiet ausgestattet, unter der Aufsicht von weltweit anerkannten, fachlich sowie didaktisch-pädagogisch bewanderten Experten systematisch zur Fähigikeit geformt, idealerweise)
 
 ### Angewandte Arithmetik m. b. H.
 
