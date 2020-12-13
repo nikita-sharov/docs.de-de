@@ -11,7 +11,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Aufgaben im Team|😶|Anmerkung|
 |:--|:-:|:--|
 |Software-Entwicklung mit .NET / .NET Core (C#, ASP.NET Core, WinForms, PL/SQL)|🙂|LINQ / ORM Frameworks sind mir lieber als SQL, SQL ist mir lieber als SQL-Dialekte.|
-|Handhabung von Oracle Datenbanksystemen|🙂|Die Modellierung der Daten ist mir lieber als die Administration der Datenbanksysteme.|
+|Handhabung von Oracle Datenbanksystemen|🙂|Die Modellierung / Abfrage / Pflege / Migration der Daten ist mir lieber als die Administration / Konfiguration / Sicherung der Datenbanksysteme.|
 |Weiterentwicklung eines bestehenden Systems|😐|Die Begeisterung hängt stark von der technischen Verschuldung des Systems bzw. der Bereitschaft der Auftraggeber die Weiterentwicklung bestehender Systeme zu finanzieren ab.| 
 |Unterstützung in der Projektabwicklung und Organisation|🙂|Immer gerne, sofern auch der Kunde davon profitiert.|
 |Unterstützung bei Wartung und Support|😐|Besonders gerne unterstütze ich diejenigen, die auch für die Neu-Entwicklung und Dokumentation nun gerwarteter Systeme verantwortlich waren. 3rd-Level-Support (unbekannte Probleme) ist mir lieber als 1st-Level-Support (RTFM).|
@@ -30,9 +30,9 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Sofern die gestrigen Aufgaben vollständig erledigt wurden; s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
 |Clean Code|✔️|S. [github.com/235u/website](https://github.com/235u/website)|
 |Unit Testing|✔️|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
-|Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Tiefe * Form` in Relation zu meinem Anschreiben zu bringen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln.|
+|Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Tiefe * Form` in Relation zu meinem Anschreiben zu bringen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln. (Eine Vorlage mit eingesetztem Namen innerhalb von 2 Kalenderwochen bekommt `0.1`. Das lässt sich leicht automatisieren.)|
 
-*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (unter Aufsicht von weltweit anerkannten Experten mit außerordentlichen didaktisch-pädagogischen Fähigkeiten 🙂)
+*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (unter Aufsicht von weltweit anerkannten Experten mit didaktisch-pädagogischen Fähigkeiten, idealerweise)
 
 ### Angewandte Arithmetik m. b. H.
 
