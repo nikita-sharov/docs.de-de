@@ -73,13 +73,13 @@ Die beste öffentliche Anbindung wird von den Steuern finanziert.
 
 WinForms sind 2002, PL/SQL ist 1991 erschienen (2009 zuletzt aktualisiert), was nicht heißen sollte, dass diese Technologien schlecht wären.
 
-Frisches Obst: Wir fördern gesunde Ernährung und stellen saftige steirische BIO Äpfel zur Verfügung
+## Angewandte Arithmetik m. b. H.
 
-1 kg BIO Äpfel kostet bei Hofer € 2,99; ein Apfel (200 g) pro Arbeitstag ((52 Kalenderwochen im Jahr - 5 Kalenderwochen Urlaub) * 5 Arbeitstage die Woche = 235 Tage) kostet im Einzelhandel 235 * 0.2 * 2,99 = € 140,53 pro Jahr und macht 0,4 % des Mindest-Grundgehaltes aus.
+`1 kg` BIO Äpfel kostet bei Hofer `€ 2,99`; ein Apfel (`200 g`) pro Arbeitstag ((52 Kalenderwochen im Jahr - 5 Kalenderwochen Urlaub) * 5 Arbeitstage die Woche = 235 Tage) kostet im Einzelhandel `235 * 0.2 * 2,99 = € 140,53 pro Jahr` und macht in Relation zum Mindest-Grundgehalt `0,4 %` aus.
 
-Free Drinks: So viel leckeren Fairtrade-Kaffee, Tee und Mineralwasser wie du möchtest 
+`10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5 Tassen` pro Arbeitstag kosten im Einzelhandel `5 * 235 * 2,49 = € 292,575 pro Jahr` und machen `0,7 %` des Mindest-Grundgehaltes aus. Sowie einen Bruchteil bei einem Vollautomaten und Metro-Preisen; dafür werden hier dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser vernachlässigt.
 
-10 BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer € 2,49; 5 Tassen pro Arbeitstag kosten im Einzelhandel 5 * 235 * 2,49 = € 292,575 pro Jahr und machen 0,7 % des Mindest-Grundgehaltes aus. Sowie einen Bruchteil bei einem Vollautomaten und Metro-Preisen; dafür vernachlässigen wir hier dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser.
+Hiermit könnte man meinen, dass die zuletzt genanten Benefits quantifizierbar sowie kaum relevant sind.
 
 Aus gesetzlichen Gründen weisen wir auf das Mindest-Grundgehalt laut IT-KV von €3.048,00 / Monat bei Vollzeitbeschäftigung hin. Für die Position des Software Entwicklers bieten wir ein attraktives Entgelt, das Deiner Qualifikation und Erfahrung entspricht.
 
