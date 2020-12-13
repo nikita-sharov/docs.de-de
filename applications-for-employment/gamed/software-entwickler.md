@@ -29,10 +29,10 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Fähigkeit sich schnell in komplexe Systeme einzuarbeiten|✔️|Man kann sich, meiner Meinung nach, kaum *schnell* in **komplexe** Systeme einarbeiten. Die Hauptaufgabe und die größte Herausforderung eines Software-Entwicklers sollte meines Wissens die Behandlung (Reduktion soweit möglich) der Komplexität sein.|
 |Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Sofern die gestrigen Aufgaben vollständig erledigt wurden; s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
 |Clean Code|✔️|S. [github.com/235u/website](https://github.com/235u/website)|
-|Unit Testing|✔️|S. [github.com/235u/proposals.de-de/tree/master/PdfSplitter](https://github.com/235u/proposals.de-de/tree/master/PdfSplitter)|
+|Unit Testing|✔️|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
 |Teamarbeit|✔️|Wäre mit `1 / Response-Zeit in Tagen * Umfang * Tiefe * Form` in Relation zu meinem Anschreiben zu bringen, um das Geben-zu-Nehmen-Verhältnis meiner Kooperationsbereitschaft zu ermitteln. (Eine Vorlage mit eingesetztem Namen innerhalb von 2 Kalenderwochen bekommt `0.1`. Das lässt sich leicht automatisieren.)|
 
-*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (von der Natur mit Hochbegabung auf dem gefragten Gebiet ausgestattet, unter der Aufsicht von weltweit anerkannten, fachlich sowie didaktisch-pädagogisch bewanderten Experten systematisch zur Fähigikeit geformt, idealerweise)
+*Kalenderjahre `!==` Mannjahre; relaxt-ignorante Mannjahre `!==` Mannjahre am persönlichen stetig-steigenden Limit (unter der Aufsicht von weltweit anerkannten, didaktisch-pädagogisch bewanderten Experten, idealerweise)
 
 ### Angewandte Arithmetik m. b. H.
 
@@ -42,7 +42,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 
 `10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5` Tassen pro Arbeitstag machen bereits `5 * 235 * 2,49 = € 292,575` pro Jahr bzw. `0,7 %` des Mindest-Grundgehaltes aus. Und einen Bruchteil bei einem Vollautomaten und Metro-Preisen; dafür werden dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser vernachlässigt.
 
-Hiermit könnte man meinen, dass die zuletzt genannten Benefits quantifizierbar  sowie kaum relevant sind. Im Vergleich zu einem richtig gut eingerichteten Arbeitsplatz (Räumlichkeiten und Ausstattung samt Software und Services), welcher selbst am Stadtrand auch € 1.000 pro Mitarbeiter und Monat (und 1/3 des gelisteten Grundgehaltes zusätzlich) kosten könnte.
+Hiermit könnte man meinen, dass die zuletzt genannten Benefits quantifizierbar sowie kaum relevant sind. Im Vergleich zu einem richtig gut eingerichteten Arbeitsplatz (Räumlichkeiten und Ausstattung samt Software und Services), welcher selbst am Stadtrand auch € 1.000 pro Mitarbeiter und Monat (und 1/3 des gelisteten Grundgehaltes zusätzlich) kosten könnte.
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
