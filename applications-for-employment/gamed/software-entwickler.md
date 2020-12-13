@@ -13,7 +13,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Software-Entwicklung mit .NET / .NET Core (C#, ASP.NET Core, WinForms, PL/SQL)|🙂|LINQ / ORM-Frameworks sind mir lieber als SQL, SQL ist mir lieber als SQL-Dialekte.|
 |Handhabung von Oracle Datenbanksystemen|🙂|Die Modellierung / Abfrage / Pflege / Migration der Daten ist mir lieber als die Administration (auf die Infrastruktur bezogen) / Konfiguration / Sicherung der Datenbanksysteme.|
 |Weiterentwicklung eines bestehenden Systems|😐|Die Begeisterung hängt stark von der technischen Verschuldung des Systems bzw. der Bereitschaft der Auftraggeber die Weiterentwicklung zu finanzieren ab.| 
-|Unterstützung in der Projektabwicklung und Organisation|🙂|~~Immer gerne, sofern auch der Kunde davon profitiert~~.|
+|Unterstützung in der Projektabwicklung und Organisation|🙂|Immer gerne.|
 |Unterstützung bei Wartung und Support|😐|Besonders gerne unterstütze ich diejenigen, die auch für die Neu-Entwicklung und Dokumentation der gewarteten  Systeme verantwortlich waren, um die tagtägliche Weiterentwicklung der Beteiligten zu beschleunigen. 3rd-Level-Support (unbekannte / ungelöste Probleme) ist mir lieber als 1st-Level-Support (RTFM).|
 
 > … meine Briefe pflegten nicht so schnell auf einander zu folgen und auch nicht so lang zu sein. Die wenige Zeit, die ich hatte, ist Ursache von dem einen wie von dem andern. Ich habe diesen Brief nur deshalb länger gemacht, weil ich nicht Muße hatte ihn kürzer zu machen.
