@@ -18,13 +18,13 @@ Sehr geehrter Herr Stimpfl,
 |Tolle motivierte Mitarbeiter|😕|Wodurch sind die tollen Mitarbeiter motiviert?|
 |Tagtägliche Weiterentwicklung der eigenen Person|😃|Wie viel Zeit steht mir tagtäglich dafür zur Verfügung?|
 
-versuche ich mein Anschreiben in tabellarischer Form zu fassen und die eine oder andere Relation zu knüpfen.
+icg versuche ich mein Anschreiben in tabellarischer Form zu fassen und die eine oder andere Relation zu knüpfen.
 
 |Aufgaben im Team|😶|Anmerkung|
 |:--|:-:|:--|
 |Software-Entwicklung mit .NET / .NET Core (C#, ASP.NET Core, WinForms, PL/SQL)|🙂|LINQ / ORM Frameworks sind mir lieber als SQL, SQL ist mir lieber als SQL-Dialekte.|
 |Handhabung von Oracle Datenbanksystemen|🙂||
-|Weiterentwicklung eines bestehenden Systems|😐|Hängt stark von der technischen Verschuldung des Systems ab.*| 
+|Weiterentwicklung eines bestehenden Systems|😐|Hängt stark von der technischen Verschuldung des Systems ab.| 
 |Unterstützung in der Projektabwicklung und Organisation|🙂||
 |Unterstützung bei Wartung und Support|😐|Unterstützung derjenigen, die für die Neu-Entwicklung und Dokumentation verantwortlich waren, hoffentlich.|
 
@@ -32,13 +32,13 @@ versuche ich mein Anschreiben in tabellarischer Form zu fassen und die eine oder
 >
 > – Blaise Pascal
 
-|Erwartungen|✅|Umfang in Kalenderjahren* / Anmerkung / Referenz|
+|Erwartungen|✅|Umfang in Kalenderjahren* / Referenz / Anmerkung|
 |:--|:-:|:--|
-|Erfahrung mit WinForms|✔️|5+|
+|Erfahrung mit WinForms|✔️|5+, s. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
 |Erfahrung mit .NET|✔️|10+, 5+ in der Industrie|
 |Erfahrung mit .NET Core|✔️|2+|
 |Erfahrung mit Oracle Datenbanksystemen|✔️|0.5, 10+ mit anderen relationalen Datenbanksystemen|
-|Fähigkeit sich schnell in komplexe Systeme einzuarbeiten|✔️|Man kann sich, meiner Meinung nach, kaum *schnell* in **komplexe** Systeme einarbeiten. Die Hauptaufgabe und die größte Herausforderung eines Software-Entwicklers sollte die Behandlung (Reduktion soweit möglich) der Komplexität sein.|
+|Fähigkeit sich schnell in komplexe Systeme einzuarbeiten|✔️|Man kann sich, meiner Meinung nach, kaum *schnell* in **komplexe** Systeme einarbeiten. Die Hauptaufgabe und die größte Herausforderung eines Software-Entwicklers sollte meines Wissens die Behandlung (Reduktion soweit möglich) der Komplexität sein.|
 |Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Sofern die gestrigen Aufgaben vollständig erledigt wurden; s. [observablehq.com/@nikita-sharov](https://observablehq.com/@nikita-sharov)|
 |Clean Code|✔️|S. [github.com/235u/website](https://github.com/235u/website)|
 |Unit Testing|✔️|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
@@ -48,7 +48,7 @@ versuche ich mein Anschreiben in tabellarischer Form zu fassen und die eine oder
 
 |Angebot|😶|Anmerkung|
 |:--|:-:|:--|
-|Angenehmes Betriebsklima|🙂|Hängt erfahrungsgemäß stark von der Bereitschaft der Auftraggeber die Weiterentwicklung bestehender Systeme zu finanzieren ab.|
+|Angenehmes Betriebsklima|🙂|Hängt, erfahrungsgemäß, stark von der Bereitschaft der Auftraggeber die Weiterentwicklung bestehender Systeme zu finanzieren ab.|
 |Breit gefächertes engagiertes Team|🙂||
 |Abwechslungsreiche Tätigkeiten|🙂||
 |Eigenverantwortliches Arbeiten|😐||
@@ -81,12 +81,18 @@ Die beste öffentliche Anbindung wird von den Steuern finanziert.
 
 WinForms sind 2002, PL/SQL ist 1991 erschienen (2009 zuletzt aktualisiert), was nicht heißen sollte, dass diese Technologien schlecht wären.
 
-## Angewandte Arithmetik m. b. H.
+- https://www.joelonsoftware.com/2003/03/28/finding-an-office-in-new-york-city/
+
+
+### Angewandte Arithmetik m. b. H.
 
 > Aus gesetzlichen Gründen weisen wir auf das Mindest-Grundgehalt laut IT-KV von € 3.048,00 / Monat bei Vollzeitbeschäftigung hin.
 
-`1 kg` BIO Äpfel kostet bei Hofer `€ 2,99`; ein Apfel (`200 g`) pro Arbeitstag ((52 Kalenderwochen im Jahr - 5 Kalenderwochen Urlaub) * 5 Arbeitstage die Woche = 235 Tage) kostet im Einzelhandel `235 * 0.2 * 2,99 = € 140,53 pro Jahr` und macht im Verhältnis zum Mindest-Grundgehalt (`€ 3.048 * 14`) `0,4 %` dessen aus, ohne Berücksichtigung des Arbeitgeberanteiles der steuerrechtlichen Sozialabgaben.
+`1 kg` BIO-Äpfel kosten bei Hofer `€ 2,99`; ein Apfel (`200 g`) pro Arbeitstag (`(52 Kalenderwochen im Jahr - 5 Kalenderwochen Urlaub) * 5 Arbeitstage die Woche = 235 Tage`) kostet im Einzelhandel `235 * 0.2 * 2,99 = € 140,53 pro Jahr` und macht im Verhältnis zum Mindest-Grundgehalt (`€ 3.048 * 14`) `0,4 %` dessen aus, ohne Berücksichtigung des Arbeitgeberanteiles der steuerrechtlichen Sozialabgaben.
 
-`10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5 Tassen` pro Arbeitstag kosten im Einzelhandel `5 * 235 * 2,49 = € 292,575 pro Jahr` und machen `0,7 %` des Mindest-Grundgehaltes aus. Sowie einen Bruchteil bei einem Vollautomaten und Metro-Preisen; dafür werden dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser vernachlässigt.
+`10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5 Tassen pro Arbeitstag` kosten im Einzelhandel `5 * 235 * 2,49 = € 292,575 pro Jahr` und machen schon `0,7 %` des Mindest-Grundgehaltes aus. Sowie einen Bruchteil bei einem Vollautomaten und Metro-Preisen; dafür werden dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser vernachlässigt.
 
-Hiermit könnte man meinen, dass die zuletzt genanten Benefits quantifizierbar, im Vergleich zu all den anderen, sowie kaum relevant sind.
+Hiermit könnte man meinen, dass die zuletzt genanten Benefits quantifizierbar  sowie kaum relevant sind. Im Vergleich zu einem hoch-effiktiven Arbeitsplatz (Räumlichkeiten und Einrichtung samt Software und Services), welcher selbst am Stadtrand auch € 1.000 pro Mitarbeiter und Monat (und 1/3 des gelisteten Grundgehaltes zusätzlich) kosten könnte. Oder der Zeit in Stunden die zur tagtäglichen Weiterentwicklung der hoch-motivierten Mitarbeiter beiträgt.
+
+Mit freundlichen Grüßen,  
+Nikita Sharov
