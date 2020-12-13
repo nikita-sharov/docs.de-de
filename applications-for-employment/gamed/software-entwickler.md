@@ -88,9 +88,9 @@ WinForms sind 2002, PL/SQL ist 1991 erschienen (2009 zuletzt aktualisiert), was 
 
 > Aus gesetzlichen Gründen weisen wir auf das Mindest-Grundgehalt laut IT-KV von € 3.048,00 / Monat bei Vollzeitbeschäftigung hin.
 
-`1 kg` BIO-Äpfel kosten bei Hofer `€ 2,99`; ein Apfel (`200 g`) pro Arbeitstag (`(52 Kalenderwochen im Jahr - 5 Kalenderwochen Urlaub) * 5 Arbeitstage die Woche = 235 Tage`) kostet im Einzelhandel `235 * 0.2 * 2,99 = € 140,53 pro Jahr` und macht im Verhältnis zum Mindest-Grundgehalt (`€ 3.048 * 14`) `0,4 %` dessen aus, ohne Berücksichtigung des Arbeitgeberanteiles der steuerrechtlichen Sozialabgaben.
+`1 kg` BIO-Äpfel kosten bei Hofer `€ 2,99`; ein Apfel (`200 g`) pro Arbeitstag (`(52 Kalenderwochen im Jahr - 5 Kalenderwochen Urlaub) * 5 Arbeitstage die Woche = 235 Tage`, sofern man gesund lebt, sprich: nie krank ist) kostet im Einzelhandel `235 * 0.2 * 2,99 = € 140,53` pro Jahr und macht im Verhältnis zum Mindest-Grundgehalt (`€ 3.048 * 14`) `0,4 %` dessen aus, ohne Berücksichtigung des Arbeitgeberanteiles der steuerrechtlichen Sozialabgaben.
 
-`10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5 Tassen pro Arbeitstag` machen bereits `5 * 235 * 2,49 = € 292,575` pro Jahr bzw. `0,7 %` des Mindest-Grundgehaltes aus. Sowie einen Bruchteil bei einem Vollautomaten und Metro-Preisen; dafür werden dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser vernachlässigt.
+`10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5` Tassen pro Arbeitstag machen bereits `5 * 235 * 2,49 = € 292,575` pro Jahr bzw. `0,7 %` des Mindest-Grundgehaltes aus. Sowie einen Bruchteil bei einem Vollautomaten und Metro-Preisen; dafür werden dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser vernachlässigt.
 
 Hiermit könnte man meinen, dass die zuletzt genanten Benefits quantifizierbar  sowie kaum relevant sind. Im Vergleich zu einem idealen Arbeitsplatz (Räumlichkeiten und Einrichtung samt Software und Services), welcher selbst am Stadtrand auch € 1.000 pro Mitarbeiter und Monat (und 1/3 des gelisteten Grundgehaltes zusätzlich) kosten könnte. ~~Oder der Zeit in Stunden die zur tagtäglichen Weiterentwicklung der hoch-motivierten Mitarbeiter beiträgt.~~
 
