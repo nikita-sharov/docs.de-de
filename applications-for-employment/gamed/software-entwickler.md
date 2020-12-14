@@ -16,9 +16,13 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Unterstützung in der Projektabwicklung und Organisation|🙂|Immer gerne.|
 |Unterstützung bei Wartung und Support|😐|3rd-Level-Support (unbekannte / ungelöste Probleme) ist mir lieber als 1st-Level-Support: Als Entwickler wiederhole ich mich nur ungern.|
 
+<br/>
+
 > … meine Briefe pflegten nicht so schnell auf einander zu folgen und auch nicht so lang zu sein. Die wenige Zeit, die ich hatte, ist Ursache von dem einen wie von dem andern. Ich habe diesen Brief nur deshalb länger gemacht, weil ich nicht Muße hatte ihn kürzer zu machen.
 >
 > – Blaise Pascal
+
+<br/>
 
 |Erwartungen|✅|Umfang in Kalenderjahren* / Anmerkung / Referenz|
 |:--|:-:|:--|
