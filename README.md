@@ -6,7 +6,7 @@
 
 |Unternehmen|Position|Ausgeschrieben am|
 |:----------|:-------|:---------------:|
-|[LearnConsult Web & Software GmbH](https://www.learnconsult.com/)|[Softwareentwickler – Senior Developer](applications-for-employment/learnconsult/softwareentwickler-senior.md)|?|
+|[LearnConsult Web & Software GmbH](https://www.learnconsult.com/)|[Softwareentwickler – Senior](applications-for-employment/learnconsult/softwareentwickler-senior.md)|?|
 |[NETCONOMY Software & Consulting GmbH](https://www.netconomy.ne)|[Agile Quality Manager](applications-for-employment/netconomy/agile-quality-manager.md)|01.12.2020|
 |[GAMED mbH](https://www.gamed.com/)|[Software Entwickler](applications-for-employment/gamed/software-entwickler.md)|03.11.2020|
 |[niceshops GmbH](https://nicecodevalley.niceshops.com/) (Microsite)|[Product Owner](applications-for-employment/niceshops/product-owner.md)|?|
