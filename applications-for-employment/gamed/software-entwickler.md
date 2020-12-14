@@ -26,7 +26,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |Erfahrung mit .NET|✔️|10+, 5+ in der Industrie (Maschinenbau / Automatisierung)|
 |Erfahrung mit .NET Core|✔️|2+|
 |Erfahrung mit Oracle Datenbanksystemen|✔️|0.5, 10+ mit anderen relationalen Datenbanksystemen|
-|Fähigkeit sich schnell in komplexe Systeme einzuarbeiten|✔️|Man kann sich, meiner Meinung nach, kaum *schnell* in **komplexe** Systeme einarbeiten. Die Hauptaufgabe und die größte Herausforderung der Software-Entwicklung sollte meines Wissens die Behandlung (Reduktion soweit möglich) der Komplexität sein.|
+|Fähigkeit sich schnell in komplexe Systeme einzuarbeiten|✔️|Man kann sich, meiner Meinung nach, kaum *schnell* in **komplexe** Systeme einarbeiten. Die Hauptaufgabe und die größte Herausforderung der Software-Entwicklung sollte meines Wissens die Behandlung (Reduktion soweit möglich) der Komplexität sein. Was mit einem großen Aufwand verbunden ist, um diesen letztendlich zu minimieren.|
 |Bereitschaft sich täglich neuen Aufgaben zu stellen|✔️|Gegeben, sofern die gestrigen Aufgaben vollständig erledigt wurden: Häufig-abrupte Kontext-Switches von einem mir noch fremden komplexen System in das andere sind mir lästig (die Konzentration ist für mich eine limitierte Ressource); s. [observablehq.com/@nikita-sharov/publications](https://observablehq.com/@nikita-sharov/publications)|
 |Clean Code|✔️|S. [github.com/235u/website](https://github.com/235u/website)|
 |Unit Testing|✔️|S. [github.com/nikita-sharov/word-counter](https://github.com/nikita-sharov/word-counter)|
