@@ -12,11 +12,11 @@ Kooperation war mir immer wichtiger als Subordination, und das kollektive Gesamt
 
 An Ideen hat es bei mir nie gemangelt, im Vergleich zur Umsetzung: Programmierergebnisse, mit welchen ich zufrieden war, zum damaligen Zeitpunkt, oder immer noch bin ([die gibt es!](https://github.com/235u/website))<sup>[[1](#anmerkungen)]</sup>, waren seltener. Dabei bezeichne ich meine Ansprüche an Code als *fast schon literarisch*.
 
-C# ist wohl meine Muttersprache (und damit .NET als Platform; in den letzten Jahren auch .NET Core), der Anzahl geschriebener Zeilen / Methoden / Klassen nach, im Vergleich zu [anderen Sprachen](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md#languages).
+`C#` ist wohl meine Muttersprache (und damit `.NET` als Plattform; in den letzten Jahren auch `.NET Core`), der Anzahl geschriebener Zeilen / Methoden / Klassen nach, im Vergleich zu [anderen Sprachen](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md#languages).
 
-ASP.NET (sowie ASP.NET Core) begleitet mich seit gut 5 Jahren; angefangen mit der Web-Entwicklung habe ich mit SharePoint in 2014. Davor war ich im besagten *Offlinebereich* tätig, wobei immer wieder verteilte Anwendungen dabei waren
+`ASP.NET` (sowie `ASP.NET Core`) begleitet mich seit gut 5 Jahren; angefangen mit der Web-Entwicklung habe ich mit `SharePoint` in 2014. Davor war ich im besagten *Offlinebereich* tätig, wobei immer wieder verteilte Anwendungen dabei waren, auch datenbankbasierte (`MS-SQL`, meistens).
 
-Was meinen [Werkzeuge]() betrifft, so habe ich in den letzten 10+ Jahren das Microsoft-Umfeld kaum verlassen (Betriebs- und Datenbanksysteme, Office-Suite, IDE, Text-Editor, Cloud-Platform und Online Services).
+Was [meinen Werkzeugkasten](https://observablehq.com/@nikita-sharov/i-am-groot) betrifft, so habe ich in den letzten 10+ Jahren das Microsoft-Umfeld kaum verlassen (Betriebs- und Datenbanksysteme, Office-Suite, IDE, Text-Editor, Cloud-Plattform und Online Services).
 
 ### Einsatzbeginn, Beschäftigungsart und Einsatzort
 
@@ -24,19 +24,19 @@ Anfangen könnte ich sofort.
 
 Grundsätzlich bin ich an einer Vollzeitbeschäftigung interessiert, wobei ich auch von einer Teilzeitbeschäftigung leben könnte. Teilzeit wäre vor allem anfangs denkbar, nachdem ich die letzten zwei Jahre im Homeoffice verbracht habe, um mir den Wiedereinstieg in den Büro-Alltag zu vereinfachen. 
 
-Die Möglichkeit auf einen Telearbeitsplatz kommt mir wiederum gelegen, nachdem ich auf Homeoffice nicht ganz verzichten möchte, aus einer einfachen Kosten-Nutzen-Rechnung heraus: Wenn die Vorteile der unmittelbaren Nähe die Fahrzeit (das Essen / den Kaffee / die Hardware / den Lärmpegel usw.) nicht aufwiegen, möchte ich darauf zurückgreifen können.
+Die Möglichkeit auf einen Telearbeitsplatz kommt mir wiederum gelegen, nachdem ich auf Homeoffice nicht ganz verzichten möchte, aus einer einfachen Kosten-Nutzen-Rechnung heraus: Wenn die Vorteile der unmittelbaren Nähe die Fahrzeit (das Essen / den Kaffee / die Hardware / den Lärmpegel usw.) nicht aufwiegen, würde ich gerne darauf zurückgreifen können.
 
 Zu Hause bin ich momentan in Graz-Nordost (Mariatrost).
 
 ### Wünschenswerte Erfahrungen
 
-HTML ist mir seit der Schulzeit bekannt; [sauberes, semantisches HTML](https://github.com/nikita-sharov/acp) ist mir schon länger ein Anliegen.
+`HTML` ist mir seit der Schulzeit bekannt; [sauberes, semantisches HTML](https://github.com/nikita-sharov/acp) ist mir schon länger ein Anliegen.
 
-JavaScript verwende ich in der letzten Zeit [immer mehr](https://observablehq.com/@nikita-sharov).
+`JavaScript` verwende ich in der letzten Zeit [immer mehr](https://observablehq.com/@nikita-sharov).
 
-Meine Erfahrungen mit PHP waren mehr akademischer Natur (bis auf ein paar Kleinprojekte) und liegen schon lange her (2005–2008).
+Meine Erfahrungen mit `PHP` waren mehr akademischer Natur (bis auf ein paar Kleinprojekte) und liegen schon lange her (2005–2008).
 
-C++ war meine erste Sprache im beruflichen Umfeld (angefangen in 2005), vor dem Umstieg auf C# (in 2007; .NET Framework / Compact Framework 2.0, Visual Studio 2003/2005).
+`C++` war meine erste Sprache im beruflichen Umfeld (angefangen in 2005), vor dem Umstieg auf C# (in 2007; `.NET Framework 2.0` / `Compact Framework`, `ADO.NET`, `WinForms`, `MS-SQL`, `Visual Studio 2003/2005`).
 
 ### Schlussworte
 
@@ -44,11 +44,11 @@ Ein offenes Arbeitsklima schließt für mich betriebswirtschaftliche Transparenz
 
 Flexible Arbeitszeiten weiß ich zu schätzen – ich arbeite ungern unausgeschlafen und höre gerne auf, wenn die Konzentration nachlässt.
 
-Als Mitglied eines Teams wäre ich auch bereit dessen Misserfolge zu teilen. Erfolge teil eh jeder gern, vor allem diejenigen, die daran nicht beteiligt waren. [schmunzelt]
+Als Mitglied eines Teams wäre ich auch bereit dessen Misserfolge zu teilen. Erfolge teil eh jeder gern, vor allem diejenigen, die nicht daran beteiligt waren. [schmunzelt]
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
 
 ### Anmerkungen
 
-1. Hier habe ich bewusst auf fremde Komponenten im Front-End-Bereich verzichtet, um alles per Hand anzufertigen (s. [CSS](https://github.com/235u/website/tree/master/ActinUranium.Web/wwwroot/css) / [JavaScript](https://github.com/235u/website/tree/master/ActinUranium.Web/wwwroot/js)), aus autodidaktischen Überlegungen; normalerweise würde ich ein passendes Front-End-Framework verwenden.
+1. Hier habe ich bewusst auf fremde Komponenten im Front-End-Bereich verzichtet, um alles per Hand anzufertigen (s. [CSS](https://github.com/235u/website/tree/master/ActinUranium.Web/wwwroot/css) / [JavaScript](https://github.com/235u/website/tree/master/ActinUranium.Web/wwwroot/js)), aus autodidaktischen Überlegungen; normalerweise würde ich ein bestehendes Front-End-Framework verwenden.
