@@ -12,7 +12,7 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 |:--|:-:|:--|
 |Software-Entwicklung mit .NET / .NET Core (C#, ASP.NET Core, WinForms, PL/SQL)|🙂|LINQ / ORM-Frameworks sind mir lieber als SQL, SQL ist mir lieber als SQL-Dialekte.|
 |Handhabung von Oracle Datenbanksystemen|🙂|Die Modellierung / Abfrage / Pflege / Migration der Daten ist mir lieber als die Administration (auf die bereits vorhandene Infrastruktur bezogen) / Konfiguration / Sicherung der Datenbanksysteme.|
-|Weiterentwicklung eines bestehenden Systems|😐|Die Begeisterung hängt stark von der technischen Verschuldung des Systems ab.| 
+|Weiterentwicklung eines bestehenden Systems|😐|Die Begeisterung hängt stark von der technischen Verschuldung des Systems ab, sofern gegeben.| 
 |Unterstützung in der Projektabwicklung und Organisation|🙂|Immer gerne.|
 |Unterstützung bei Wartung und Support|😐|3rd-Level-Support (unbekannte / ungelöste Probleme) ist mir lieber als 1st-Level-Support: Als Entwickler wiederhole ich mich nur ungern.|
 
