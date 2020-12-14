@@ -36,7 +36,7 @@ Zu Hause bin ich momentan in Graz-Nordost (Mariatrost).
 
 Meine Erfahrungen mit `PHP` waren mehr akademischer Natur (bis auf ein paar Kleinprojekte) und liegen schon lange her (2005–2008).
 
-`C++` war meine erste Sprache im beruflichen Umfeld (angefangen in 2005), vor dem Umstieg auf C# (in 2007; `.NET Framework 2.0` / `Compact Framework`, `ADO.NET`, `WinForms`, `MS-SQL`, `Visual Studio 2003/2005`).
+`C++` war meine erste Sprache im beruflichen Umfeld (angefangen in 2005), vor dem Umstieg auf `C#` (in 2007; `.NET Framework 2.0` / `Compact Framework`, `ADO.NET`, `WinForms`, `MS-SQL`, `Visual Studio 2003/2005`).
 
 ### Schlussworte
 
