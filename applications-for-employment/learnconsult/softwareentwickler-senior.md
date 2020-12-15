@@ -24,7 +24,7 @@ Meine letzten zwei [Arbeitgeber]() waren zertifizierte Microsoft-Vassale (die in
 
 ### Wünschenswerte Erfahrungen
 
-`HTML` ist mir seit der späten Schulzeit bekannt; [sauberes, semantisches HTML](https://github.com/nikita-sharov/acp) ist mir schon länger ein Anliegen.
+`HTML` ist mir seit der späten Schulzeit bekannt.
 
 `JavaScript` verwende ich in der letzten Zeit [immer mehr](https://observablehq.com/@nikita-sharov).
 
