@@ -20,7 +20,7 @@ An Ideen hat es bei mir nie gemangelt, im Vergleich zur Umsetzung: Programmierer
 
 Was [meinen Werkzeugkasten](https://observablehq.com/@nikita-sharov/i-am-groot) betrifft, so habe ich in den letzten 10+ Jahren das Microsoft-Umfeld kaum verlassen (Betriebs- und Datenbanksysteme, Office-Suite, IDE, Text-Editor, Cloud-Plattform und Online Services).
 
-Meine letzten zwei [Arbeitgeber]() waren zertifizierte Microsoft-Vassale (die in einem juristisch-persönlichen Treueverhältnis zu ihrem Schutzherren standen). Der marketingtechnisch gebräuchliche Begriff *Partner* erscheint mir als irreführend, und ich nenne Dinge gerne bei ihrem [Namen](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md#code-readability).
+Meine letzten zwei [Arbeitgeber](https://observablehq.com/@nikita-sharov/cv) waren zertifizierte Microsoft-Vassale (die in einem juristisch-persönlichen Treueverhältnis zu ihrem Schutzherren standen). Der marketingtechnisch gebräuchliche Begriff *Partner* erscheint mir als irreführend, und ich nenne Dinge gerne bei ihrem [Namen](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md#code-readability).
 
 ### Wünschenswerte Erfahrungen
 
