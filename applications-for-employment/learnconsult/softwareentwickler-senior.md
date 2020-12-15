@@ -48,7 +48,7 @@ Ein offenes Arbeitsklima schließt für mich betriebswirtschaftliche Transparenz
 
 Flexible Arbeitszeiten weiß ich zu schätzen – ich arbeite ungern unausgeschlafen und höre gerne auf, wenn die Konzentration nachlässt.
 
-Als Mitglied eines Teams wäre ich auch bereit dessen Misserfolge zu teilen. Erfolge teil eh jeder gern, vor allem diejenigen, die nicht daran beteiligt waren. [schmunzelt]
+Als Mitglied eines Teams wäre ich auch bereit dessen Misserfolge zu teilen. Erfolge teilt jeder gern, vor allem diejenigen, die nicht daran beteiligt waren. [schmunzelt]
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
