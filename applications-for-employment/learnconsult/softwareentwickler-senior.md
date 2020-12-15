@@ -12,6 +12,8 @@ Kooperation war mir immer wichtiger als Subordination, und das kollektive Gesamt
 
 An Ideen hat es bei mir nie gemangelt, im Vergleich zur Umsetzung: Programmierergebnisse, mit welchen ich zufrieden war, zum damaligen Zeitpunkt, oder immer noch bin ([die gibt es!](https://github.com/235u/website))<sup>[[1](#anmerkungen)]</sup>, waren seltener. Dabei bezeichne ich meine Ansprüche an Code als *fast schon literarisch*.
 
+### Anforderungen
+
 `C#` ist wohl meine Muttersprache (und damit `.NET` als Plattform; in den letzten Jahren auch `.NET Core`), der Anzahl geschriebener Zeilen / Methoden / Klassen nach, im Vergleich zu [anderen Sprachen](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md#languages).
 
 `ASP.NET` (sowie `ASP.NET Core`) begleitet mich seit gut 5 Jahren; angefangen mit der beruflichen, oft datenbankbasierten Web-Entwicklung habe ich mit `SharePoint` in 2014. Davor war ich im besagten *Offlinebereich* tätig, wobei immer wieder verteilte Anwendungen dabei waren, auch datenbankbasierte (`MS-SQL`, meistens).
@@ -19,16 +21,6 @@ An Ideen hat es bei mir nie gemangelt, im Vergleich zur Umsetzung: Programmierer
 Was [meinen Werkzeugkasten](https://observablehq.com/@nikita-sharov/i-am-groot) betrifft, so habe ich in den letzten 10+ Jahren das Microsoft-Umfeld kaum verlassen (Betriebs- und Datenbanksysteme, Office-Suite, IDE, Text-Editor, Cloud-Plattform und Online Services).
 
 Meine letzten zwei [Arbeitgeber]() waren zertifizierte Microsoft-Vassale, die in einem juristisch-persönlichen Treueverhältnis zu ihrem Schutzherren standen. Der marketingtechnisch gebräuchliche Begriff *Partner* erscheint mir als irreführend, und ich nenne Dinge gerne bei ihrem [Namen](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md#code-readability).
-
-### Einsatzbeginn, Beschäftigungsart und Einsatzort
-
-Anfangen könnte ich sofort.
-
-Grundsätzlich bin ich an einer Vollzeitbeschäftigung interessiert, wobei ich auch von einer Teilzeitbeschäftigung leben könnte. Teilzeit wäre vor allem anfangs (1–2 Monate / Probezeit) denkbar, nachdem ich die letzten zwei Jahre im Homeoffice verbracht habe, um mir den Wiedereinstieg in den Büro-Alltag zu vereinfachen. 
-
-Die Möglichkeit auf einen Telearbeitsplatz kommt mir wiederum gelegen, nachdem ich auf Homeoffice nicht ganz verzichten möchte, aus einer einfachen Kosten-Nutzen-Rechnung heraus: Wenn die Vorteile der unmittelbaren Nähe die Fahrzeit (das Essen / den Kaffee / die Hardware / den Lärmpegel usw.) nicht aufwiegen, würde ich gerne darauf zurückgreifen können.
-
-Zu Hause bin ich momentan in Graz-Nordost (Mariatrost).
 
 ### Wünschenswerte Erfahrungen
 
@@ -39,6 +31,16 @@ Zu Hause bin ich momentan in Graz-Nordost (Mariatrost).
 Meine Erfahrungen mit `PHP` waren mehr akademischer Natur (bis auf ein paar Kleinprojekte) und liegen schon lange her (2005–2008).
 
 `C++` war meine erste Sprache im beruflichen Umfeld (angefangen in 2005), vor dem Umstieg auf `C#` (in 2007; `.NET Framework 2.0` / `Compact Framework`, `ADO.NET`, `WinForms`, `MS-SQL`, `Visual Studio 2003/2005`).
+
+### Einsatzbeginn, Beschäftigungsart und Einsatzort
+
+Anfangen könnte ich sofort.
+
+Grundsätzlich bin ich an einer Vollzeitbeschäftigung interessiert, wobei ich auch von einer Teilzeitbeschäftigung leben könnte. Teilzeit wäre vor allem anfangs (1–2 Monate / Probezeit) denkbar, nachdem ich die letzten zwei Jahre im Homeoffice verbracht habe, um mir den Wiedereinstieg in den Büro-Alltag zu vereinfachen. 
+
+Die Möglichkeit auf einen Telearbeitsplatz kommt mir wiederum gelegen, nachdem ich auf Homeoffice nicht ganz verzichten möchte, aus einer einfachen Kosten-Nutzen-Rechnung heraus: Wenn die Vorteile der unmittelbaren Nähe die Fahrzeit (das Essen / den Kaffee / die Hardware / den Lärmpegel usw.) nicht aufwiegen, würde ich gerne darauf zurückgreifen können.
+
+Zu Hause bin ich momentan in Graz-Nordost (Mariatrost).
 
 ### Schlussworte
 
