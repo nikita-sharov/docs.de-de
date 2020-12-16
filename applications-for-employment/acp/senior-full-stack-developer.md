@@ -16,6 +16,8 @@ Bitte beachten Sie dabei meine Bereitschaft Verantwortung zu übernehmen, in der
 Mit freundlichen Grüßen,  
 Nikita Sharov
 
+![Demo](media/demo.rotated.png)
+
 ## Hohe Kundenorientierung
 
 > Als einer der führenden IT Provider bietet Ihnen ACP mehr als nur einfach einen Job:
