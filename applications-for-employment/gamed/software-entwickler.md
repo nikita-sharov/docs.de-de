@@ -42,9 +42,9 @@ ich versuche mein Anschreiben in tabellarischer Form zu fassen und dabei die ein
 
 > Aus gesetzlichen Gründen weisen wir auf das Mindest-Grundgehalt laut IT-KV von € 3.048,00 / Monat bei Vollzeitbeschäftigung hin.
 
-`1 kg` BIO-Äpfel kosten bei Hofer `€ 2,99`; ein Apfel (`200 g`) pro Arbeitstag (`(52 Kalenderwochen im Jahr - 5 Kalenderwochen Urlaub) * 5 Arbeitstage die Woche = 235 Tage`, sofern man gesund lebt, sprich: nie  krank ist, und es keine Feiertage gibt) kostet im Einzelhandel `235 * 0.2 * 2,99 = € 140,53` pro Jahr und macht im Verhältnis zum Mindest-Grundgehalt (`€ 3.048 * 14`) `0,33 %` dessen aus, ohne Berücksichtigung des Arbeitgeberanteiles der steuerrechtlichen Sozialabgaben.
+`1 kg` BIO-Äpfel kosten bei Hofer `€ 2,99`; ein Apfel (`200 g`) pro Arbeitstag (`(52 Kalenderwochen im Jahr - 5 Kalenderwochen Urlaub) * 5 Arbeitstage die Woche = 235 Tage`, sofern man gesund lebt, sprich: nie  krank ist, und es keine Feiertage gibt) kostet im Einzelhandel `235 * 0,2 * 2,99 = € 140,53` pro Jahr und macht im Verhältnis zum Mindest-Grundgehalt (`€ 3.048 * 14`) `0,33 %` dessen aus, ohne Berücksichtigung des Arbeitgeberanteiles der steuerrechtlichen Sozialabgaben.
 
-`10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5` Tassen pro Arbeitstag machen bereits `5 * 235 * 2,49 = € 292,575` pro Jahr bzw. `0,69 %` des Mindest-Grundgehaltes aus. Und einen Bruchteil bei einem Vollautomaten und Metro-Preisen, dafür werden dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser hier vernachlässigt.
+`10` BIO-Fairtrade-Kaffee-Kapseln kosten bei Hofer `€ 2,49`; `5` Tassen pro Arbeitstag machen bereits `235 * 0,5 * 2,49 = € 292,575` pro Jahr bzw. `0,69 %` des Mindest-Grundgehaltes aus. Und einen Bruchteil bei einem Vollautomaten und Metro-Preisen, dafür werden dessen jährliche Abschreibung, Milch, Zucker, Tee und Mineralwasser hier vernachlässigt.
 
 Hiermit könnte man meinen, dass die zuletzt genannten Benefits zwar quantifizierbar aber kaum relevant sind. Im Vergleich zu einem richtig gut eingerichteten Arbeitsplatz (Räumlichkeiten und Ausstattung samt Software und Services), welcher auch `€ 1.000` pro EntwicklerIn und Monat (und `1/3` des gelisteten Grundgehaltes zusätzlich) wert sein könnte. Was wiederum ohne tolle / motivierte / engagierte / breit gefächert aufgestellte Mitstreiter wenig wert wäre.
 
