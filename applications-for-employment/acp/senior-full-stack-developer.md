@@ -16,7 +16,7 @@ Bitte beachten Sie dabei meine Bereitschaft Verantwortung zu übernehmen, in der
 Mit freundlichen Grüßen,  
 Nikita Sharov
 
-<a href="https://acp.235u.net/"><img src="media/demo.rotated.png" alt="Demo"></a>
+<a href="https://acp.235u.net/"><img src="media/demo.png" alt="Demo"></a>
 
 ## Hohe Kundenorientierung
 
