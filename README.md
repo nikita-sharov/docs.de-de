@@ -6,6 +6,7 @@
 
 |Unternehmen|Position|Ausgeschrieben am|
 |:----------|:-------|:---------------:|
+|[Energie Steiermark AG](https://www.e-steiermark.com/)|[GIS Anwendungsbetreuer](applications-for-employment/e-steiermark/gis-anwendungsbetreuer.md)|14.12.2020|
 |[TU Graz Lehr- und Lerntechnologien](https://www.tugraz.at/oe/lehr-und-lerntechnologien/home/)|[Webdesigner](applications-for-employment/tugraz/webdesigner.md)|?|
 |[LearnConsult Web & Software GmbH](https://www.learnconsult.com/)|[Softwareentwickler – Senior](applications-for-employment/learnconsult/softwareentwickler-senior.md)|?|
 |[NETCONOMY Software & Consulting GmbH](https://www.netconomy.ne)|[Agile Quality Manager](applications-for-employment/netconomy/agile-quality-manager.md)|01.12.2020|
