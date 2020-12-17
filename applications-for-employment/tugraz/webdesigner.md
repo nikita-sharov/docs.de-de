@@ -16,8 +16,8 @@ Ausgeschrieben auf [talto.com](https://talto.com/jobs/2020/11/lehr-und-lerntechn
 |:--|:--|
 |Abgeschlossenes Studium im Bereich Software Engineering|Nicht abgeschlossen|
 |Sehr gute Kenntnisse in HTML5, JavaScript und CSS|[Vorhanden](https://github.com/235u/website/tree/master/ActinUranium.Web/wwwroot), wobei mir für die Bewertung der Qualität der Kenntnisse der Referenzpunkt fehlt.|
-|Vorkenntnisse im Bereich Datenvisualisierung mittels JavaScript-Bibliotheken (D3.js) erwünscht|[Vorhanden](https://observablehq.com/@nikita-sharov/i-am-groot)|
-|Erfahrungen im Bereich Webentwicklung, wobei Arbeitserfahrung von Vorteil|Vorhanden|
-|Rasche Auffassungsgabe, Lernbereitschaft und Teamgeist sowie Selbstständigkeit und Engagement|Großteils gegeben, wobei ich meine Auffassungsgabe schwer beurteilen kann.|
+|Vorkenntnisse im Bereich Datenvisualisierung mittels JavaScript-Bibliotheken (D3.js) erwünscht|[Vorhanden](https://observablehq.com/@nikita-sharov)|
+|Erfahrungen im Bereich Webentwicklung, wobei Arbeitserfahrung von Vorteil|Vorhanden, auch in hauptberuflicher Form (mehrjährig)|
+|Rasche Auffassungsgabe, Lernbereitschaft und Teamgeist sowie Selbstständigkeit und Engagement|Großteils gegeben: Meine Auffassungsgabe kann ich schwer beurteilen (mir liegen keine Messergebnisse vor).|
 |Fließende Deutsch- und Englischkenntnisse in Wort und Schrift|Teilweise [gegeben](https://observablehq.com/@nikita-sharov/publications): Meine Englishkenntnisse in (gesprochenem) Wort werden aufgrund nicht gegebener tagtäglicher Praxis stockend sein.|
 
