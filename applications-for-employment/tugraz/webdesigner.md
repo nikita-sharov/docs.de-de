@@ -7,7 +7,7 @@ Ausgeschrieben auf [talto.com](https://talto.com/jobs/2020/11/lehr-und-lerntechn
 |Aufgabe|Referenzen|
 |:--|:--|
 |Designen von Lernmanagementsystemen, Dashboards, Webseiten und Landingpages|[Actin Uranium](http://235u.net/)|
-|Analyse und Aufbereitung von Daten sowie Erstellung von interaktiven Visualisierungen|[Dark, Expressions](https://observablehq.com/@nikita-sharov/dark-expressions) / [Curriculum Vitae](https://observablehq.com/@nikita-sharov/cv)|
+|Analyse und Aufbereitung von Daten sowie Erstellung von interaktiven Visualisierungen|[Dark, Expressions](https://observablehq.com/@nikita-sharov/dark-expressions) / [Curriculum Vitae](https://observablehq.com/@nikita-sharov/cv) / [Hello, Schema.org](https://observablehq.com/@nikita-sharov/hello-schema-org)|
 |Mitarbeit in der Konzeption von (Online-)Projekten|[DIMDEX Organization](https://github.com/nikita-sharov/dimdex) / [Ezpark Technology](https://github.com/235u/proposals/tree/master/EzparkTechnology)| 
 |Gestaltung & Animation von digitalen Lern- und Lehrinhalten|[Map Projection Classification](https://observablehq.com/@nikita-sharov/map-projection-classification) / [We Are Family](https://observablehq.com/@nikita-sharov/we-are-family)|
 |Eigenständige Recherche neuer (UX) Trends|[Feather Icon Inspector](https://observablehq.com/@nikita-sharov/feather-icon-inspector)|
