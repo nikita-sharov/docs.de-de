@@ -19,5 +19,5 @@ Ausgeschrieben auf [talto.com](https://talto.com/jobs/2020/11/lehr-und-lerntechn
 |Vorkenntnisse im Bereich Datenvisualisierung mittels JavaScript-Bibliotheken (D3.js) erwünscht|[Vorhanden](https://observablehq.com/@nikita-sharov)|
 |Erfahrungen im Bereich Webentwicklung, wobei Arbeitserfahrung von Vorteil|Vorhanden, auch in hauptberuflicher Form (mehrjährig)|
 |Rasche Auffassungsgabe, Lernbereitschaft und Teamgeist sowie Selbstständigkeit und Engagement|Gegeben, wobei ich meine Auffassungsgabe schwer beurteilen kann (mir liegen keine Messergebnisse vor).|
-|Fließende Deutsch- und Englischkenntnisse in Wort und Schrift|Großteils [gegeben](https://observablehq.com/@nikita-sharov/publications): Meine Englishkenntnisse in (gesprochenem) Wort werden aufgrund nicht gegebener tagtäglicher Praxis stockend sein.|
+|Fließende Deutsch- und Englischkenntnisse in Wort und Schrift|Großteils [gegeben](https://observablehq.com/@nikita-sharov/publications): Meine Englischkenntnisse in (gesprochenem) Wort werden aufgrund nicht gegebener tagtäglicher Praxis stockend sein.|
 
