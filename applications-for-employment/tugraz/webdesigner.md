@@ -9,8 +9,8 @@ Ausgeschrieben auf [talto.com](https://talto.com/jobs/2020/11/lehr-und-lerntechn
 |Designen von Lernmanagementsystemen, Dashboards, Webseiten und Landingpages|[Actin Uranium](http://235u.net/)|
 |Analyse und Aufbereitung von Daten sowie Erstellung von interaktiven Visualisierungen|[Dark, Expressions](https://observablehq.com/@nikita-sharov/dark-expressions) / [Curriculum Vitae](https://observablehq.com/@nikita-sharov/cv)|
 |Mitarbeit in der Konzeption von (Online-)Projekten|[DIMDEX Organization](https://github.com/nikita-sharov/dimdex) / [Ezpark Technology](https://github.com/235u/proposals/tree/master/EzparkTechnology)| 
-|Gestaltung & Animation von digitalen Lern- und Lehrinhalten|[Map Projection Classification](https://observablehq.com/@nikita-sharov/map-projection-classification) / [We Are Family](https://observablehq.com/@nikita-sharov/we-are-family)|
-|Eigenständige Recherche neuer (UX) Trends|[Map Projection Chronology](https://observablehq.com/@nikita-sharov/map-projection-chronology) / [Feather Icon Inspector](https://observablehq.com/@nikita-sharov/feather-icon-inspector)|
+|Gestaltung & Animation von digitalen Lern- und Lehrinhalten|[Map Projection Classification](https://observablehq.com/@nikita-sharov/map-projection-classification)|
+|Eigenständige Recherche neuer (UX) Trends|[Feather Icon Inspector](https://observablehq.com/@nikita-sharov/feather-icon-inspector)|
 
 |Anforderung|Anmerkungen|
 |:--|:--|
@@ -18,6 +18,6 @@ Ausgeschrieben auf [talto.com](https://talto.com/jobs/2020/11/lehr-und-lerntechn
 |Sehr gute Kenntnisse in HTML5, JavaScript und CSS|[Vorhanden](https://github.com/235u/website/tree/master/ActinUranium.Web/wwwroot), wobei mir für die Bewertung der Qualität der Kenntnisse der Referenzpunkt fehlt.|
 |Vorkenntnisse im Bereich Datenvisualisierung mittels JavaScript-Bibliotheken (D3.js) erwünscht|[Vorhanden](https://observablehq.com/@nikita-sharov)|
 |Erfahrungen im Bereich Webentwicklung, wobei Arbeitserfahrung von Vorteil|Vorhanden, auch in hauptberuflicher Form (mehrjährig)|
-|Rasche Auffassungsgabe, Lernbereitschaft und Teamgeist sowie Selbstständigkeit und Engagement|Großteils gegeben: Meine Auffassungsgabe kann ich schwer beurteilen (mir liegen keine Messergebnisse vor).|
-|Fließende Deutsch- und Englischkenntnisse in Wort und Schrift|Teilweise [gegeben](https://observablehq.com/@nikita-sharov/publications): Meine Englishkenntnisse in (gesprochenem) Wort werden aufgrund nicht gegebener tagtäglicher Praxis stockend sein.|
+|Rasche Auffassungsgabe, Lernbereitschaft und Teamgeist sowie Selbstständigkeit und Engagement|Gegeben, wobei ich meine Auffassungsgabe schwer beurteilen kann (mir liegen keine Messergebnisse vor).|
+|Fließende Deutsch- und Englischkenntnisse in Wort und Schrift|Großteils [gegeben](https://observablehq.com/@nikita-sharov/publications): Meine Englishkenntnisse in (gesprochenem) Wort werden aufgrund nicht gegebener tagtäglicher Praxis stockend sein.|
 
