@@ -4,17 +4,25 @@ Ausgeschrieben auf [karriere.at](https://www.karriere.at/jobs/gis-anwendungsbetr
 
 ## Cheat Sheet
 
-Fachlich-/methodische Anforderungen bzw. Praxis:
+### Beschreibung des Aufgabenbereiches
+
+|Aufgabenbereich|Anmerkung|
+|:--|:--|
+|Mitarbeit im Team der Anwendungsentwicklung komplexer GIS Anwendungen||
+|Technische Konzeption, Umsetzung und Administration des Geoinformationssystemes||
+|Betreuung und Verwaltung von Geodatenservern, GIS-Datenbanken und WebGIS Anwendungen||
+|Testen der SW-Komponenten, Bugfixing, Dokumentation, Roll-Out und Support||
+|Realisierung von Lösungen nach Kundenanforderungen||
 
 |Anforderung|Anmerkung|
 |:--|:--|
-|Abgeschlossene technische Ausbildung im Fachbereich Geospatial Technologies/Informatik (HTL/FH/Universität)|Nicht abgeschlossene teschnische Ausbildung im Fachbereich *Software Engineering* (TU Graz)|
-|Mehrjährige einschlägige Berufserfahrung erwünscht|15 Jahre|
-|Erfahrung mit Geoinformationssystemen (z.B. ESRI ArcGIS)|Nicht vorhanden (bis auf Google Maps)|
-|Gute Kenntnisse von Datenbanksystemen (z.B. MS SQL Server)|Vorhanden|
-|Gute Programmier- und Scripting-Kenntnisse (z.B. Python, Javascript, HTML, C#)|Vorhanden|
-|Kenntnisse in Web Technologien wie HTML, Javascript, jQuery|Vorhanden|
-|GIS-Kenntnisse von Vorteil|Auf wenige Arbeiten beschränkt|
+|Technische Ausbildung im Fachbereich Geospatial Technologies / Informatik|Nicht abgeschlossenes Studium in *Softwareentwicklung und Wirtschaft* (TU Graz)|
+|Einschlägige Berufserfahrung|Mehrjährige Berufserfahrung in Softwareentwicklung (-Wartung sowie -Anwendung)|
+|Erfahrung mit Geoinformationssystemen (z.B. ESRI ArcGIS)|Nur oberflächliche Kenntnisse vorhanden|
+|Kenntnisse von Datenbanksystemen (z.B. MS SQL Server)|Sehr gute Kenntnisse vorhanden|
+|Programmier- und Scripting-Kenntnisse (z.B. Python, Javascript, HTML, C#)|Sehr gute Kenntnisse vorhanden|
+|Kenntnisse in Web Technologien wie HTML, Javascript, jQuery|S. Programmier- und Scripting-Kenntnisse|
+|GIS-Kenntnisse|S. Erfahrung mit Geoinformationssystemen|
 |Ausgeprägte Fähigkeit und Bereitschaft zum sorgfältigen, selbstständigen, strukturierten und zielorientierten Arbeiten|Gegeben|
 |Hohe Lernbereitschaft, Einsatzbereitschaft und Zuverlässigkeit|Gegeben|
 |Sicheres Auftreten, gute Kommunikations- und Teamfähigkeit|Jooo|
