@@ -10,13 +10,11 @@ nachdem ich auf mehrjährige Berufserfahrung in der Entwicklung moderner Informa
 
 und während meiner nicht abgeschlossener Ausbildung an der Grazer Technik die gleichnamige Vorlesung zwei Semester lang betreut habe,
 
-mein Lebenslauf, als eine komplexe Web-Anwendung, auch geographische Gegebenheiten behandelt
+mein Lebenslauf, als eine komplexe Web-Anwendung, auch geographische Gegebenheiten beinhaltet / behandelt,
 
-meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt sind],
+meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt]() sind,
 
-habe ich eine weitere GIS-Anwendung entwickelt / umgesetzt / realisiert (konzipiert, getestet, dokumentiert, mit Daten versehen und ausgerollt),
-
-Dabei habe ich (in JavaScript) gescriptet und gleichzeitig programmiert.
+habe ich eine [kleine GIS-Anwendung](https://observablehq.com/@nikita-sharov/metropolitan-france-map) entwickelt / realisiert: konzipiert, umgesetzt, getestet, dokumentiert, mit Daten versehen und ausgerollt. Dabei habe ich (in JavaScript) gescriptet und gleichzeitig programmiert.
 
 Auch um meine 
 
@@ -30,13 +28,11 @@ zu demonstrieren,
 
 > Sicheres Auftreten, gute Kommunikations- und Teamfähigkeit	
 
-statt diese als gegeben zu deklarieren.
-
-Um auch
+statt diese als gegeben zu deklarieren. Um auch
 
 > Hohe Flexibilität
 
-zu zeigen, habe ich mir erlaubt auf die Bugs in der vorliegenenden Stellenbeschreibung hinzuweisen:
+zu beweisen, habe ich mir erlaubt, auf die Bugs in der vorliegenenden Stellenbeschreibung hinzuweisen:
 
 > Mitarbeit im Team der Anwendungsentwicklung komplexer GIS Anwendungen
 
