@@ -6,8 +6,13 @@ Ausgeschrieben auf [karriere.at](https://www.karriere.at/jobs/gis-anwendungsbetr
 
 Werte Kollegen,
 
-nachdem ich auf mehrjährige Berufserfahrung in der Entwicklung moderner Informationssysteme zurückgreifen kann; mein Lebenslauf, als eine Web-Anwendung, auch geographische Gegebenheiten beinhaltet / behandelt, meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt]() sind, 
-habe ich eine [kleine GIS-Anwendung](https://observablehq.com/@nikita-sharov/metropolitan-france-map), auf Web-Standards (HTML / SVG, CSS, JavaScript) basierend, entwickelt / realisiert: konzipiert, umgesetzt, getestet, dokumentiert, mit Daten versehen und ausgerollt. Dabei habe ich gescriptet und gleichzeitig programmiert sowie mit Geodaten in drei verschiedenen Formaten hantiert, auch um meine 
+nachdem ich auf mehrjährige Berufserfahrung in der Entwicklung moderner Informationssysteme zurückgreifen kann; 
+
+mein Lebenslauf, als eine Web-Anwendung, auch geographische Gegebenheiten beinhaltet / behandelt, meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt]() sind,
+
+habe ich eine [kleine GIS-Anwendung](https://observablehq.com/@nikita-sharov/metropolitan-france-map), auf Web-Standards (HTML / SVG, CSS, JavaScript) basierend, entwickelt / realisiert: konzipiert, umgesetzt, getestet, dokumentiert, mit Daten versehen und ausgerollt. 
+
+Dabei habe ich gescriptet und gleichzeitig programmiert, während ich mit Geodaten in drei verschiedenen Formaten hantiert habe, auch um meine 
 
 > Ausgeprägte Fähigkeit und Bereitschaft zum sorgfältigen, selbstständigen, strukturierten und zielorientierten Arbeiten
 
