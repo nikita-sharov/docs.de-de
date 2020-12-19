@@ -40,7 +40,7 @@ ist wie Hausbau komplexer Häuser.
 
 > Betreuung und Verwaltung von Geodatenservern, GIS-Datenbanken und WebGIS Anwendungen
 
-Betreuung und Verwaltung eines System~~e~~s ist das Gleiche wie die Administration aller seiner Komponenten. GIS-Datenbanken werden Geodaten beinhalten, auf welche (webbasierte) GIS-Anwendungen zugreifen werden; diese Datenbanken werden auf einem oder mehreren Server/n gehostet sein – abstrakter Hardware sowie einem Bestandteil der Infrastruktur des Geoinformationssystems, einem Gefüge aus mehreren Komponenten.
+Betreuung und Verwaltung eines System~~e~~s ist das Gleiche wie die Administration seiner Komponenten. GIS-Datenbanken werden Geodaten beinhalten, auf welche (webbasierte) GIS-Anwendungen zugreifen werden; diese Datenbanken werden auf einem oder mehreren Server/n gehostet sein – abstrakter Hardware sowie einem Bestandteil der Infrastruktur des Geoinformationssystems, einem Gefüge aus mehreren Komponenten.
 
 > Erfahrung mit Geoinformationssystemen
 
