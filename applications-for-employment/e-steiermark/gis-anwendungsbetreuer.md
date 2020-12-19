@@ -6,17 +6,8 @@ Ausgeschrieben auf [karriere.at](https://www.karriere.at/jobs/gis-anwendungsbetr
 
 Werte Kollegen,
 
-nachdem ich auf mehrjährige Berufserfahrung in der Entwicklung moderner Informationssysteme zurückgreifen kann, 
-
-und während meiner nicht abgeschlossener Ausbildung an der Grazer Technik die gleichnamige Vorlesung zwei Semester lang betreut habe,
-
-mein Lebenslauf, als eine komplexe Web-Anwendung, auch geographische Gegebenheiten beinhaltet / behandelt,
-
-meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt]() sind,
-
-habe ich eine [kleine GIS-Anwendung](https://observablehq.com/@nikita-sharov/metropolitan-france-map) entwickelt / realisiert: konzipiert, umgesetzt, getestet, dokumentiert, mit Daten versehen und ausgerollt. Dabei habe ich (in JavaScript) gescriptet und gleichzeitig programmiert.
-
-Auch um meine 
+nachdem ich auf mehrjährige Berufserfahrung in der Entwicklung moderner Informationssysteme zurückgreifen kann; mein Lebenslauf, als eine Web-Anwendung, auch geographische Gegebenheiten beinhaltet / behandelt, meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt]() sind, 
+habe ich eine [kleine GIS-Anwendung](https://observablehq.com/@nikita-sharov/metropolitan-france-map), auf Web-Standards (HTML / SVG, CSS, JavaScript) basierend, entwickelt / realisiert: konzipiert, umgesetzt, getestet, dokumentiert, mit Daten versehen und ausgerollt. Dabei habe ich gescriptet und gleichzeitig programmiert sowie mit Geodaten in drei verschiedenen Formaten hantiert, auch um meine 
 
 > Ausgeprägte Fähigkeit und Bereitschaft zum sorgfältigen, selbstständigen, strukturierten und zielorientierten Arbeiten
 
@@ -28,7 +19,9 @@ zu demonstrieren,
 
 > Sicheres Auftreten, gute Kommunikations- und Teamfähigkeit	
 
-statt diese als gegeben zu deklarieren. Um auch
+statt diese als gegeben zu deklarieren. 
+
+Um auch
 
 > Hohe Flexibilität
 
@@ -36,7 +29,7 @@ zu beweisen, habe ich mir erlaubt, auf die Bugs in der vorliegenenden Stellenbes
 
 > Mitarbeit im Team der Anwendungsentwicklung komplexer GIS Anwendungen
 
-ist wie Hausbau komplexer Häuser
+ist wie Hausbau komplexer Häuser.
 
 > Technische Konzeption, Umsetzung und Administration des Geoinformationssystemes
 
