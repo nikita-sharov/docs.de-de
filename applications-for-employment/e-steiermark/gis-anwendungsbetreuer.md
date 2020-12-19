@@ -8,11 +8,11 @@ Werte Kollegen,
 
 nachdem ich auf mehrjährige Berufserfahrung in der Entwicklung moderner Informationssysteme zurückgreifen kann; 
 
-mein Lebenslauf, als eine Web-Anwendung, auch geographische Gegebenheiten beinhaltet / behandelt, meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt]() sind,
+mein Lebenslauf, als eine Web-Anwendung, auch geographische Gegebenheiten beinhaltet / behandelt, meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt](https://observablehq.com/collection/@nikita-sharov/cartography) sind,
 
 habe ich eine [kleine GIS-Anwendung](https://observablehq.com/@nikita-sharov/metropolitan-france-map), auf Web-Standards (HTML / SVG, CSS, JavaScript) basierend, entwickelt / realisiert: konzipiert, umgesetzt, getestet, dokumentiert, mit Daten versehen und ausgerollt. 
 
-Dabei habe ich gescriptet und gleichzeitig programmiert, während ich mit Geodaten in drei verschiedenen Formaten hantiert habe, auch um meine 
+Dabei habe ich gescriptet und gleichzeitig programmiert, mit Geodaten in drei verschiedenen Formaten jonglierend, auch um meine 
 
 > Ausgeprägte Fähigkeit und Bereitschaft zum sorgfältigen, selbstständigen, strukturierten und zielorientierten Arbeiten
 
@@ -24,13 +24,13 @@ zu demonstrieren,
 
 > Sicheres Auftreten, gute Kommunikations- und Teamfähigkeit	
 
-statt diese als gegeben zu deklarieren. 
+statt diese als selbstverständlich-gegeben zu deklarieren. 
 
 Um auch
 
 > Hohe Flexibilität
 
-zu beweisen, habe ich mir erlaubt, auf die Bugs in der vorliegenenden Stellenbeschreibung hinzuweisen:
+zu beweisen, habe ich mir erlaubt auf die Bugs, aus der Sicht eines technischen Redakteurs, in der vorliegenden Stellenbeschreibung hinzuweisen:
 
 > Mitarbeit im Team der Anwendungsentwicklung komplexer GIS Anwendungen
 
@@ -40,7 +40,7 @@ ist wie Hausbau komplexer Häuser.
 
 > Betreuung und Verwaltung von Geodatenservern, GIS-Datenbanken und WebGIS Anwendungen
 
-Betreuung und Verwaltung eines System~~e~~s ist das Gleiche wie die Administration aller seiner Komponenten. GIS-Datenbanken werden Geodaten beinhalten, auf welche (webbasierte) GIS-Anwendungen zugreifen werden; diese Datenbanken werden auf einem oder mehreren Server/n gehostet sein – abstrakter Hardware sowie einem Bestandteil der Infrastruktur des Geoinformationssystems,  einem Gefüge aus mehreren Komponenten.
+Betreuung und Verwaltung eines System~~e~~s ist das Gleiche wie die Administration aller seiner Komponenten. GIS-Datenbanken werden Geodaten beinhalten, auf welche (webbasierte) GIS-Anwendungen zugreifen werden; diese Datenbanken werden auf einem oder mehreren Server/n gehostet sein – abstrakter Hardware sowie einem Bestandteil der Infrastruktur des Geoinformationssystems, einem Gefüge aus mehreren Komponenten.
 
 > Erfahrung mit Geoinformationssystemen
 
