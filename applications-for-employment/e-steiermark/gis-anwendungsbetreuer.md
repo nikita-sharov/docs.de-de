@@ -6,40 +6,53 @@ Ausgeschrieben auf [karriere.at](https://www.karriere.at/jobs/gis-anwendungsbetr
 
 Werte Kollegen,
 
-um meine Fähigkeit sowie Bereitschaft zum sorgfältigen, selbstständigen, strukturierten und zielorientierten Arbeiten zu demonstrieren,
+nachdem ich auf mehrjährige Berufserfahrung in der Entwicklung moderner Informationssysteme zurückgreifen kann, 
 
-statt diese als gegeben zu deklarieren und mit einer sicheren Miene zu kommunizieren,
+und während meiner nicht abgeschlossener Ausbildung an der Grazer Technik die gleichnamige Vorlesung zwei Semester lang betreut habe,
 
-habe ich die vorliegende Stellenbeschreibung als Kundenanforderungen betrachtet
-und eine komplexe Web-GIS-Anwendung entwickelt. 
+mein Lebenslauf, als eine komplexe Web-Anwendung, auch geographische Gegebenheiten behandelt
+
+meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt sind],
+
+habe ich eine weitere GIS-Anwendung entwickelt / umgesetzt / realisiert (konzipiert, getestet, dokumentiert, mit Daten versehen und ausgerollt),
 
 Dabei habe ich (in JavaScript) gescriptet und gleichzeitig programmiert.
 
-Im Laufe der Entwicklung habe ich die . Nach einem erfolgreichen Roll-Out, pünktlich, Das System wird von mir administriert.
+Auch um meine 
+
+> Ausgeprägte Fähigkeit und Bereitschaft zum sorgfältigen, selbstständigen, strukturierten und zielorientierten Arbeiten
+
+sowie
+
+> Hohe Lernbereitschaft, Einsatzbereitschaft und Zuverlässigkeit
+
+zu demonstrieren,
+
+> Sicheres Auftreten, gute Kommunikations- und Teamfähigkeit	
+
+statt diese als gegeben zu deklarieren.
+
+Um auch
+
+> Hohe Flexibilität
+
+zu zeigen, habe ich mir erlaubt auf die Bugs in der vorliegenenden Stellenbeschreibung hinzuweisen:
+
+> Mitarbeit im Team der Anwendungsentwicklung komplexer GIS Anwendungen
+
+ist wie Hausbau komplexer Häuser
+
+> Technische Konzeption, Umsetzung und Administration des Geoinformationssystemes
+
+> Betreuung und Verwaltung von Geodatenservern, GIS-Datenbanken und WebGIS Anwendungen
+
+Betreuung und Verwaltung eines System~~e~~s ist das Gleiche wie die Administration aller seiner Komponenten. GIS-Datenbanken werden Geodaten beinhalten, auf welche (webbasierte) GIS-Anwendungen zugreifen werden; diese Datenbanken werden auf einem oder mehreren Server/n gehostet sein – abstrakter Hardware sowie einem Bestandteil der Infrastruktur des Geoinformationssystems,  einem Gefüge aus mehreren Komponenten.
+
+> Erfahrung mit Geoinformationssystemen
+
+ist das Gleiche wie
+
+> GIS-Kenntnisse von Vorteil
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
-
-## Cheat Sheet
-
-|Aufgabenbereich|Anmerkung|
-|:--|:--|
-|Mitarbeit im Team der Anwendungsentwicklung komplexer GIS Anwendungen|Mehrjährige Berufserfahrung in der Entwicklung moderner Informationssysteme (im Allgemeinen) vorhanden|
-|Technische Konzeption, Umsetzung und Administration des Geoinformationssystemes|S|
-|Betreuung und Verwaltung von Geodatenservern, GIS-Datenbanken und WebGIS Anwendungen|S. *Administration des Geoinformationssystem~~e~~s*; GIS-Datenbanken werden Geodaten beinhalten, auf welche Web-GIS-Anwendungen zugreifen werden; diese Datenbanken werden auf einem oder mehreren Server/n gehostet sein - abstrakter Hardware und einem Bestandteil der Infrastruktur des Geoinformationssystem~~e~~s, einem Gefüge aus mehreren Bestandteilen.|
-|Testen der SW-Komponenten, Bugfixing, Dokumentation, Roll-Out und Support||
-|Realisierung von Lösungen nach Kundenanforderungen|S. *~~Anwendungs~~Entwicklung komplexer GIS-Anwendungen*|
-
-|Anforderung|Anmerkung|
-|:--|:--|
-|Technische Ausbildung im Fachbereich Geospatial Technologies / Informatik|Nicht abgeschlossenes Studium in *Softwareentwicklung und Wirtschaft* (TU Graz)|
-|Einschlägige Berufserfahrung|Mehrjährige Berufserfahrung in Softwareentwicklung (-Wartung sowie -Anwendung)|
-|Erfahrung mit Geoinformationssystemen (z.B. ESRI ArcGIS)|Nur oberflächliche Kenntnisse vorhanden|
-|Kenntnisse von Datenbanksystemen (z.B. MS SQL Server)|Sehr gute Kenntnisse vorhanden|
-|Programmier- und Scripting-Kenntnisse (z.B. Python, Javascript, HTML, C#)|Sehr gute Kenntnisse vorhanden|
-|Kenntnisse in Web Technologien wie HTML, Javascript, jQuery|Sehr gute Kenntnisse vorhanden (auch in überschneidung mit *Programmier- und Scripting-Kenntnisse*), wobei jQuery (eine JavaScript-Library / in JavaScript geschriebene SW-Komponente) inzwischen als veraltet gilt (aufgrund der Entwicklung besagter Web-Technologien).|
-|GIS-Kenntnisse|S. *Erfahrung mit Geoinformationssystemen*|
-|Ausgeprägte Fähigkeit und Bereitschaft zum sorgfältigen, selbstständigen, strukturierten und zielorientierten Arbeiten|Gegeben|
-|Hohe Lernbereitschaft, Einsatzbereitschaft und Zuverlässigkeit|Gegeben|
-|Sicheres Auftreten, gute Kommunikations- und Teamfähigkeit|Jooo|
-|Hohe Flexibilität|Gegeben|
