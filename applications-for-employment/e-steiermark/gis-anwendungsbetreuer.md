@@ -8,7 +8,7 @@ Werte Kollegen,
 
 nachdem ich auf mehrjährige Berufserfahrung in der Entwicklung moderner Informationssysteme zurückgreifen kann; 
 
-mein [Lebenslauf](https://observablehq.com/@nikita-sharov/cv), als eine Web-Anwendung, auch geographische Gegebenheiten beinhaltet / behandelt, meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt](https://github.com/235u/proposals.de-de/tree/master/ScaleConverter) sind,
+mein [Lebenslauf](https://observablehq.com/@nikita-sharov/cv), als eine Web-Anwendung, auch geografische Gegebenheiten beinhaltet / behandelt, meine Kenntnisse auf dem Gebiet der Geoinformationssysteme aber [beschränkt](https://github.com/235u/proposals.de-de/tree/master/ScaleConverter) sind,
 
 habe ich eine [kleine GIS-Anwendung](https://observablehq.com/@nikita-sharov/metropolitan-france-map), auf Web-Standards (HTML / SVG, CSS, JavaScript) basierend, entwickelt / realisiert: konzipiert, umgesetzt, getestet, dokumentiert, mit Daten versorgt und ausgerollt. 
 
