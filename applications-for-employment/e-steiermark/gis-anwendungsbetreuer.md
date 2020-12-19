@@ -34,17 +34,17 @@ zu beweisen, habe ich mir erlaubt auf die Bugs, aus der Sicht eines technischen 
 
 > Mitarbeit im Team der Anwendungsentwicklung komplexer GIS Anwendungen
 
-ist wie Hausbau komplexer Häuser.
+klingt wie Hausbau komplexer Häuser.
 
 > Technische Konzeption, Umsetzung und Administration des Geoinformationssystemes
 
 > Betreuung und Verwaltung von Geodatenservern, GIS-Datenbanken und WebGIS Anwendungen
 
-Betreuung und Verwaltung eines System~~e~~s ist das Gleiche wie die Administration seiner Komponenten. GIS-Datenbanken werden Geodaten beinhalten, auf welche (webbasierte) GIS-Anwendungen zugreifen werden; diese Datenbanken werden auf einem oder mehreren Server/n gehostet sein – abstrakter Hardware sowie einem Bestandteil der Infrastruktur des Geoinformationssystems, einem Gefüge aus mehreren Komponenten.
+Betreuung und Verwaltung eines System~~e~~s wäre mit der Administration seiner Komponenten gleichzusetzen: GIS-Datenbanken werden Geodaten beinhalten, auf welche (webbasierte) GIS-Anwendungen zugreifen werden; diese Datenbanken werden auf einem oder mehreren Server/n gehostet sein – abstrakter Hardware sowie einem Bestandteil der Infrastruktur des Geoinformationssystems, einem Gefüge aus mehreren Komponenten.
 
 > Erfahrung mit Geoinformationssystemen
 
-ist das Gleiche wie
+`==`
 
 > GIS-Kenntnisse von Vorteil
 
