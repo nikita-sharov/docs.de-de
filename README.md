@@ -5,7 +5,7 @@
 ## Anschreiben
 
 
-Sollten Sie auf bedacht Geschriebenes wert legen und an meiner Ausdrucksweise, die meine Arbeitsweise wiederspiegelt, ernsthaft interessiert sein, so muss ich auf bereits Bestehendes verweisen. Individuelle Behandlung, so wie ich sie mir vorstelle, kann ich mir nicht mehr leisten.
+Sollten Sie auf bedacht Geschriebenes sowie Belegtes Wert legen und an meiner Ausdrucksweise, die meine Arbeitsweise widerspiegelt, ernsthaft interessiert sein, so muss ich auf bereits Bestehendes verweisen. Individuelle Behandlung, so wie ich sie mir vorstelle, kann ich mir pro bono nicht mehr leisten.
 
 Mit der Bitte um Ihr Verständnis,  
 Nikita Sharov
