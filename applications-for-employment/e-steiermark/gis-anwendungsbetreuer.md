@@ -12,7 +12,7 @@ mein [Lebenslauf](https://observablehq.com/@nikita-sharov/cv), als eine Web-Anwe
 
 habe ich eine [kleine GIS-Anwendung](https://observablehq.com/@nikita-sharov/metropolitan-france-map), auf Web-Standards (HTML / SVG, CSS, JavaScript) basierend, entwickelt / realisiert: konzipiert, umgesetzt, getestet, dokumentiert, mit Daten versorgt und ausgerollt. 
 
-Dabei habe ich gescriptet und gleichzeitig programmiert, mit Geodaten in drei verschiedenen Formaten jonglierend, auch um meine 
+Dabei habe ich gescriptet und gleichzeitig programmiert, mit Geodaten in drei verschiedenen Formaten hantierend, auch um meine 
 
 > Ausgeprägte Fähigkeit und Bereitschaft zum sorgfältigen, selbstständigen, strukturierten und zielorientierten Arbeiten
 
