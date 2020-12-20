@@ -2,6 +2,14 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?style=for-the-badge)](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md)
 
+## Anschreiben
+
+
+Sollten Sie auf bedacht Geschriebenes wert legen und an meiner Ausdrucksweise, die meine Arbeitsweise wiederspiegelt, ernsthaft interessiert sein, so muss ich auf bereits Bestehendes verweisen. Individuelle Behandlung, so wie ich sie mir vorstelle, kann ich mir nicht mehr leisten.
+
+Mit der Bitte um Ihr Verständnis,  
+Nikita Sharov
+
 ## Bewerbungen
 
 |Unternehmen|Position|Ausgeschrieben am|
