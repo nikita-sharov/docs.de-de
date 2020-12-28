@@ -8,7 +8,7 @@ Sehr geehrte Frau Pirchheim,
 
 > Du bist ein/e begeisterte/r Softwareentwickler*in und kannst es kaum erwarten, dein Können in die Entwicklung **innovativer Produkte** einzubringen?
 
-ich bin ein Softwareentwickler mit [Erfahrung](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md); gerne versuche ich mein [Können](https://observablehq.com/@nikita-sharov/publications) (zumindest *konzeptionelle sowie analytische Fähigkeiten*) gleich unter Beweis zu stellen:
+ich bin ein Softwareentwickler mit [Erfahrung](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md); gerne versuche ich mein Kennen und [Können](https://observablehq.com/@nikita-sharov/publications) (zumindest *konzeptionelle sowie analytische Fähigkeiten*) gleich unter Beweis zu stellen:
 
 > Konzeption, Entwicklung und Wartung von **kundenspezifischen Web-Applikationen**
 
@@ -16,13 +16,13 @@ In der Softwareentwicklung wird üblicherweise zwischen Produkt- und [Projekt-Ge
 
 > Unterstützung interner und externer Anwender*innen
 
-Weiters wird zwischen System- und Anwendungssoftware unterschieden (wobei die Grenzen verschwimmen): Für die Softwareentwickler stellt Systemsoftware ein Werkzeug dar, um damit Werkzeuge für die externen Anwender zu entwickeln (und darauf zu betreiben). Immer wieder sind die Softwareentwickler mit dem vorhandenen Werkzeug nicht zufrieden und entwickeln ihr eigenes oder passen bestehendes an. So werden sie zu internen Anwendern ihrer selbst-entwickelter bzw. -angepasster Software. Dabei wird oft das Rad neu erfunden. Hin und wieder entsteht daraus etwas Brauchbares, auch für externe Anwender.
+Weiters wird zwischen System- und Anwendungssoftware unterschieden (wobei die Grenzen verschwimmen): Für die Softwareentwickler stellt Systemsoftware ein Werkzeug dar, um damit Werkzeuge für die externen Anwender zu entwickeln (und darauf zu betreiben). Immer wieder sind die Entwickler mit dem vorhandenen Werkzeug nicht zufrieden und entwickeln ihr eigenes oder passen bestehendes an. So werden sie zu internen Anwendern ihrer selbst-entwickelter bzw. -angepasster Software.
 
-So wird es bei *kundenspezifischen Web-Applikationen*, die als Anwendungssoftware eingestuft werden, sofern die Kunden keine Software-Entwickler oder -Betreiber sind, kaum SYON-interne Anwender geben.
+So wird es bei *kundenspezifischen Web-Applikationen*, die als Anwendungssoftware eingestuft werden, sofern die Kunden keine Softwareentwickler oder -Betreiber sind, kaum SYON-interne Anwender geben.
 
 > SYON ist eine innovative Softwareagentur in Graz
 
-Nachdem nicht alle Kunden innovativ sind, kann auch eine bestehende kundenspezifische Web-Anwendung für andere Kunden interessant und damit zu einem Produkt werden.
+Nachdem nicht alle Kunden innovativ sind, kann auch eine bestehende kundenspezifische Web-Anwendung für andere Kunden interessant und als Produkt in Serie gehen, so gut wie ohne Materialkosten.
 
 ![SYON Homepage](media/homepage.png)
 
