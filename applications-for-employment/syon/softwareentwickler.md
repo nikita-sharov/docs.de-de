@@ -12,7 +12,7 @@ ich bin ein Softwareentwickler mit [Erfahrung](https://github.com/235u/proposals
 
 > Konzeption, Entwicklung und Wartung von **kundenspezifischen Web-Applikationen**
 
-In der Softwareentwicklung wird üblicherweise zwischen Produkt- und [Projekt-Geschäft](http://www.syon.at/pages/portfolio) unterschieden: So werden die Entwicklungskosten bei einem Produkt auf mehrere Kunden verteilt, die eine höhere Last tragen können, was sich in der Qualität und/oder Funktionsumfang   wiederspiegelt.
+In der Softwareentwicklung wird üblicherweise zwischen Produkt- und [Projekt-Geschäft](http://www.syon.at/pages/portfolio) unterschieden: So werden die Entwicklungskosten bei einem Produkt auf mehrere Kunden, die eine höhere Last tragen können, verteilt, was sich in der Qualität und/oder Funktionsumfang   wiederspiegelt.
 
 > Unterstützung interner und externer Anwender*innen
 
