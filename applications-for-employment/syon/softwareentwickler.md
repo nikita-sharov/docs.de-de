@@ -16,7 +16,7 @@ In der Softwareentwicklung wird üblicherweise zwischen Produkt- und [Projekt-Ge
 
 > Unterstützung interner und externer Anwender*innen
 
-Weiters wird zwischen System- und Anwendungssoftware unterschieden (wobei die Grenzen verschwimmen): Für die Softwareentwickler stellt Systemsoftware ein Werkzeug dar, um damit Werkzeuge für die externen Anwender zu entwickeln (und darauf zu betreiben). Immer wieder sind die Softwareentwickler mit dem vorhandenen Werkzeug nicht zufrieden und entwickeln ihr eigenes oder passen bestehendes an. So werden sie zu internen Anwendern ihrer selbst-entwickelter bzw. -angepasster Software. Dabei wird oft das Rad neu erfunden, was lehrreich sowie interessant sein kann. Hin und wieder entsteht dabei etwas Brauchbares, auch für externe Anwender.
+Weiters wird zwischen System- und Anwendungssoftware unterschieden (wobei die Grenzen verschwimmen): Für die Softwareentwickler stellt Systemsoftware ein Werkzeug dar, um damit Werkzeuge für die externen Anwender zu entwickeln (und darauf zu betreiben). Immer wieder sind die Softwareentwickler mit dem vorhandenen Werkzeug nicht zufrieden und entwickeln ihr eigenes oder passen bestehendes an. So werden sie zu internen Anwendern ihrer selbst-entwickelter bzw. -angepasster Software. Dabei wird oft das Rad neu erfunden. Hin und wieder entsteht daraus etwas Brauchbares, auch für externe Anwender.
 
 So wird es bei *kundenspezifischen Web-Applikationen*, die als Anwendungssoftware eingestuft werden, sofern die Kunden keine Software-Entwickler oder -Betreiber sind, kaum SYON-interne Anwender geben.
 
