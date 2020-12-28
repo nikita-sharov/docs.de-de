@@ -14,7 +14,7 @@ Nikita Sharov
 
 |Unternehmen|Position|Ausgeschrieben am|
 |:----------|:-------|:---------------:|
-|[Syon GmbH](http://www.syon.at/)|[Softwareentwickler, Senior]()|25.12.2020|
+|[Syon GmbH](http://www.syon.at/)|[Softwareentwickler, Senior](applications-for-employment/syon/softwareentwickler.md)|25.12.2020|
 |[Energie Steiermark AG](https://www.e-steiermark.com/)|[GIS Anwendungsbetreuer](applications-for-employment/e-steiermark/gis-anwendungsbetreuer.md)|14.12.2020|
 |[TU Graz Lehr- und Lerntechnologien](https://www.tugraz.at/oe/lehr-und-lerntechnologien/home/)|[Webdesigner](applications-for-employment/tugraz/webdesigner.md)|--|
 |[LearnConsult Web & Software GmbH](https://www.learnconsult.com/)|[Softwareentwickler – Senior](applications-for-employment/learnconsult/softwareentwickler-senior.md)|--|
