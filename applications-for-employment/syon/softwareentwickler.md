@@ -8,7 +8,7 @@ Sehr geehrte Frau Pirchheim,
 
 > Du bist ein/e begeisterte/r Softwareentwickler*in und kannst es kaum erwarten, dein Können in die Entwicklung **innovativer Produkte** einzubringen?
 
-ich bin ein [begeisterter Softwareentwickler](https://observablehq.com/@nikita-sharov/publications); gerne lasse ich mir [mein Kennen und Können](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md) in die Entwicklung innovativer Produkte einbringen und versuche zumindest konzeptionelle sowie analytische Fähigkeiten gleich unter Beweis zu stellen: 
+ich bin ein [begeisterter Softwareentwickler](https://observablehq.com/@nikita-sharov/publications); gerne versuche ich [mein Kennen und Können](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md)  (zumindest konzeptionelle sowie analytische Fähigkeiten) gleich unter Beweis zu stellen:
 
 > Konzeption, Entwicklung und Wartung von **kundenspezifischen Web-Applikationen**
 
@@ -28,7 +28,7 @@ HTTPS / SSL sind schon länger ein Standard (für sichere Datenübertragung im I
 
 > Wir entwickeln Enterprise-Software, SaaS Produkte sowie Apps
 
-Übersetzt: Wir entwickeln Software (-Anwendungen) für Unternehmen, die wir auch (mit-) verwaltenund vermieten, sowie (Software-) Anwendungen.
+Übersetzt: Wir entwickeln Software (-Anwendungen) für Unternehmen, die wir auch (mit-) verwaltenund vermieten, sowie (Software-) Anwendungen (für mobile Geräte).
 
 Bei **S**oftware **a**s **a** **S**ervice spricht man eher von Dienstleistungen.
 
