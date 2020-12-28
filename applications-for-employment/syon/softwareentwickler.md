@@ -30,7 +30,7 @@ HTTPS / SSL gelten schon länger als Standard.
 
 > Wir entwickeln Enterprise-Software, SaaS Produkte sowie Apps
 
-Übersetzt: Wir entwickeln Software(-Anwendungen) für Unternehmen, die wir auch  vermieten, sowie (Software-)Anwendungen für mobile Geräte.
+Übersetzt: Wir entwickeln Software für Unternehmen, Software, die sich abonnieren lässt, sowie (Software-)Anwendungen für mobile Geräte.
 
 Bei **S**oftware **a**s **a** **S**ervice spricht man eher von Dienstleistungen.
 
