@@ -14,7 +14,6 @@ Nikita Sharov
 
 |Unternehmen|Position|Ausgeschrieben am|
 |:----------|:-------|:---------------:|
-|[Syon GmbH](http://www.syon.at/)|[Softwareentwickler, Senior](applications-for-employment/syon/softwareentwickler.md)|25.12.2020|
 |[Energie Steiermark AG](https://www.e-steiermark.com/)|[GIS Anwendungsbetreuer](applications-for-employment/e-steiermark/gis-anwendungsbetreuer.md)|14.12.2020|
 |[TU Graz Lehr- und Lerntechnologien](https://www.tugraz.at/oe/lehr-und-lerntechnologien/home/)|[Webdesigner](applications-for-employment/tugraz/webdesigner.md)|--|
 |[LearnConsult Web & Software GmbH](https://www.learnconsult.com/)|[Softwareentwickler – Senior](applications-for-employment/learnconsult/softwareentwickler-senior.md)|--|
@@ -24,3 +23,9 @@ Nikita Sharov
 |[Parkside Informationstechnologie GmbH](https://www.parkside-interactive.com)|[Product Owner](applications-for-employment/parkside/product-owner.md)|11.06.2020|
 |[ACP Business Application GmbH](https://www.acp.at/standorte/detail/graz-acp-business-applications-gmbh)|[Senior Full-Stack Developer](applications-for-employment/acp/senior-full-stack-developer.md)|25.05.2020|
 |[ALTEN Austria Süd GmbH](https://www.alten.at)|[Junior / Senior Softwareentwickler](applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md)|15.05.2020|
+
+### Papierkorb
+
+|Unternehmen|Position|Ausgeschrieben am|
+|:----------|:-------|:---------------:|
+|[Syon GmbH](http://www.syon.at/)|[Softwareentwickler, Senior](applications-for-employment/syon/softwareentwickler.md)|25.12.2020|
