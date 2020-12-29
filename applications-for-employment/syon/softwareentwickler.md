@@ -12,7 +12,7 @@ ohne zu warten versuche ich mein [Können](https://observablehq.com/@nikita-shar
 
 > Konzeption, Entwicklung und Wartung von **kundenspezifischen Web-Applikationen**
 
-In der Softwareentwicklung wird üblicherweise zwischen Produkt- und [Projekt-Geschäft](http://www.syon.at/pages/portfolio) unterschieden: So werden die Entwicklungskosten bei einem Produkt auf mehrere Kunden verteilt, was sich oft in der Qualität (und/oder Funktionsumfang) wiederspiegelt.
+In der Softwareentwicklung wird üblicherweise zwischen Produkt- und [Projekt-Geschäft](http://www.syon.at/pages/portfolio) unterschieden: So werden die Entwicklungskosten bei einem Produkt auf mehrere Kunden verteilt, was sich oft in der Qualität (und/oder Funktionsumfang) widerspiegelt.
 
 > Unterstützung interner und externer Anwender*innen
 
@@ -33,7 +33,7 @@ Nikita Sharov
 
 ## Anhang
 
-In der [Datenschutzerklarung](http://www.syon.at/pages/privacy)
+In der [Datenschutzerklärung](http://www.syon.at/pages/privacy)
 
 > Stand: 13.09.2018
 
