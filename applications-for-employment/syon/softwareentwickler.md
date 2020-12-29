@@ -8,7 +8,7 @@ Sehr geehrte Frau Pirchheim,
 
 > Du bist ein/e begeisterte/r Softwareentwickler*in und kannst es kaum erwarten, dein Können in die Entwicklung **innovativer Produkte** einzubringen?
 
-ohne zu warten versuche ich mein [Können](https://observablehq.com/@nikita-sharov/publications) einzubringen, um es – zumindest *konzeptionelle sowie analytische Fähigkeiten* – gleich unter Beweis zu stellen:
+ohne zu warten, versuche ich mein [Können](https://observablehq.com/@nikita-sharov/publications) einzubringen, um es – *konzeptionelle sowie analytische Fähigkeiten* zumindest – gleich unter Beweis zu stellen:
 
 > Konzeption, Entwicklung und Wartung von **kundenspezifischen Web-Applikationen**
 
