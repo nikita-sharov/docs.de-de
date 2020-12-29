@@ -37,7 +37,7 @@ In der [Datenschutzerklärung](http://www.syon.at/pages/privacy)
 
 > Stand: 13.09.2018
 
-wird Folgendes behauptet:
+wird behauptet:
 
 > Der Schutz Ihrer persönlichen Daten ist uns [SYON] ein besonderes Anliegen.
 
