@@ -37,10 +37,12 @@ In der [Datenschutzerklarung](http://www.syon.at/pages/privacy)
 
 > Stand: 13.09.2018
 
-wird Folgendes (Stand: 28.12.2020) behauptet:
+wird Folgendes behauptet:
 
 > Der Schutz Ihrer persönlichen Daten ist uns [SYON] ein besonderes Anliegen.
 
 ![SYON Homepage](media/homepage.png)
+
+Stand: 28.12.2020
 
 > Um Ihre übermittelten Daten bestmöglich zu schützen nutzt diese Webseite eine SSL-Verschlüsselung. Sie erkennen derart verschlüsselte Verbindungen an dem Präfix “https://“ im Seitenlink in der Adresszeile Ihres Browsers. Unverschlüsselte Seite sind durch „http://“ gekennzeichnet. Sämtliche Daten, welche Sie an diese Website übermitteln können dank SSL-Verschlüsselung nicht von Dritten gelesen werden.
