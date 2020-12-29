@@ -24,13 +24,26 @@ So wird es bei *kundenspezifischen Web-Applikationen*, die als Anwendungssoftwar
 
 Nachdem nicht alle Kunden innovativ sind, kann auch eine bestehende kundenspezifische Web-Anwendung für andere Kunden interessant werden und als *Produkt* in Serie gehen, so gut wie ohne Materialkosten.
 
-![SYON Homepage](media/homepage.png)
-
-HTTPS / SSL gelten schon länger als Standard.
-
 > Wir entwickeln Enterprise-Software, SaaS Produkte sowie Apps
 
 Übersetzt: Wir entwickeln Software für Unternehmen, Software, die sich abonnieren lässt, sowie (Software-)Anwendungen für mobile Geräte.
 
 Mit freundlichen Grüßen,  
 Nikita Sharov
+
+## Anhang
+
+In der [Datenschutzerklarung](http://www.syon.at/pages/privacy)
+
+> Stand: 13.09.2018
+
+wird Folgendes behauptet:
+
+> Der Schutz Ihrer persönlichen Daten ist uns [SYON] ein besonderes Anliegen.
+
+<figure>
+  <img src="media/homepage.png" alt="SYON Homepage"/>
+  <figcaption>Stand: 28.12.2020</figcaption>
+</figure>
+
+> Um Ihre übermittelten Daten bestmöglich zu schützen nutzt diese Webseite eine SSL-Verschlüsselung. Sie erkennen derart verschlüsselte Verbindungen an dem Präfix “https://“ im Seitenlink in der Adresszeile Ihres Browsers. Unverschlüsselte Seite sind durch „http://“ gekennzeichnet. Sämtliche Daten, welche Sie an diese Website übermitteln können dank SSL-Verschlüsselung nicht von Dritten gelesen werden.
