@@ -2,7 +2,7 @@
 
 Ausgeschrieben auf [karriere.at](https://www.karriere.at/jobs/5772741)  am 25.12.2020 (s. [Druckversion](media/softwareentwickler_karriere.at.pdf)) sowie [syon.at](http://www.syon.at/pages/careers) (als *Frontend Entwickler*, s. [Druckversion](media/frontend-entwickler_syon.at.pdf); am [08.08.2020](https://web.archive.org/web/20200929173925/http://syon.at/pages/careers) oder früher)
 
-## Anschreiben
+## Anschreiben, für die Schublade geschrieben
 
 Sehr geehrte Frau Pirchheim,
 

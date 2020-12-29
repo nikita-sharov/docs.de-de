@@ -24,7 +24,7 @@ Nikita Sharov
 |[ACP Business Application GmbH](https://www.acp.at/standorte/detail/graz-acp-business-applications-gmbh)|[Senior Full-Stack Developer](applications-for-employment/acp/senior-full-stack-developer.md)|25.05.2020|
 |[ALTEN Austria Süd GmbH](https://www.alten.at)|[Junior / Senior Softwareentwickler](applications-for-employment/alten/junior-senior-softwareentwickler/motivational-letter.md)|15.05.2020|
 
-### Papierkorb
+### Schublade
 
 |Unternehmen|Position|Ausgeschrieben am|
 |:----------|:-------|:---------------:|
