@@ -31,9 +31,19 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
   - Deutsch: der zweiten Muttersprache nahe; steirischer Dialekt
   - Englisch: technisch, in Code mehr oder weniger fließend; in Wort etwas stockend, aufgrund nicht gegebener tagtäglicher Praxis
 
-## Wünschenswerte Gegebenheiten
+## Berufliches
 
-- Flexible Arbeitszeiten<sup>[<a href="#gabi">2</a>]</sup>
+- **11/2014–01/2015**: Softwareentwickler, SOLVION information management, Graz
+  - **Web-Adresse**: http://www.solvion.net/
+  - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
+  - **Firmengröße**: 30, Teamgröße: 10; Vorgehensmodelle: Scrum, Kanban
+  - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
+  - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld
+  - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
+
+## Wünschenswertes
+
+- Flexible Arbeitszeiten
 - Kaffee, Milch und Zucker
 - Lärmfreie und wohl klimatisierte Arbeitsumgebung
 - Leistungsstarke Hardware, ergonomische Ein- und Ausgabegeräte
@@ -42,11 +52,8 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 - Auch in Form einer leistungsgerechter Entlohnung
 - Was, meiner Meinung nach, betriebswirtschaftliche Transparenz voraussetzen würde
 
-<small>
-<ol start="2">
-<li id="gabi">Bubu</li>
-<li><Gambi</li>
-</ol>
-</small>
-
 ## Bildungsweg
+
+## Hinweise
+
+- Von-Daten sind inklusiv, Bis-Daten sind exklusiv
