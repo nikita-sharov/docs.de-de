@@ -46,7 +46,7 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
   - **Verantwortungsbereich**: Automatisierter Handel (Algorithmic Trading)
     - Grundlagenforschung, Konzeption, Prototyping
   - **Toolchain**: C#, Visual Studio, MS SQL
-- 08/2012 – 05/2013: Softwareentwickler, [Mensch und Maschine Austria GmbH](https://www.mum.at/), Graz
+- **08/2012 – 05/2013**: Softwareentwickler, [Mensch und Maschine Austria GmbH](https://www.mum.at/), Graz
   - **Branche**: Handel (Value Added Reselling), Software (Autodesk Platinum Partner)
   - **Firmengröße**: 700 (Konzern), Teamgröße: 2-4
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
@@ -54,6 +54,37 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
     - Weiterentwicklung einer Reihe von Erweiterungen für Autodesk AutoCAD, Inventor, Microsoft Word, Excel und einer Standalone-Anwendung (Maschinenbau, Schindler Aufzüge und Fahrtreppen)
     - Entwicklung von Erweiterungen für Autodesk AutoCAD Mechanical und Vault (Maschinenbau, Braun Maschinenfabrik)
   - **Toolchain**: C#, Visual Studio, Jira, Bamboo, Subversion, VMWare
+- **10/2011 – 08/2012**: Softwareentwickler, [UNIOPT Handel mit optischen Waren GmbH](https://web.archive.org/web/20110131112105/http://www.uniopt.at/), [Michael Pachleitner Gruppe](https://www.michaelpachleitnergroup.com/), Graz
+  - **Branche**: Großhandel, Optik
+  - **Firmengröße**: 400 (Konzern), Teamgröße: 1-3
+  - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
+  - **Verantwortungsbereich**: Web-Entwicklung (B2B Webshops; Robert La Roche, Red Bull Racing Eyewear), Systemintegration (Konzeption, Prototyping)
+  - **Toolchain**: C#, ASP.NET MVC, Visual Studio, nopCommerce, SharePoint, Dynamics AX
+- **11/2005 – 10/2011**: Softwareentwickler, [RESI Informatik & Automation GmbH](http://www.resi.cc/), Graz
+  - **Branche**: Industrie- und Gebäudeautomatisierung
+  - **Firmengröße**: 10-20, Teamgröße: 1-6
+  - **Beschäftigungsverhältnis**: Angestellter, Teilzeit, Vollzeit, abwechselnd, soweit es sich zeitlich mit dem Studium verbinden hat lassen
+  - **Verantwortungsbereich**: Systementwicklung, Produktentwicklung, Projektentwicklung:
+    - Entwicklung von Erweiterungen für AutoCAD als Planungsunterstützung für Gebäudeautomatisierung (Desktop; RESI)
+    - Produktentwicklung, (Video-) Gegensprechanlage (Client-Server; RESI)
+    - Systementwicklung, Zeiterfassung und Zutrittskontrolle (Client-Server; RESI, SFL, Bundesrechenzentrum)
+    - Produktentwicklung, Analyse-Software für medizinische Geräte (Desktop; Relux)
+    - Projektentwicklung, Automatisierung einer Stoßfänger-Fertigungsstraße (Embedded System; Saab)
+    - Projektentwicklung, Motorprüfstand für E-Motoren (Teilmodul, Embedded System; Magna Powertrain)
+    - Produktentwicklung, Steuerungssoftware eines Messgerätes zur Qualitätssicherung von Drahtlegierungen (Embedded System; BQS)
+  - **Toolchain**: C/C++, C#; Borland Builder, Visual Studio; MySQL, MS SQL; DOS, Windows, Windows CE, Linux; Subversion, Redmine, DokuWiki
+- **10/2005 – 06/2008**: Studiumassistent, [Institut für Informationssysteme und Computer Medien](https://web.archive.org/web/20080625095025/http://iicm.tugraz.at/), Technische Universität Graz
+  - **Beschäftigungsverhältnis**: Angestellter, Teilzeit, 5 Semester
+  - **Aufgabenbereich**: Betreuung Studierender, Bewertung praktischer Arbeiten
+    - **Vorlesungen**: Datenbanken, Softwarearchitektur, Moderne Informationssysteme
+  - **Toolchain**: Java, PHP; MySQL
+
+## Bildungstechnisches
+
+- **2004 – 2013**: Studium, Softwareentwicklung und Wirtschaft (ehem. Softwareentwicklung und Wissensmanagement), Technische Universität Graz
+  - 2/3 der Vorlesungen abgeschlossen (sowohl aus dem Bachelor- als auch Masterstudium), in erster Linie aus dem angewandten Bereich
+- **2001 – 2003**: Wehrdienst, Russische Föderation
+- **1994 – 2001**: Matura, Bundesrealgymnasium Kepler, Graz
 
 ## Wünschenswertes
 
@@ -65,8 +96,6 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 - Informatives Feedback (offen, direkt und zeitnah)
 - Auch in Form einer leistungsgerechter Entlohnung
 - Was, meiner Meinung nach, betriebswirtschaftliche Transparenz voraussetzen würde
-
-## Bildungstechnisches
 
 ## Hinweisendes
 
