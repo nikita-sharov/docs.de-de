@@ -33,7 +33,7 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 
 ## Berufliches
 
-- **11/2014–01/2015**: Softwareentwickler, SOLVION information management, Graz
+- **11.2014 / 01.2015**: Softwareentwickler, SOLVION information management, Graz
   - **Web-Adresse**: http://www.solvion.net/
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
   - **Firmengröße**: 30, Teamgröße: 10; Vorgehensmodelle: Scrum, Kanban
