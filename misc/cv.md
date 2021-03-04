@@ -10,10 +10,10 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 
 ## Kontaktdaten
 
-- **Adresse**: Mariatroster Straße 172/4, 8044 Graz
-- **Telefon**: +43 664 182 22 83
-- **Mail**: [nikita.sharov@235u.net](mailto:nikita.sharov@235u.net)
 - **Web**: [235u.net](https://www.235u.net)
+- **Mail**: [nikita.sharov@235u.net](mailto:nikita.sharov@235u.net)
+- **Telefon**: +43 664 182 22 83
+- **Adresse**: Mariatroster Straße 172/4, 8044 Graz
 
 ## Allgemeines
 
@@ -24,20 +24,29 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 - **Familienstand**: ledig, keine Kinder
 - **Reise- und Umzugsbereitschaft**: gegeben
 - **Führerschein**: nicht vorhanden; setzt Erreichbarkeit des Arbeitsortes mit öffentlichen Verkehrsmitteln (innerhalb einer Stunde, von dem aktuellen Wohnort aus, in eine Richtung, sofern möglich) und/oder Home-Office voraus
+- **Arbeitsverhältnis**: Anstellung / Beauftragung; befristet / unbefristet
+- **Beschäftigungsausmaß**: Teilzeit, ab 20 Stunden / Woche, bis Vollzeit
 - **Sprachkenntnisse**:
   - Russisch: Muttersprache; literarisch
   - Deutsch: der zweiten Muttersprache nahe; steirischer Dialekt
-  - Englisch: technisch, fließend in Code; in Wort stockend, aufgrund nicht gegebener tagtäglicher Praxis
+  - Englisch: technisch, in Code mehr oder weniger fließend; in Wort etwas stockend, aufgrund nicht gegebener tagtäglicher Praxis
 
-## Weitere Erwartungen
+## Wünschenswerte Gegebenheiten
 
-- Flexible Arbeitszeiten
+- Flexible Arbeitszeiten<sup>[<a href="#gabi">2</a>]</sup>
+- Kaffee, Milch und Zucker
 - Lärmfreie und wohl klimatisierte Arbeitsumgebung
 - Leistungsstarke Hardware, ergonomische Ein- und Ausgabegeräte
 - Aktuelle Software, flotte Internet-Verbindung
 - Informatives Feedback (offen, direkt und zeitnah)
-- In Form einer leistungsgerechter Entlohnung zumindest
-- Was betriebswirtschaftliche Transparenz voraussetzt
-- Kaffee, Milch und Zucker
+- Auch in Form einer leistungsgerechter Entlohnung
+- Was, meiner Meinung nach, betriebswirtschaftliche Transparenz voraussetzen würde
+
+<small>
+<ol start="2">
+<li id="gabi">Bubu</li>
+<li><Gambi</li>
+</ol>
+</small>
 
 ## Bildungsweg
