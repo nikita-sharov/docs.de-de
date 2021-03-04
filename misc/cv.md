@@ -33,13 +33,27 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 
 ## Berufliches
 
-- **11.2014 / 01.2015**: Softwareentwickler, SOLVION information management, Graz
-  - **Web-Adresse**: http://www.solvion.net/
+- **11/2014 – 01/2015**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
   - **Firmengröße**: 30, Teamgröße: 10; Vorgehensmodelle: Scrum, Kanban
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
   - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld
   - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
+- **07/2014 – 09/2014**: Softwareentwickler, [ADRIX IT Solutions](https://web.archive.org/web/20140701201452/http://adrix.ru/en/), Moskau
+  - **Branche**: IT, Dienstleistungen
+  - **Firmengröße**: 5, Teamgröße: 1
+  - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
+  - **Verantwortungsbereich**: Automatisierter Handel (Algorithmic Trading)
+    - Grundlagenforschung, Konzeption, Prototyping
+  - **Toolchain**: C#, Visual Studio, MS SQL
+- 08/2012 – 05/2013: Softwareentwickler, [Mensch und Maschine Austria GmbH](https://www.mum.at/), Graz
+  - **Branche**: Handel (Value Added Reselling), Software (Autodesk Platinum Partner)
+  - **Firmengröße**: 700 (Konzern), Teamgröße: 2-4
+  - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
+  - **Verantwortungsbereich**: Produktdatenmanagement, Systemintegration
+    - Weiterentwicklung einer Reihe von Erweiterungen für Autodesk AutoCAD, Inventor, Microsoft Word, Excel und einer Standalone-Anwendung (Maschinenbau, Schindler Aufzüge und Fahrtreppen)
+    - Entwicklung von Erweiterungen für Autodesk AutoCAD Mechanical und Vault (Maschinenbau, Braun Maschinenfabrik)
+  - **Toolchain**: C#, Visual Studio, Jira, Bamboo, Subversion, VMWare
 
 ## Wünschenswertes
 
@@ -52,8 +66,9 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 - Auch in Form einer leistungsgerechter Entlohnung
 - Was, meiner Meinung nach, betriebswirtschaftliche Transparenz voraussetzen würde
 
-## Bildungsweg
+## Bildungstechnisches
 
-## Hinweise
+## Hinweisendes
 
-- Von-Daten sind inklusiv, Bis-Daten sind exklusiv
+- Von-Daten sind inklusiv, Bis-Daten sind exklusiv.
+- Teamgrößen sind 
