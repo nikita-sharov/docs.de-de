@@ -1,12 +1,6 @@
 # Curriculum Vitae Tabularis
 
-Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwickler und nicht als Model; von einem Team, dessen Teil ich gerne wäre, würde ich mir [zuallererst](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md) Folgendes erwarten:
-
-> We as members, contributors, and leaders pledge to make participation in our community *a harassment-free experience for everyone, regardless of educational insignia, socio-economic status, nationality, or personal appearance*.
->
-> We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
-
-[Bei einem besonders bildhaften Interesse sollte man innerhalb eines Mausklicks fündig werden.]
+Softwareentwickler und Power-User mit Erfahrung
 
 ## Kontaktdaten
 
@@ -106,6 +100,16 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 - Betriebswirtschaftliche Transparenz
 - Leistungsgerechte Entlohnung
 - Kaffee, Milch und Zucker
+
+## Foto
+
+Ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwickler und nicht als Model; von einem Team, dessen Teil ich gerne wäre, würde ich mir [schlussendlich](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md) Folgendes erwarten:
+
+> We as members, contributors, and leaders pledge to make participation in our community *a harassment-free experience for everyone, regardless of educational insignia, socio-economic status, nationality, or personal appearance*.
+>
+> We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
+[Bei einem besonders bildhaften Interesse sollte man innerhalb eines Mausklicks fündig werden.]
 
 ## Hinweisendes
 
