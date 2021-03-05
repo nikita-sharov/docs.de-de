@@ -10,21 +10,19 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 
 ## Kontaktdaten
 
-- **Web**: [235u.net](https://www.235u.net)
-- **Mail**: [nikita.sharov@235u.net](mailto:nikita.sharov@235u.net)
-- **Telefon**: +43 664 182 22 83
 - **Adresse**: Mariatroster Straße 172/4, 8044 Graz
+- **Telefon**: +43 664 182 22 83
+- **Mail**: [nikita.sharov@235u.net](mailto:nikita.sharov@235u.net)
 
 ## Allgemeines
 
 - **Geburtsdatum**: 14.09.1982
 - **Geburtsort**: Moskau, Sowjetunion
 - **Staatsbürgerschaft**: Russische Föderation
-- **Aufenthaltstitel**: Daueraufenthalt-EG, freier Zugang zum Arbeitsmarkt
+- **Aufenthaltstitel**: Daueraufenthalt-EG; freier Zugang zum Arbeitsmarkt
 - **Familienstand**: ledig, keine Kinder
 - **Reise- und Umzugsbereitschaft**: gegeben
-- **Führerschein**: nicht vorhanden; setzt Erreichbarkeit des Arbeitsortes mit öffentlichen Verkehrsmitteln (innerhalb einer Stunde, von dem aktuellen Wohnort aus, in eine Richtung, sofern möglich) und/oder Home-Office voraus
-- **Arbeitsverhältnis**: Anstellung / Beauftragung; befristet / unbefristet
+- **Führerschein**: nicht vorhanden
 - **Beschäftigungsausmaß**: Teilzeit, ab 20 Stunden / Woche, bis Vollzeit
 - **Sprachkenntnisse**:
   - Russisch: Muttersprache; literarisch
@@ -33,6 +31,17 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 
 ## Berufliches
 
+- **Seit 12/2018**: Softwareentwickler, [Actin Uranium](https://235u.net), Graz
+  - **Branche**: IT, Dienstleistungen
+  - **Firmengröße**: 1, Teamgröße: 1–2
+  - **Beschäftigungsverhältnis**: Selbstsändig
+  - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
+- **12/2016 – 12/2018**: Softwareentwickler, [Smart Software GmbH](https://www.solvion.net/), Graz
+  - **Branche**: IT, Dienstleistungen (Microsoft Silver Partner)
+  - **Firmengröße**: 2–7, Teamgröße: 1–2
+  - **Beschäftigungsverhältnis**: Angestellter, Teilzeit (12/2016 – 2017-02) / Vollzeit
+  - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld
+  - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
 - **11/2014 – 01/2015**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
   - **Firmengröße**: 30, Teamgröße: 10; Vorgehensmodelle: Scrum, Kanban
@@ -84,20 +93,21 @@ Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwick
 - **2004 – 2013**: Studium, Softwareentwicklung und Wirtschaft (ehem. Softwareentwicklung und Wissensmanagement), Technische Universität Graz
   - 2/3 der Vorlesungen abgeschlossen (sowohl aus dem Bachelor- als auch Masterstudium), in erster Linie aus dem angewandten Bereich
 - **2001 – 2003**: Wehrdienst, Russische Föderation
-- **1994 – 2001**: Matura, Bundesrealgymnasium Kepler, Graz
+- **1994 – 2001**: Matura, Bundesrealgymnasium Kepler (AHS), Graz
 
 ## Wünschenswertes
 
 - Flexible Arbeitszeiten
-- Kaffee, Milch und Zucker
+- Erreichbarkeit des Arbeitsortes mit öffentlichen Verkehrsmitteln (sofern möglich innerhalb einer Stunde, von dem aktuellen Wohnort aus, in eine Richtung) und/oder Home-Office
 - Lärmfreie und wohl klimatisierte Arbeitsumgebung
 - Leistungsstarke Hardware, ergonomische Ein- und Ausgabegeräte
 - Aktuelle Software, flotte Internet-Verbindung
 - Informatives Feedback (offen, direkt und zeitnah)
-- Auch in Form einer leistungsgerechter Entlohnung
-- Was, meiner Meinung nach, betriebswirtschaftliche Transparenz voraussetzen würde
+- Betriebswirtschaftliche Transparenz
+- Leistungsgerechte Entlohnung
+- Kaffee, Milch und Zucker
 
 ## Hinweisendes
 
 - Von-Daten sind inklusiv, Bis-Daten sind exklusiv.
-- Teamgrößen sind 
+- Teamgrößen beziehen sich auf intern, maßgeblich, zu gleicher Zeit am Projekt (bzw. Produkt) Beteiligte (Leistungsträger; schließt die Ausstellung von Rechnungen und episodenhafte körperliche Anwesenheit bei Besprechungen nicht ein) 
