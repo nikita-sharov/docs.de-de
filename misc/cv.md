@@ -1,6 +1,6 @@
 # Curriculum Vitae Tabularis
 
-Softwareentwickler und Power-User mit Erfahrung
+Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/proposals/blob/master/EzparkTechnology/docs/competence.md)
 
 ## Kontaktdaten
 
@@ -56,27 +56,27 @@ Softwareentwickler und Power-User mit Erfahrung
   - **Firmengröße**: 700 (Konzern), Teamgröße: 2-4
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
   - **Verantwortungsbereich**: Produktdatenmanagement, Systemintegration; direkter Kundenkontakt
-    - Weiterentwicklung einer Reihe von Erweiterungen für Autodesk AutoCAD, Inventor, Microsoft Word, Excel und einer Standalone-Anwendung (Maschinenbau, Schindler Aufzüge und Fahrtreppen)
-    - Entwicklung von Erweiterungen für Autodesk AutoCAD Mechanical und Vault (Maschinenbau, Braun Maschinenfabrik)
+    - Weiterentwicklung einer Reihe von Erweiterungen für Autodesk AutoCAD, Inventor, Microsoft Word, Excel und einer Standalone-Anwendung <del>(Maschinenbau, Schindler Aufzüge und Fahrtreppen)</del>
+    - Entwicklung von Erweiterungen für Autodesk AutoCAD Mechanical und Vault <del>(Maschinenbau, Braun Maschinenfabrik)</del>
   - **Toolchain**: C#, Visual Studio, Jira, Bamboo, Subversion, VMWare
 - **10/2011 – 08/2012**: Softwareentwickler, [UNIOPT Handel mit optischen Waren GmbH](https://web.archive.org/web/20110131112105/http://www.uniopt.at/) ([Michael Pachleitner Gruppe](https://www.michaelpachleitnergroup.com/)), Graz
   - **Branche**: Großhandel, Optik
   - **Firmengröße**: 400 (Konzern), Teamgröße: 1-3
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
-  - **Verantwortungsbereich**: Web-Entwicklung (B2B Webshops; Robert La Roche, Red Bull Racing Eyewear), Systemintegration (Konzeption, Prototyping)
+  - **Verantwortungsbereich**: Web-Entwicklung (B2B Webshops<del>; Robert La Roche, Red Bull Racing Eyewear</del>), Systemintegration (Konzeption, Prototyping)
   - **Toolchain**: C#, ASP.NET MVC, Visual Studio, nopCommerce, SharePoint, Dynamics AX
 - **11/2005 – 10/2011**: Softwareentwickler, [RESI Informatik & Automation GmbH](http://www.resi.cc/), Graz
   - **Branche**: Industrie- und Gebäudeautomatisierung
   - **Firmengröße**: 10-20, Teamgröße: 1-6
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit, Vollzeit, abwechselnd, soweit es sich zeitlich mit dem Studium verbinden hat lassen
   - **Verantwortungsbereich**: Systementwicklung, Produktentwicklung, Projektentwicklung:
-    - Entwicklung von Erweiterungen für AutoCAD als Planungsunterstützung für Gebäudeautomatisierung (Desktop; RESI)
-    - Produktentwicklung, (Video-) Gegensprechanlage (Client-Server; RESI)
-    - Systementwicklung, Zeiterfassung und Zutrittskontrolle (Client-Server; RESI, SFL, Bundesrechenzentrum)
-    - Produktentwicklung, Analyse-Software für medizinische Geräte (Desktop; Relux)
-    - Projektentwicklung, Automatisierung einer Stoßfänger-Fertigungsstraße (Embedded System; Saab)
-    - Projektentwicklung, Motorprüfstand für E-Motoren (Teilmodul, Embedded System; Magna Powertrain)
-    - Produktentwicklung, Steuerungssoftware eines Messgerätes zur Qualitätssicherung von Drahtlegierungen (Embedded System; BQS)
+    - Entwicklung von Erweiterungen für AutoCAD als Planungsunterstützung für Gebäudeautomatisierung (Desktop<del>; RESI</del>)
+    - Produktentwicklung, (Video-) Gegensprechanlage (Client-Server<del>; RESI</del>)
+    - Systementwicklung, Zeiterfassung und Zutrittskontrolle (Client-Server<del>; RESI, SFL, Bundesrechenzentrum</del>)
+    - Produktentwicklung, Analyse-Software für medizinische Geräte (Desktop<del>; Relux</del>)
+    - Projektentwicklung, Automatisierung einer Stoßfänger-Fertigungsstraße (Embedded System<del>; Saab</del>)
+    - Projektentwicklung, Motorprüfstand für E-Motoren (Teilmodul, Embedded System<del>; Magna Powertrain</del>)
+    - Produktentwicklung, Steuerungssoftware eines Messgerätes zur Qualitätssicherung von Drahtlegierungen (Embedded System<del>; BQS</del>)
   - **Toolchain**: C/C++, C#; Borland Builder, Visual Studio; MySQL, MS SQL; DOS, Windows, Windows CE, Linux; Subversion, Redmine, DokuWiki
 - **10/2005 – 06/2008**: Studiumassistent, [Institut für Informationssysteme und Computer Medien](https://web.archive.org/web/20080625095025/http://iicm.tugraz.at/), Technische Universität Graz
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit, 5 Semester
@@ -106,7 +106,7 @@ Softwareentwickler und Power-User mit Erfahrung
 ## Hinweisendes
 
 <ol>
-<li id="english">In Code mehr oder weniger fließend; in Wort etwas stockend, aufgrund nicht gegebener tagtäglicher Praxis.</li>
+<li id="english">In Code mehr oder weniger fließend; in Wort bestimmt stockend, aufgrund nicht gegebener tagtäglicher Praxis.</li>
 <li id="team-sizes">Teamgrößen beziehen sich auf intern, maßgeblich, zu gleicher Zeit am gleichen Projekt (bzw. Produkt) Beteiligte <del>(Leistungsträger; schließt die Ausstellung von Rechnungen und episodenhafte körperliche Anwesenheit bei Besprechungen nicht ein)</del>, sofern nicht selbstständig (Einbindung in das Team des Auftraggebers)
 </li>
 <li id="timespans">Von-Daten sind inklusiv, Bis-Daten sind exklusiv.</li>
