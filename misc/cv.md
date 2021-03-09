@@ -17,6 +17,7 @@ Softwareentwickler und Power-User mit Erfahrung
 - **Familienstand**: ledig, keine Kinder
 - **Reise- und Umzugsbereitschaft**: gegeben
 - **Führerschein**: nicht vorhanden
+- **Verfügbarkeit**: sofort
 - **Beschäftigungsausmaß**: Teilzeit, ab 20 Stunden / Woche, bis Vollzeit
 - **Sprachkenntnisse**:
   - Russisch: Muttersprache<del>; literarisch</del>
@@ -35,7 +36,7 @@ Softwareentwickler und Power-User mit Erfahrung
   - **Branche**: IT, Dienstleistungen (Microsoft Silver Partner)
   - **Firmengröße**: 2–7, Teamgröße: 1–2
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit (12/2016 – 02/2017) / Vollzeit
-  - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld; Full-Stack, Back-End überwiegend
+  - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld; Full-Stack, Back-End überwiegend; direkter Kundenkontakt
   - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
 - **11/2014 – 01/2015**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
@@ -51,10 +52,10 @@ Softwareentwickler und Power-User mit Erfahrung
     - Grundlagenforschung, Konzeption, Prototyping
   - **Toolchain**: C#, Visual Studio, MS SQL
 - **08/2012 – 05/2013**: Softwareentwickler, [Mensch und Maschine Austria GmbH](https://www.mum.at/), Graz
-  - **Branche**: Handel (Value Added Reselling), Software (Autodesk Platinum Partner)
+  - **Branche**: Handel (Value Added Reselling), Software (Autodesk Platinum Partner), Maschinenbau
   - **Firmengröße**: 700 (Konzern), Teamgröße: 2-4
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
-  - **Verantwortungsbereich**: Produktdatenmanagement, Systemintegration
+  - **Verantwortungsbereich**: Produktdatenmanagement, Systemintegration; direkter Kundenkontakt
     - Weiterentwicklung einer Reihe von Erweiterungen für Autodesk AutoCAD, Inventor, Microsoft Word, Excel und einer Standalone-Anwendung (Maschinenbau, Schindler Aufzüge und Fahrtreppen)
     - Entwicklung von Erweiterungen für Autodesk AutoCAD Mechanical und Vault (Maschinenbau, Braun Maschinenfabrik)
   - **Toolchain**: C#, Visual Studio, Jira, Bamboo, Subversion, VMWare
@@ -86,18 +87,18 @@ Softwareentwickler und Power-User mit Erfahrung
 ## Bildungstechnisches
 
 - **2004 – 2013**: Studium, Softwareentwicklung und Wirtschaft (ehem. Softwareentwicklung und Wissensmanagement), Technische Universität Graz
-  - 2/3 der Vorlesungen abgeschlossen (sowohl aus dem Bachelor- als auch Masterstudium), in erster Linie aus dem angewandten Bereich
+  - 2/3 der Vorlesungen abgeschlossen (sowohl aus dem Bachelor- als auch Masterstudium),<sup>[<a href="#study">4</a>]</sup> in erster Linie aus dem angewandten Bereich
 - **2001 – 2003**: Wehrdienst, Russische Föderation
 - **1994 – 2001**: Matura, Bundesrealgymnasium Kepler (AHS), Graz
 
 ## Wünschenswertes
 
 - Flexible Arbeitszeiten
-- Erreichbarkeit des Arbeitsortes mit öffentlichen Verkehrsmitteln (sofern möglich innerhalb einer Stunde, von dem aktuellen Wohnort aus, in eine Richtung) und/oder Home-Office
+- Erreichbarkeit <del>des Arbeitsortes</del> mit öffentlichen Verkehrsmitteln<sup>[<a href="#accessibility">5</a>]</sup> und/oder Home-Office<sup>[<a href="#home-office">6</a>]</sup>
 - Lärmfreie und wohl klimatisierte Arbeitsumgebung
 - Leistungsstarke Hardware, ergonomische Ein- und Ausgabegeräte
 - Aktuelle Software, flotte Internet-Verbindung
-- Informatives Feedback (offen, direkt und zeitnah)
+- Informatives Feedback (offen, direkt und zeitnah)<sup>[<a href="#feedback">7</a>]</sup>
 - Betriebswirtschaftliche Transparenz
 - Leistungsgerechte Entlohnung
 - Kaffee, Milch und Zucker
@@ -105,15 +106,19 @@ Softwareentwickler und Power-User mit Erfahrung
 ## Hinweisendes
 
 <ol>
-<li id="english">In Code mehr oder weniger fließend; in Wort etwas stockend, aufgrund nicht gegebener tagtäglicher Praxis</li>
-<li id="team-sizes">Teamgrößen beziehen sich auf intern, maßgeblich, zu gleicher Zeit am Projekt (bzw. Produkt) Beteiligte <del>(Leistungsträger; schließt die Ausstellung von Rechnungen und episodenhafte körperliche Anwesenheit bei Besprechungen nicht ein), sofern nicht selbstständig (Einbindung in das Team des Auftraggebers)</del>
+<li id="english">In Code mehr oder weniger fließend; in Wort etwas stockend, aufgrund nicht gegebener tagtäglicher Praxis.</li>
+<li id="team-sizes">Teamgrößen beziehen sich auf intern, maßgeblich, zu gleicher Zeit am gleichen Projekt (bzw. Produkt) Beteiligte <del>(Leistungsträger; schließt die Ausstellung von Rechnungen und episodenhafte körperliche Anwesenheit bei Besprechungen nicht ein)</del>, sofern nicht selbstständig (Einbindung in das Team des Auftraggebers)
 </li>
 <li id="timespans">Von-Daten sind inklusiv, Bis-Daten sind exklusiv.</li>
+<li id="study">Abbruchgrund: Dummheit, rückblickend betrachtet.</li>
+<li id="accessibility">Innerhalb einer Stunde, sofern möglich, von dem aktuellen Wohnort aus, in eine Richtung.</li>
+<li id="home-office">Sollten die Vorteile der unmittelbaren Nähe die Fahrzeit (das Essen / den Kaffee / die Hardware / den Lärmpegel usw.) nicht aufwiegen, würde ich gerne (auch) auf Home-Office zurückgreifen können.</li>
+<li id="feedback">Auch (und / oder) in Form leistungsgerechter Entlohnung <del>(kollektivverträgliche Entlohnung wäre die einzige übliche Feedback-Form)</del>, welche, meiner Meinung nach, betriebswirtschaftliche Transparenz voraussetzen würde.</li> 
 </ol>
 
 ## Abschließendes
 
-Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwickler und nicht als Model; von einem Team, dessen Teil ich gerne wäre, würde ich mir [zuallererst](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md) Folgendes erwarten:
+Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwickler und nicht als Model; von einem Team, dessen Teil ich gerne wäre, würde ich mir [schlussendlich](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md) Folgendes erwarten:
 
 > We as members, contributors, and leaders pledge to make participation in our community **a harassment-free experience for everyone, regardless of educational insignia, socio-economic status, nationality, or personal appearance**.
 >
