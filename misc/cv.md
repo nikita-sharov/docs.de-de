@@ -113,7 +113,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 <li id="study">Abbruchgrund: Dummheit, rückblickend betrachtet.</li>
 <li id="accessibility">Innerhalb einer Stunde, sofern möglich, von dem aktuellen Wohnort aus, in eine Richtung.</li>
 <li id="home-office">Sollten die Vorteile der unmittelbaren Nähe die Fahrzeit (das Essen / den Kaffee / die Hardware / den Lärmpegel usw.) nicht aufwiegen, würde ich gerne (auch) auf Home-Office zurückgreifen können.</li>
-<li id="feedback">Auch (und / oder) in Form leistungsgerechter Entlohnung <del>(kollektivverträgliche Entlohnung wäre die einzige übliche Feedback-Form)</del>, welche, meiner Meinung nach, betriebswirtschaftliche Transparenz voraussetzen würde.</li> 
+<li id="feedback">Auch (und / oder) in Form leistungsgerechter Entlohnung <del>(kollektivverträgliche Entlohnung wäre die allgemein übliche [und oft einzige] Feedback-Form)</del>, welche, meiner Meinung nach, betriebswirtschaftliche Transparenz voraussetzen würde.</li> 
 </ol>
 
 ## Abschließendes
