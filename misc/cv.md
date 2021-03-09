@@ -29,7 +29,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 - **Seit 12/2018**: Softwareentwickler, [Actin Uranium](https://235u.net), Graz
   - **Branche**: IT, Dienstleistungen
   - **Firmengröße**: 1, Teamgröße: 1–2<sup>[<a href="#team-sizes">2</a>]
-  - **Beschäftigungsverhältnis**: Selbstsändig
+  - **Beschäftigungsverhältnis**: Selbstständig
   - **Verantwortungsbereich**: Web-Entwicklung, Visualisierung; Full-Stack, Front-End überwiegend
   - **Toolchain**: .NET (/ Core), ASP.NET (/ Core), Bootstrap, D3.js, C#, CSS, Entity Framework (/ Core), Git, GitHub, HTML, JavaScript, Markdown, Microsoft 365 / Azure (/ DevOps) / SQL Server / Visual Studio, Observable, Oracle, SQL, SQLite, SVG, TFVC, Telerik UI, Visual Studio Code
 - **12/2016 – 12/2018**:<sup>[<a href="#timespans">3</a>]</sup> Softwareentwickler, [Smart Software GmbH](https://www.solvion.net/), Graz
