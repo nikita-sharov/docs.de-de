@@ -31,13 +31,13 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
   - **Firmengröße**: 1, Teamgröße: 1–2<sup>[<a href="#team-sizes">2</a>]
   - **Beschäftigungsverhältnis**: Selbstsändig
   - **Verantwortungsbereich**: Web-Entwicklung, Visualisierung; Full-Stack, Front-End überwiegend
-  - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
+  - **Toolchain**: .NET (/ Core), ASP.NET (/ Core), Bootstrap, D3.js, C#, CSS, Entity Framework (/ Core), Git, GitHub, HTML, JavaScript, Markdown, Microsoft 365 / Azure (/ DevOps) / SQL Server / Visual Studio, Observable, Oracle, SQL, SQLite, SVG, TFVC, Telerik UI, Visual Studio Code
 - **12/2016 – 12/2018**:<sup>[<a href="#timespans">3</a>]</sup> Softwareentwickler, [Smart Software GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (Microsoft Silver Partner)
   - **Firmengröße**: 2–7, Teamgröße: 1–2
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit (12/2016 – 02/2017) / Vollzeit
   - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld; Full-Stack, Back-End überwiegend; direkter Kundenkontakt
-  - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
+  - **Toolchain**: .NET, ASP.NET (MVC), C#, Entity Framework, Git, HTML, JavaScript, Mercurial, Microsoft Azure (/ DevOps) / Visual Studio, Oracle, SQL, Telerik UI, VBA, Windows Forms, WPF
 - **11/2014 – 01/2015**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
   - **Firmengröße**: 30, Teamgröße: 1-2; Vorgehensmodelle: Scrum, Kanban
