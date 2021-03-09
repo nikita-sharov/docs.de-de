@@ -19,9 +19,9 @@ Softwareentwickler und Power-User mit Erfahrung
 - **Führerschein**: nicht vorhanden
 - **Beschäftigungsausmaß**: Teilzeit, ab 20 Stunden / Woche, bis Vollzeit
 - **Sprachkenntnisse**:
-  - Russisch: Muttersprache; literarisch
-  - Deutsch: der zweiten Muttersprache nahe; steirischer Dialekt
-  - Englisch: technisch, in Code mehr oder weniger fließend; in Wort etwas stockend, aufgrund nicht gegebener tagtäglicher Praxis
+  - Russisch: Muttersprache<del>; literarisch</del>
+  - Deutsch: der zweiten Muttersprache nahe<del>; steirischer Dialekt</del>
+  - Englisch: technisch<sup>[<a href="#englisch">1</a>]</sup>
 
 ## Berufliches
 
@@ -29,12 +29,13 @@ Softwareentwickler und Power-User mit Erfahrung
   - **Branche**: IT, Dienstleistungen
   - **Firmengröße**: 1, Teamgröße: 1–2
   - **Beschäftigungsverhältnis**: Selbstsändig
+  - **Verantwortungsbereich**: Web-Entwicklung, Visualisierung; Full-Stack, Front-End überwiegend
   - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
 - **12/2016 – 12/2018**: Softwareentwickler, [Smart Software GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (Microsoft Silver Partner)
   - **Firmengröße**: 2–7, Teamgröße: 1–2
-  - **Beschäftigungsverhältnis**: Angestellter, Teilzeit (12/2016 – 2017-02) / Vollzeit
-  - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld
+  - **Beschäftigungsverhältnis**: Angestellter, Teilzeit (12/2016 – 02/2017) / Vollzeit
+  - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld; Full-Stack, Back-End überwiegend
   - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
 - **11/2014 – 01/2015**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
@@ -101,17 +102,21 @@ Softwareentwickler und Power-User mit Erfahrung
 - Leistungsgerechte Entlohnung
 - Kaffee, Milch und Zucker
 
-## Foto
+## Hinweisendes
 
-Ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwickler und nicht als Model; von einem Team, dessen Teil ich gerne wäre, würde ich mir [schlussendlich](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md) Folgendes erwarten:
+<ol>
+<li id="englisch">In Code mehr oder weniger fließend; in Wort etwas stockend, aufgrund nicht gegebener tagtäglicher Praxis</li>
+<li>Von-Daten sind inklusiv, Bis-Daten sind exklusiv.</li>
+<li>Teamgrößen beziehen sich auf intern, maßgeblich, zu gleicher Zeit am Projekt (bzw. Produkt) Beteiligte <del>(Leistungsträger; schließt die Ausstellung von Rechnungen und episodenhafte körperliche Anwesenheit bei Besprechungen nicht ein)</del>
+</li>
+</ol>
 
-> We as members, contributors, and leaders pledge to make participation in our community *a harassment-free experience for everyone, regardless of educational insignia, socio-economic status, nationality, or personal appearance*.
+## Abschließendes
+
+Foto ist nicht Teil meines Lebenslaufes – ich bewerbe mich als Softwareentwickler und nicht als Model; von einem Team, dessen Teil ich gerne wäre, würde ich mir [zuallererst](https://github.com/nikita-sharov/.github/blob/master/CODE_OF_CONDUCT.md) Folgendes erwarten:
+
+> We as members, contributors, and leaders pledge to make participation in our community **a harassment-free experience for everyone, regardless of educational insignia, socio-economic status, nationality, or personal appearance**.
 >
 > We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 [Bei einem besonders bildhaften Interesse sollte man innerhalb eines Mausklicks fündig werden.]
-
-## Hinweisendes
-
-- Von-Daten sind inklusiv, Bis-Daten sind exklusiv.
-- Teamgrößen beziehen sich auf intern, maßgeblich, zu gleicher Zeit am Projekt (bzw. Produkt) Beteiligte (Leistungsträger; schließt die Ausstellung von Rechnungen und episodenhafte körperliche Anwesenheit bei Besprechungen nicht ein) 
