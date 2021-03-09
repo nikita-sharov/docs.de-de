@@ -21,17 +21,17 @@ Softwareentwickler und Power-User mit Erfahrung
 - **Sprachkenntnisse**:
   - Russisch: Muttersprache<del>; literarisch</del>
   - Deutsch: der zweiten Muttersprache nahe<del>; steirischer Dialekt</del>
-  - Englisch: technisch<sup>[<a href="#englisch">1</a>]</sup>
+  - Englisch: technisch<sup>[<a href="#english">1</a>]</sup>
 
 ## Berufliches
 
 - **Seit 12/2018**: Softwareentwickler, [Actin Uranium](https://235u.net), Graz
   - **Branche**: IT, Dienstleistungen
-  - **Firmengröße**: 1, Teamgröße: 1–2
+  - **Firmengröße**: 1, Teamgröße: 1–2<sup>[<a href="#team-sizes">2</a>]
   - **Beschäftigungsverhältnis**: Selbstsändig
   - **Verantwortungsbereich**: Web-Entwicklung, Visualisierung; Full-Stack, Front-End überwiegend
   - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
-- **12/2016 – 12/2018**: Softwareentwickler, [Smart Software GmbH](https://www.solvion.net/), Graz
+- **12/2016 – 12/2018**:<sup>[<a href="#timespans">3</a>]</sup> Softwareentwickler, [Smart Software GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (Microsoft Silver Partner)
   - **Firmengröße**: 2–7, Teamgröße: 1–2
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit (12/2016 – 02/2017) / Vollzeit
@@ -39,7 +39,7 @@ Softwareentwickler und Power-User mit Erfahrung
   - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
 - **11/2014 – 01/2015**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
-  - **Firmengröße**: 30, Teamgröße: 10; Vorgehensmodelle: Scrum, Kanban
+  - **Firmengröße**: 30, Teamgröße: 1-2; Vorgehensmodelle: Scrum, Kanban
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
   - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld
   - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
@@ -58,7 +58,7 @@ Softwareentwickler und Power-User mit Erfahrung
     - Weiterentwicklung einer Reihe von Erweiterungen für Autodesk AutoCAD, Inventor, Microsoft Word, Excel und einer Standalone-Anwendung (Maschinenbau, Schindler Aufzüge und Fahrtreppen)
     - Entwicklung von Erweiterungen für Autodesk AutoCAD Mechanical und Vault (Maschinenbau, Braun Maschinenfabrik)
   - **Toolchain**: C#, Visual Studio, Jira, Bamboo, Subversion, VMWare
-- **10/2011 – 08/2012**: Softwareentwickler, [UNIOPT Handel mit optischen Waren GmbH](https://web.archive.org/web/20110131112105/http://www.uniopt.at/), [Michael Pachleitner Gruppe](https://www.michaelpachleitnergroup.com/), Graz
+- **10/2011 – 08/2012**: Softwareentwickler, [UNIOPT Handel mit optischen Waren GmbH](https://web.archive.org/web/20110131112105/http://www.uniopt.at/) ([Michael Pachleitner Gruppe](https://www.michaelpachleitnergroup.com/)), Graz
   - **Branche**: Großhandel, Optik
   - **Firmengröße**: 400 (Konzern), Teamgröße: 1-3
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
@@ -105,10 +105,10 @@ Softwareentwickler und Power-User mit Erfahrung
 ## Hinweisendes
 
 <ol>
-<li id="englisch">In Code mehr oder weniger fließend; in Wort etwas stockend, aufgrund nicht gegebener tagtäglicher Praxis</li>
-<li>Von-Daten sind inklusiv, Bis-Daten sind exklusiv.</li>
-<li>Teamgrößen beziehen sich auf intern, maßgeblich, zu gleicher Zeit am Projekt (bzw. Produkt) Beteiligte <del>(Leistungsträger; schließt die Ausstellung von Rechnungen und episodenhafte körperliche Anwesenheit bei Besprechungen nicht ein)</del>
+<li id="english">In Code mehr oder weniger fließend; in Wort etwas stockend, aufgrund nicht gegebener tagtäglicher Praxis</li>
+<li id="team-sizes">Teamgrößen beziehen sich auf intern, maßgeblich, zu gleicher Zeit am Projekt (bzw. Produkt) Beteiligte <del>(Leistungsträger; schließt die Ausstellung von Rechnungen und episodenhafte körperliche Anwesenheit bei Besprechungen nicht ein), sofern nicht selbstständig (Einbindung in das Team des Auftraggebers)</del>
 </li>
+<li id="timespans">Von-Daten sind inklusiv, Bis-Daten sind exklusiv.</li>
 </ol>
 
 ## Abschließendes
