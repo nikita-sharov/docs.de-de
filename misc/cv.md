@@ -15,10 +15,10 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 - **Staatsbürgerschaft**: Russische Föderation
 - **Aufenthaltstitel**: Daueraufenthalt-EG; freier Zugang zum Arbeitsmarkt
 - **Familienstand**: ledig, keine Kinder
+- **Verfügbarkeit**: ab sofort
+- **Beschäftigungsausmaß**: Teilzeit, ab 20 Stunden / Woche, bis Vollzeit
 - **Reise- und Umzugsbereitschaft**: gegeben
 - **Führerschein**: nicht vorhanden
-- **Verfügbarkeit**: sofort
-- **Beschäftigungsausmaß**: Teilzeit, ab 20 Stunden / Woche, bis Vollzeit
 - **Sprachkenntnisse**:
   - Russisch: Muttersprache<del>; literarisch</del>
   - Deutsch: der zweiten Muttersprache nahe<del>; steirischer Dialekt</del>
@@ -37,20 +37,20 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
   - **Firmengröße**: 2–7, Teamgröße: 1–2
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit (12/2016 – 02/2017) / Vollzeit
   - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld; Full-Stack, Back-End überwiegend; direkter Kundenkontakt
-  - **Toolchain**: .NET, ASP.NET (MVC), C#, Entity Framework, Git, HTML, JavaScript, Mercurial, Microsoft Azure (/ DevOps) / Visual Studio, Oracle, SQL, Telerik UI, VBA, Windows Forms, WPF
+  - **Toolchain**: .NET, ASP.NET (MVC), C#, Entity Framework, Git, HTML, JavaScript, Mercurial, Microsoft Azure (/ DevOps) / SQL Server / Visual Studio, Oracle, SQL, Telerik UI, VBA, Visual Studio Code, Windows Forms, WPF
 - **11/2014 – 01/2015**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
   - **Firmengröße**: 30, Teamgröße: 1-2; Vorgehensmodelle: Scrum, Kanban
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
-  - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld
-  - **Toolchain**: C#, ASP.NET, PowerShell, JavaScript, HTML, CSS, Visual Studio, Visual Studio Team Services, OneNote, SharePoint, Office 365, Azure
+  - **Verantwortungsbereich**: Web-Entwicklung auf SharePoint-Basis
+  - **Toolchain**: .NET, Azure DevOps, C#, CSS, Entity Framework, JavaScript, HTML, Microsoft SharePoint / SQL Server / Visual Studio, PowerShell, TFVC, TypeScript, Yammer
 - **07/2014 – 09/2014**: Softwareentwickler, [ADRIX IT Solutions](https://web.archive.org/web/20140701201452/http://adrix.ru/en/), Moskau
   - **Branche**: IT, Dienstleistungen
   - **Firmengröße**: 5, Teamgröße: 1
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
   - **Verantwortungsbereich**: Automatisierter Handel (Algorithmic Trading)
     - Grundlagenforschung, Konzeption, Prototyping
-  - **Toolchain**: C#, Visual Studio, MS SQL
+  - **Toolchain**: .NET, C#, Microsoft SQL Server / Visual Studio
 - **08/2012 – 05/2013**: Softwareentwickler, [Mensch und Maschine Austria GmbH](https://www.mum.at/), Graz
   - **Branche**: Handel (Value Added Reselling), Software (Autodesk Platinum Partner), Maschinenbau
   - **Firmengröße**: 700 (Konzern), Teamgröße: 2-4
@@ -58,18 +58,18 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
   - **Verantwortungsbereich**: Produktdatenmanagement, Systemintegration; direkter Kundenkontakt
     - Weiterentwicklung einer Reihe von Erweiterungen für Autodesk AutoCAD, Inventor, Microsoft Word, Excel und einer Standalone-Anwendung <del>(Maschinenbau, Schindler Aufzüge und Fahrtreppen)</del>
     - Entwicklung von Erweiterungen für Autodesk AutoCAD Mechanical und Vault <del>(Maschinenbau, Braun Maschinenfabrik)</del>
-  - **Toolchain**: C#, Visual Studio, Jira, Bamboo, Subversion, VMWare
+  - **Toolchain**: .NET, Atlassian Bamboo / Jira, C#, NHibernate, Subversion, VMware, Windows Forms, WiX Toolset
 - **10/2011 – 08/2012**: Softwareentwickler, [UNIOPT Handel mit optischen Waren GmbH](https://web.archive.org/web/20110131112105/http://www.uniopt.at/) ([Michael Pachleitner Gruppe](https://www.michaelpachleitnergroup.com/)), Graz
   - **Branche**: Großhandel, Optik
   - **Firmengröße**: 400 (Konzern), Teamgröße: 1-3
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
   - **Verantwortungsbereich**: Web-Entwicklung (B2B Webshops<del>; Robert La Roche, Red Bull Racing Eyewear</del>), Systemintegration (Konzeption, Prototyping)
-  - **Toolchain**: C#, ASP.NET MVC, Visual Studio, nopCommerce, SharePoint, Dynamics AX
+  - **Toolchain**: .NET, ASP.NET, C#, HTML, CSS, Microsoft Dynamics AX / SharePoint / Visual Studio, nopCommerce
 - **11/2005 – 10/2011**: Softwareentwickler, [RESI Informatik & Automation GmbH](http://www.resi.cc/), Graz
   - **Branche**: Industrie- und Gebäudeautomatisierung
   - **Firmengröße**: 10-20, Teamgröße: 1-6
-  - **Beschäftigungsverhältnis**: Angestellter, Teilzeit, Vollzeit, abwechselnd, soweit es sich zeitlich mit dem Studium verbinden hat lassen
-  - **Verantwortungsbereich**: Systementwicklung, Produktentwicklung, Projektentwicklung:
+  - **Beschäftigungsverhältnis**: Angestellter, Teilzeit / Vollzeit
+  - **Verantwortungsbereich**: System- und Anwendungsentwicklung, Produkt- und Projektentwicklung, intern und extern (direkter Kundenkontakt):
     - Entwicklung von Erweiterungen für AutoCAD als Planungsunterstützung für Gebäudeautomatisierung (Desktop<del>; RESI</del>)
     - Produktentwicklung, (Video-) Gegensprechanlage (Client-Server<del>; RESI</del>)
     - Systementwicklung, Zeiterfassung und Zutrittskontrolle (Client-Server<del>; RESI, SFL, Bundesrechenzentrum</del>)
@@ -77,12 +77,12 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
     - Projektentwicklung, Automatisierung einer Stoßfänger-Fertigungsstraße (Embedded System<del>; Saab</del>)
     - Projektentwicklung, Motorprüfstand für E-Motoren (Teilmodul, Embedded System<del>; Magna Powertrain</del>)
     - Produktentwicklung, Steuerungssoftware eines Messgerätes zur Qualitätssicherung von Drahtlegierungen (Embedded System<del>; BQS</del>)
-  - **Toolchain**: C/C++, C#; Borland Builder, Visual Studio; MySQL, MS SQL; DOS, Windows, Windows CE, Linux; Subversion, Redmine, DokuWiki
+  - **Toolchain**: .NET, ADO.NET, Borland Builder, C/C++, C#, DokuWiki, Linux, Microsoft DOS / SQL Server / Visual Studio / Windows (CE / Vista / XP), MySQL, Notepad++, Redmine, Subversion, VBA, Windows Forms
 - **10/2005 – 06/2008**: Studiumassistent, [Institut für Informationssysteme und Computer Medien](https://web.archive.org/web/20080625095025/http://iicm.tugraz.at/), Technische Universität Graz
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit, 5 Semester
   - **Aufgabenbereich**: Betreuung Studierender, Bewertung praktischer Arbeiten
     - **Vorlesungen**: Datenbanken, Softwarearchitektur, Moderne Informationssysteme
-  - **Toolchain**: Java, PHP; MySQL
+  - **Toolchain**: Java, PHP, MySQL, Notepad++
 
 ## Bildungstechnisches
 
