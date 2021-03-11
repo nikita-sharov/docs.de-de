@@ -40,7 +40,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
   - **Toolchain**: .NET, ASP.NET (MVC), C#, Entity Framework, Git, HTML, JavaScript, Mercurial, Microsoft Azure (/ DevOps) / SQL Server / Visual Studio, Oracle, SQL, Telerik UI, VBA, Visual Studio Code, Windows Forms, WPF
 - **11/2014 – 01/2015**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
-  - **Firmengröße**: 30, Teamgröße: 1-2; Vorgehensmodelle: Scrum, Kanban
+  - **Firmengröße**: 30, Teamgröße: 1-3; Vorgehensmodelle: Scrum / Kanban<sup>[<a href="#bureaucracy">4</a>]</sup>
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
   - **Verantwortungsbereich**: Web-Entwicklung auf SharePoint-Basis
   - **Toolchain**: .NET, Azure DevOps, C#, CSS, Entity Framework, JavaScript, HTML, Microsoft SharePoint / SQL Server / Visual Studio, PowerShell, TFVC, TypeScript, Yammer
@@ -87,18 +87,18 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 ## Bildungstechnisches
 
 - **2004 – 2013**: Studium, Softwareentwicklung und Wirtschaft (ehem. Softwareentwicklung und Wissensmanagement), Technische Universität Graz
-  - 2/3 der Vorlesungen abgeschlossen (sowohl aus dem Bachelor- als auch Masterstudium),<sup>[<a href="#study">4</a>]</sup> in erster Linie aus dem angewandten Bereich
+  - 2/3 der Vorlesungen abgeschlossen (sowohl aus dem Bachelor- als auch Masterstudium),<sup>[<a href="#study">5</a>]</sup> in erster Linie aus dem angewandten Bereich
 - **2001 – 2003**: Wehrdienst, Russische Föderation
 - **1994 – 2001**: Matura, Bundesrealgymnasium Kepler (AHS), Graz
 
 ## Wünschenswertes
 
 - Flexible Arbeitszeiten
-- Erreichbarkeit <del>des Arbeitsortes</del> mit öffentlichen Verkehrsmitteln<sup>[<a href="#accessibility">5</a>]</sup> und/oder Home-Office<sup>[<a href="#home-office">6</a>]</sup>
+- Erreichbarkeit <del>des Arbeitsortes</del> mit öffentlichen Verkehrsmitteln<sup>[<a href="#accessibility">6</a>]</sup> und/oder Home-Office<sup>[<a href="#home-office">7</a>]</sup>
 - Lärmfreie und wohl klimatisierte Arbeitsumgebung
 - Leistungsstarke Hardware, ergonomische Ein- und Ausgabegeräte
 - Aktuelle Software, flotte Internet-Verbindung
-- Informatives Feedback (offen, direkt und zeitnah)<sup>[<a href="#feedback">7</a>]</sup>
+- Informatives Feedback (offen, direkt und zeitnah)<sup>[<a href="#feedback">8</a>]</sup>
 - Betriebswirtschaftliche Transparenz
 - Leistungsgerechte Entlohnung
 - Kaffee, Milch und Zucker
@@ -110,6 +110,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 <li id="team-sizes">Teamgrößen beziehen sich auf intern, maßgeblich, zu gleicher Zeit am gleichen Projekt (bzw. Produkt) Beteiligte <del>(Leistungsträger; schließt die Ausstellung von Rechnungen und episodenhafte körperliche Anwesenheit bei Besprechungen nicht ein)</del>, sofern nicht selbstständig (Einbindung in das Team des Auftraggebers)
 </li>
 <li id="timespans">Von-Daten sind inklusiv, Bis-Daten sind exklusiv.</li>
+<li id="bureaucracy">Die Vorgehensmodelle werden hier explizit erwähnt, weil , um es Scrum zu nennen und die Mode zu würdigen (Standup-Meetings mit Kollegen, die kaum eine Ahnung haben) </li>
 <li id="study">Abbruchgrund: Dummheit, rückblickend betrachtet.</li>
 <li id="accessibility">Innerhalb einer Stunde, sofern möglich, von dem aktuellen Wohnort aus, in eine Richtung.</li>
 <li id="home-office">Sollten die Vorteile der unmittelbaren Nähe die Fahrzeit (das Essen / den Kaffee / die Hardware / den Lärmpegel usw.) nicht aufwiegen, würde ich gerne (auch) auf Home-Office zurückgreifen können.</li>
