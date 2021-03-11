@@ -40,7 +40,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
   - **Toolchain**: .NET, ASP.NET (MVC), C#, Entity Framework, Git, HTML, JavaScript, Mercurial, Microsoft Azure (/ DevOps) / SQL Server / Visual Studio, Oracle, SQL, Telerik UI, VBA, Visual Studio Code, Windows Forms, WPF
 - **11/2014 – 01/2015**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
-  - **Firmengröße**: 30, Teamgröße: 1-3; Vorgehensmodelle: Scrum / Kanban<sup>[<a href="#bureaucracy">4</a>]</sup>
+  - **Firmengröße**: 30, Teamgröße: 1–3; Vorgehensmodelle: Scrum / Kanban<sup>[<a href="#bureaucracy">4</a>]</sup>
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
   - **Verantwortungsbereich**: Web-Entwicklung auf SharePoint-Basis
   - **Toolchain**: .NET, Azure DevOps, C#, CSS, Entity Framework, JavaScript, HTML, Microsoft SharePoint / SQL Server / Visual Studio, PowerShell, TFVC, TypeScript, Yammer
@@ -53,7 +53,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
   - **Toolchain**: .NET, C#, Microsoft SQL Server / Visual Studio
 - **08/2012 – 05/2013**: Softwareentwickler, [Mensch und Maschine Austria GmbH](https://www.mum.at/), Graz
   - **Branche**: Handel (Value Added Reselling), Software (Autodesk Platinum Partner), Maschinenbau
-  - **Firmengröße**: 700 (Konzern), Teamgröße: 2-4
+  - **Firmengröße**: 700 (Konzern), Teamgröße: 1–2
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
   - **Verantwortungsbereich**: Produktdatenmanagement, Systemintegration; direkter Kundenkontakt
     - Weiterentwicklung einer Reihe von Erweiterungen für Autodesk AutoCAD, Inventor, Microsoft Word, Excel und einer Standalone-Anwendung <del>(Maschinenbau, Schindler Aufzüge und Fahrtreppen)</del>
@@ -61,22 +61,22 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
   - **Toolchain**: .NET, Atlassian Bamboo / Jira, C#, NHibernate, Subversion, VMware, Windows Forms, WiX Toolset
 - **10/2011 – 08/2012**: Softwareentwickler, [UNIOPT Handel mit optischen Waren GmbH](https://web.archive.org/web/20110131112105/http://www.uniopt.at/) ([Michael Pachleitner Gruppe](https://www.michaelpachleitnergroup.com/)), Graz
   - **Branche**: Großhandel, Optik
-  - **Firmengröße**: 400 (Konzern), Teamgröße: 1-3
+  - **Firmengröße**: 400 (Konzern), Teamgröße: 1–3
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
   - **Verantwortungsbereich**: Web-Entwicklung (B2B Webshops<del>; Robert La Roche, Red Bull Racing Eyewear</del>), Systemintegration (Konzeption, Prototyping)
   - **Toolchain**: .NET, ASP.NET, C#, HTML, CSS, Microsoft Dynamics AX / SharePoint / Visual Studio, nopCommerce
 - **11/2005 – 10/2011**: Softwareentwickler, [RESI Informatik & Automation GmbH](http://www.resi.cc/), Graz
   - **Branche**: Industrie- und Gebäudeautomatisierung
-  - **Firmengröße**: 10-20, Teamgröße: 1-6
+  - **Firmengröße**: 10–20, Teamgröße: 1–6
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit / Vollzeit
-  - **Verantwortungsbereich**: System- und Anwendungsentwicklung, Produkt- und Projektentwicklung, intern und extern (direkter Kundenkontakt):
-    - Entwicklung von Erweiterungen für AutoCAD als Planungsunterstützung für Gebäudeautomatisierung (Desktop<del>; RESI</del>)
-    - Produktentwicklung, (Video-) Gegensprechanlage (Client-Server<del>; RESI</del>)
-    - Systementwicklung, Zeiterfassung und Zutrittskontrolle (Client-Server<del>; RESI, SFL, Bundesrechenzentrum</del>)
-    - Produktentwicklung, Analyse-Software für medizinische Geräte (Desktop<del>; Relux</del>)
-    - Projektentwicklung, Automatisierung einer Stoßfänger-Fertigungsstraße (Embedded System<del>; Saab</del>)
-    - Projektentwicklung, Motorprüfstand für E-Motoren (Teilmodul, Embedded System<del>; Magna Powertrain</del>)
-    - Produktentwicklung, Steuerungssoftware eines Messgerätes zur Qualitätssicherung von Drahtlegierungen (Embedded System<del>; BQS</del>)
+  - **Verantwortungsbereich**: System- und Anwendungsentwicklung, Produkt- und Projektentwicklung, intern und extern (direkter Kundenkontakt)
+    - Erweiterungen für AutoCAD als Planungsunterstützung für Gebäudeautomatisierung (Desktop)
+    - (Video-) Gegensprechanlage (Client / Server)
+    - Zeiterfassung und Zutrittskontrolle (Client / Server)
+    - Analyse-Software für medizinische Geräte (Desktop)
+    - Automatisierung einer Stoßfänger-Fertigungsstraße (Embedded System, Clients)
+    - Motorprüfstand für E-Motoren (Steuerungssoftware, Teilmodul, Embedded System)
+    - Messgerät zur Qualitätssicherung von Drahtlegierungen (Steuerungssoftware, Embedded System, Client)
   - **Toolchain**: .NET, ADO.NET, Borland Builder, C/C++, C#, DokuWiki, Linux, Microsoft DOS / SQL Server / Visual Studio / Windows (CE / Vista / XP), MySQL, Notepad++, Redmine, Subversion, VBA, Windows Forms
 - **10/2005 – 06/2008**: Studiumassistent, [Institut für Informationssysteme und Computer Medien](https://web.archive.org/web/20080625095025/http://iicm.tugraz.at/), Technische Universität Graz
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit, 5 Semester
