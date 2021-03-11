@@ -78,7 +78,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
     - Motorprüfstand für E-Motoren (Steuerungssoftware, Teilmodul, Embedded System)
     - Messgerät zur Qualitätssicherung von Drahtlegierungen (Steuerungssoftware, Embedded System, Client)
   - **Toolchain**: .NET, ADO.NET, Borland Builder, C/C++, C#, DokuWiki, Linux, Microsoft DOS / SQL Server / Visual Studio / Windows (CE / Vista / XP), MySQL, Notepad++, Redmine, Subversion, VBA, Windows Forms
-- **10/2005–06/2008**: Studiumassistent, [Institut für Informationssysteme und Computer Medien](https://web.archive.org/web/20080625095025/http://iicm.tugraz.at/), Technische Universität Graz
+- **10/2005 – 06/2008**: Studiumassistent, [Institut für Informationssysteme und Computer Medien](https://web.archive.org/web/20080625095025/http://iicm.tugraz.at/), Technische Universität Graz
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit, 5 Semester
   - **Aufgabenbereich**: Betreuung Studierender, Bewertung praktischer Arbeiten
     - **Vorlesungen**: Datenbanken, Softwarearchitektur, Moderne Informationssysteme
@@ -86,7 +86,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 
 ## Bildungstechnisches
 
-- **2004–2013**: Studium, Softwareentwicklung und Wirtschaft (ehem. Softwareentwicklung und Wissensmanagement), Technische Universität Graz
+- **2004 – 2013**: Studium, Softwareentwicklung und Wirtschaft (ehem. Softwareentwicklung und Wissensmanagement), Technische Universität Graz
   - 2/3 der Vorlesungen abgeschlossen (sowohl aus dem Bachelor- als auch Masterstudium),<sup>[<a href="#study">5</a>]</sup> in erster Linie aus dem angewandten Bereich
 - **2001 – 2003**: Wehrdienst, Russische Föderation
 - **1994 – 2001**: Matura, Bundesrealgymnasium Kepler (AHS), Graz
