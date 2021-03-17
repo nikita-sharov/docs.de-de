@@ -38,7 +38,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
   - **Beschäftigungsverhältnis**: Angestellter, Teilzeit (12/2016 – 02/2017) / Vollzeit
   - **Verantwortungsbereich**: Web-Entwicklung im Microsoft-Umfeld; Full-Stack, Back-End überwiegend; direkter Kundenkontakt
   - **Toolchain**: .NET, ASP.NET (MVC), C#, Entity Framework, Git, HTML, JavaScript, Mercurial, Microsoft Azure (/ DevOps) / SQL Server / Visual Studio, Oracle, SQL, Telerik UI, VBA, Visual Studio Code, Windows Forms, WPF
-- **11/2014 – 01/2016**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
+- **11/2014 – 02/2016**: Softwareentwickler, [SOLVION information management GmbH](https://www.solvion.net/), Graz
   - **Branche**: IT, Dienstleistungen (mehrfacher Microsoft Gold Partner)
   - **Firmengröße**: 30, Teamgröße: 1–3; Vorgehensmodelle: Scrum / Kanban<sup>[<a href="#bureaucracy">4</a>]</sup>
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
