@@ -15,8 +15,8 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 - **Staatsbürgerschaft**: Russische Föderation
 - **Aufenthaltstitel**: Daueraufenthalt-EG; freier Zugang zum Arbeitsmarkt
 - **Familienstand**: ledig, keine Kinder
-- **Verfügbarkeit**: ab sofort
 - **Beschäftigungsausmaß**: Teilzeit, ab 20 Stunden / Woche, bis Vollzeit
+- **Verfügbarkeit**: ab sofort
 - **Reise- und Umzugsbereitschaft**: gegeben
 - **Führerschein**: nicht vorhanden
 - **Sprachkenntnisse**:
