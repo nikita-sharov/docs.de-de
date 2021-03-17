@@ -87,7 +87,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 ## Bildungstechnisches
 
 - **2004 – 2013**: Studium, Softwareentwicklung und Wirtschaft (ehem. Softwareentwicklung und Wissensmanagement), Technische Universität Graz
-  - 2/3 der Vorlesungen abgeschlossen (sowohl aus dem Bachelor- als auch Masterstudium),<sup>[<a href="#study">5</a>]</sup> in erster Linie aus dem angewandten Bereich
+  - 2/3 der Vorlesungen abgeschlossen (sowohl aus dem Bachelor- als auch Masterstudium; aus dem angewandten Bereich, in erster Linie)<sup>[<a href="#study">5</a>]</sup>
 - **2001 – 2003**: Wehrdienst, Russische Föderation
 - **1994 – 2001**: Matura, Bundesrealgymnasium Kepler (AHS), Graz
 
