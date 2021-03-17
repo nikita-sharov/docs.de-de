@@ -20,9 +20,9 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 - **Reise- und Umzugsbereitschaft**: gegeben
 - **Führerschein**: nicht vorhanden
 - **Sprachkenntnisse**:
-  - Russisch: Muttersprache<del>; literarisch</del>
-  - Deutsch: der zweiten Muttersprache nahe<del>; steirischer Dialekt</del>
-  - Englisch: technisch<sup>[<a href="#english">1</a>]</sup>
+  - Russisch: Muttersprache
+  - Deutsch: der zweiten Muttersprache nahe
+  - Englisch: technisch
 
 ## Berufliches
 
@@ -56,14 +56,14 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
   - **Firmengröße**: 700 (Konzern), Teamgröße: 1–2
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
   - **Verantwortungsbereich**: Produktdatenmanagement, Systemintegration; direkter Kundenkontakt
-    - Weiterentwicklung einer Reihe von Erweiterungen für Autodesk AutoCAD, Inventor, Microsoft Word, Excel und einer Standalone-Anwendung <del>(Maschinenbau, Schindler Aufzüge und Fahrtreppen)</del>
-    - Entwicklung von Erweiterungen für Autodesk AutoCAD Mechanical und Vault <del>(Maschinenbau, Braun Maschinenfabrik)</del>
+    - Weiterentwicklung einer Reihe von Erweiterungen für Autodesk AutoCAD, Inventor, Microsoft Word, Excel und einer Standalone-Anwendung
+    - Entwicklung von Erweiterungen für Autodesk AutoCAD Mechanical und Vault
   - **Toolchain**: .NET, Atlassian Bamboo / Jira, C#, NHibernate, Subversion, VMware, Windows Forms, WiX Toolset
 - **10/2011 – 08/2012**: Softwareentwickler, [UNIOPT Handel mit optischen Waren GmbH](https://web.archive.org/web/20110131112105/http://www.uniopt.at/) ([Michael Pachleitner Gruppe](https://www.michaelpachleitnergroup.com/)), Graz
   - **Branche**: Großhandel, Optik
   - **Firmengröße**: 400 (Konzern), Teamgröße: 1–3
   - **Beschäftigungsverhältnis**: Angestellter, Vollzeit
-  - **Verantwortungsbereich**: Web-Entwicklung (B2B Webshops<del>; Robert La Roche, Red Bull Racing Eyewear</del>), Systemintegration (Konzeption, Prototyping)
+  - **Verantwortungsbereich**: Web-Entwicklung (B2B Webshops), Systemintegration (Konzeption, Prototyping)
   - **Toolchain**: .NET, ASP.NET, C#, HTML, CSS, Microsoft Dynamics AX / SharePoint / Visual Studio, nopCommerce
 - **11/2005 – 10/2011**: Softwareentwickler, [RESI Informatik & Automation GmbH](http://www.resi.cc/), Graz
   - **Branche**: Industrie- und Gebäudeautomatisierung
@@ -94,7 +94,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 ## Wünschenswertes
 
 - Flexible Arbeitszeiten
-- Erreichbarkeit <del>des Arbeitsortes</del> mit öffentlichen Verkehrsmitteln<sup>[<a href="#accessibility">6</a>]</sup> und/oder Home-Office<sup>[<a href="#home-office">7</a>]</sup>
+- Erreichbarkeit mit öffentlichen Verkehrsmitteln<sup>[<a href="#accessibility">6</a>]</sup> und/oder Home-Office<sup>[<a href="#home-office">7</a>]</sup>
 - Lärmfreie und wohl klimatisierte Arbeitsumgebung
 - Leistungsstarke Hardware, ergonomische Ein- und Ausgabegeräte
 - Aktuelle Software, flotte Internet-Verbindung
@@ -103,18 +103,18 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 - Leistungsgerechte Entlohnung
 - Kaffee, Milch und Zucker
 
-## Hinweisendes
+## Anmerkendes
 
 <ol>
 <li id="english">In Code mehr oder weniger fließend; in Wort bestimmt stockend, aufgrund nicht gegebener tagtäglicher Praxis.</li>
-<li id="team-sizes">Teamgrößen beziehen sich auf intern, maßgeblich, zu gleicher Zeit am gleichen Projekt (bzw. Produkt) Beteiligte <del>(Leistungsträger; schließt die Ausstellung von Rechnungen und episodenhafte körperliche Anwesenheit bei Besprechungen nicht ein)</del>, sofern nicht selbstständig (Einbindung in das Team des Auftraggebers)
+<li id="team-sizes">Teamgrößen beziehen sich auf intern (schließt die kundenseitig Beteiligte bei externen Projekten nicht ein), maßgeblich, zu gleicher Zeit am gleichen Projekt (bzw. Produkt) Beteiligte, sofern nicht selbstständig (Einbindung in das Team des Auftraggebers).
 </li>
 <li id="timespans">Von-Daten sind inklusiv, Bis-Daten sind exklusiv.</li>
-<li id="bureaucracy">Die Vorgehensmodelle werden hier explizit erwähnt, weil , um es Scrum zu nennen und die Mode zu würdigen (Standup-Meetings mit Kollegen, die kaum eine Ahnung haben) </li>
+<li id="bureaucracy">In einem 5–10-köpfigen Team: Dailies, Planning-Poker und Retros mit Kollegen, die bei gegenseitig ausschließenden Projekten beteiligt waren.</li>
 <li id="study">Abbruchgrund: Dummheit, rückblickend betrachtet.</li>
 <li id="accessibility">Innerhalb einer Stunde, sofern möglich, von dem aktuellen Wohnort aus, in eine Richtung.</li>
 <li id="home-office">Sollten die Vorteile der unmittelbaren Nähe die Fahrzeit (das Essen / den Kaffee / die Hardware / den Lärmpegel usw.) nicht aufwiegen, würde ich gerne (auch) auf Home-Office zurückgreifen können.</li>
-<li id="feedback">Auch (und / oder) in Form leistungsgerechter Entlohnung <del>(kollektivverträgliche Entlohnung wäre die allgemein übliche [und oft einzige] Feedback-Form)</del>, welche, meiner Meinung nach, betriebswirtschaftliche Transparenz voraussetzen würde.</li> 
+<li id="feedback">Auch (und / oder) in Form leistungsgerechter Entlohnung, welche, meiner Meinung nach, betriebswirtschaftliche Transparenz voraussetzen würde.</li> 
 </ol>
 
 ## Abschließendes
