@@ -107,7 +107,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 
 <ol>
 <li id="english">In Code mehr oder weniger fließend; in Wort bestimmt stockend, aufgrund nicht gegebener tagtäglicher Praxis.</li>
-<li id="team-sizes">Teamgrößen beziehen sich auf intern (schließt die kundenseitig Beteiligte bei externen Projekten nicht ein), maßgeblich, zu gleicher Zeit am gleichen Projekt (bzw. Produkt) Beteiligte, sofern nicht selbstständig (Einbindung in das Team des Auftraggebers).
+<li id="team-sizes">Teamgrößen beziehen sich auf intern (schließt die kundenseitig Beteiligten bei externen Projekten nicht ein), maßgeblich, zu gleicher Zeit am gleichen Projekt (bzw. Produkt) Beteiligte, sofern nicht selbstständig (Einbindung in das Team des Auftraggebers).
 </li>
 <li id="timespans">Von-Daten sind inklusiv, Bis-Daten sind exklusiv.</li>
 <li id="bureaucracy">In einem 5–10-köpfigen Team: Dailies, Planning-Poker und Retros mit Kollegen, die bei gegenseitig ausschließenden Projekten beteiligt waren.</li>
