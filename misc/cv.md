@@ -6,7 +6,7 @@ Softwareentwickler und Power-User mit [Erfahrung](https://github.com/235u/propos
 
 - **Adresse**: Mariatroster Straße 172/4, 8044 Graz
 - **Telefon**: +43 664 182 22 83
-- **Mail**: [nikita.sharov@235u.net](mailto:nikita.sharov@235u.net)
+- **Mail**: [nikita.sharov@hotmail.com](mailto:nikita.sharov@hotmail.com)
 
 ## Allgemeines
 
