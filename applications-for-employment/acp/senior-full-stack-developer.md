@@ -30,7 +30,7 @@ Nun, Begeisterung, als eine Empfindung, kann man schwer anbieten. Dienst nach Vo
 
 > Ein echtes Team statt einfach nur Kollegen und
 
-Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre, um Probleme zu behandeln, die ich allein nie lösen könnte. Von einem echten Team würde ich eine [Gesamtleistung](#gesamtleistung) erwarten, die der Leistung des besten Einzelnen oder der Summe der Einzelleistungen überlegen wäre.
+Ein weiteres Merkmal, das sich im Vorfeld, vor dem Geschäftsabschluss (in Form eines Arbeitsvertrages), kaum überprüfen lässt. Wobei ich gerne ein Bestandteil von etwas Größerem wäre, um Probleme zu behandeln, die ich allein nie lösen könnte. Von einem echten Team würde ich eine [Gesamtleistung](#gesamtleistung) erwarten, die der Leistung des besten Einzelnen (Mindesterwartung) oder der Summe der Einzelleistungen überlegen wäre.
 
 > eine Berufung statt einfach einen Beruf.
 
