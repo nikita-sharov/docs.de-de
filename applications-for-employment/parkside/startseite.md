@@ -75,7 +75,7 @@ zu verhindern. Das Denglisch-Kauderwelsche würde ich meiden. Als Gedankenstrich
 
 ## Fußzeile
 
-Als bereits Interessierter will ich die richtigen Ohren erreichen und dabei höflich bleiben, ohne Lärm für andere Ohren zu erzeugen. Ich will auch keine Entscheidungen treffen oder gar nachdenken müssen, wenn es nicht unbedingt sein muss. Als Power-User weiß ich, was Alias-Adressen sind, und wie viel Müll tagtäglich im digitalen Reißwolf landet.
+Als bereits Interessierter will ich die richtigen Ohren erreichen und dabei höflich bleiben, [ohne Lärm für andere Ohren zu erzeugen](https://youtu.be/F1fqR_rc728). Ich will auch keine Entscheidungen treffen oder gar nachdenken müssen, wenn es nicht unbedingt sein muss. Als Power-User weiß ich, was Alias-Adressen sind, und wie viel Müll tagtäglich im digitalen Reißwolf landet.
 
 > Think interactive first.  
 > Contact us.
